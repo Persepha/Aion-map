@@ -1,6 +1,6 @@
-:root {
-  --font-size-sm: 1.6rem;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 * {
   margin: 0;
@@ -8,11 +8,10 @@
   box-sizing: border-box;
 }
 
-html {
-  font-size: 62.5%;
+html, body {
+  height: 100%;
 }
 
-body {
-  font-size: var(--font-size-sm);
-  line-height: 1.5;
+#__next {
+  height: 100%;
 }
