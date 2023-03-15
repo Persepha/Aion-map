@@ -10,7 +10,7 @@ export default function Page() {
   const [currentLocation, setCurrentLocation] = useState<string>("");
 
   return (
-    <main className="flex h-full flex-col bg-black bg-opacity-70">
+    <main className="flex h-full flex-col  bg-black/60  bg-[url('/images/bg.png')] bg-cover bg-center bg-no-repeat bg-blend-darken">
       <section className="relative z-10 flex grow items-center justify-center overflow-hidden">
         <div className="overflow-auto">
           <svg
