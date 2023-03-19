@@ -19,5 +19,5 @@ html, body {
 .leaflet-container {
   height: 100%;
   width: 100%;
-  background-color: hsl(0 0% 0% / 0.5);
+  background-color: hsl(0 0% 0% / 0.6);
 }
