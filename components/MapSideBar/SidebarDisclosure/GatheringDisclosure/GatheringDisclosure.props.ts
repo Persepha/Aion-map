@@ -1,9 +1,8 @@
 import { GatheringData } from "@/utils/locations/types";
 
-export interface MapSideBarProps {
-  essencetappingData: GatheringData[];
-  locationNpcTypes: string[];
+export interface GatheringDisclosureProps {
+  title: string;
+  gatheringData: GatheringData[];
   changeGatheringMaterialVisibility(materialId: string): void;
-  changeNpcsTypeVisibility(npcType: string): void;
   isGatheringMaterialHidden(materialId: string): boolean;
 }

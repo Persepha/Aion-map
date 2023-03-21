@@ -11,3 +11,12 @@ export interface GatheringData {
   coords: MapCoordinate[];
   ingame_coords: string;
 }
+
+export interface NPCData {
+  id: string;
+  ingame_coords: string;
+  type: string;
+  lvl: number;
+  hp: number;
+  coords: MapCoordinate[];
+}

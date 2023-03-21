@@ -1,4 +1,23 @@
 @tailwind base;
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #18181b #3f3f46;;
+}
+
+*::-webkit-scrollbar {
+  width: 0.45rem;
+}
+
+*::-webkit-scrollbar-track {
+  background: #3f3f46;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #18181b;
+}
+
 @tailwind components;
 @tailwind utilities;
 
@@ -19,5 +38,5 @@ html, body {
 .leaflet-container {
   height: 100%;
   width: 100%;
-  background-color: hsl(0 0% 0% / 0.6);
+  background: hsl(0 0% 0% / 0.6) !important;
 }

@@ -1,6 +1,12 @@
 import { NextPage } from "next";
 
-import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
+import {
+  MapContainer,
+  Marker,
+  Polyline,
+  Popup,
+  TileLayer,
+} from "react-leaflet";
 import Leaflet, { CRS } from "leaflet";
 import "leaflet/dist/leaflet.css";
 import "leaflet-defaulticon-compatibility";
@@ -8,7 +14,11 @@ import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility
 
 import { MapProps } from "@/components/Map/Map.props";
 
-export const Map: NextPage<MapProps> = ({ location, essencetappingData }) => {
+export const Map: NextPage<MapProps> = ({
+  location,
+  essencetappingData,
+  npcsData,
+}) => {
   return (
     <section className="z-[1000] h-full w-full">
       <MapContainer
@@ -49,6 +59,23 @@ export const Map: NextPage<MapProps> = ({ location, essencetappingData }) => {
               <Popup>
                 {material_coords.x} {material_coords.y} <br /> Easily
                 customizable.
+              </Popup>
+            </Marker>
+          ))
+        )}
+
+        {npcsData.map((npc) =>
+          npc.coords.map((npc_coord, i) => (
+            <Marker
+              key={npc_coord.x + i + npc_coord.y}
+              position={[npc_coord.x, npc_coord.y]}
+              icon={Leaflet.icon({
+                iconUrl: `/images/npc_icons/${npc.type}.png`,
+                iconSize: [40, 40],
+              })}
+            >
+              <Popup>
+                {npc_coord.x} {npc_coord.y} <br /> {npc.id} customizable.
               </Popup>
             </Marker>
           ))
