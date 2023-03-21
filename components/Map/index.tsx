@@ -46,13 +46,15 @@ export const Map: NextPage<MapProps> = ({
           url={`/images/elysea/${location}/{z}/{x}_{y}.png`}
         />
 
+        <Marker position={[-4.1, 12.1]}></Marker>
+
         {essencetappingData.map((material, i) =>
           material.coords.map((material_coords) => (
             <Marker
               key={material_coords.x + i + material_coords.y}
               position={[material_coords.x, material_coords.y]}
               icon={Leaflet.icon({
-                iconUrl: `/images/gathering/${material.name}.png`,
+                iconUrl: `/images/gathering/${material.nameIcon}.png`,
                 iconSize: [40, 40],
               })}
             >

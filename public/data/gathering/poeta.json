@@ -1,7 +1,8 @@
 [
   {
     "id": "400701",
-    "name": "fruit07",
+    "nameIcon": "fruit07",
+    "name": "Fruit Tree",
     "gathering_type": "Berry",
     "gathering_lvl": 10,
     "coords": [
@@ -98,7 +99,8 @@
   },
   {
     "id": "400601",
-    "name": "herb01",
+    "nameIcon": "herb01",
+    "name": "Herb",
     "gathering_type": "Plant",
     "gathering_lvl": 1,
     "coords": [
@@ -407,7 +409,8 @@
   },
   {
     "id": "400201",
-    "name": "rock01e",
+    "nameIcon": "rock01e",
+    "name": "Ore",
     "gathering_type": "Noble metal",
     "gathering_lvl": 15,
     "coords": [

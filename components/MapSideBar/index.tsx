@@ -7,6 +7,7 @@ import Link from "next/link";
 
 import { MapSideBarProps } from "@/components/MapSideBar/MapSideBar.props";
 import { GatheringDisclosure } from "@/components/MapSideBar/SidebarDisclosure/GatheringDisclosure";
+import { npcData } from "@/utils/npcs/consts";
 
 export const MapSideBar: NextPage<MapSideBarProps> = ({
   essencetappingData,
@@ -101,16 +102,16 @@ export const MapSideBar: NextPage<MapSideBarProps> = ({
                   <Image
                     src={`/images/npc_icons/${npcType}.png`}
                     alt={npcType}
-                    width={50}
-                    height={57}
+                    width={npcData[npcType as keyof typeof npcData].width}
+                    height={npcData[npcType as keyof typeof npcData].height}
                   />
                   <div
                     className={`flex h-[100px] w-[272px]
                 justify-center transition duration-150 ease-in-out ${npcTypeHpBar}
                 bg-contain bg-center bg-no-repeat font-medium text-white group-hover:scale-105`}
                   >
-                    <span className="ml-4 mt-2 capitalize drop-shadow-[0_2px_10px_rgba(0,0,0,0.8)]">
-                      {npcType}
+                    <span className="ml-8 capitalize drop-shadow-[0_2px_10px_rgba(0,0,0,0.8)]">
+                      {npcData[npcType as keyof typeof npcData].name}
                     </span>
                   </div>
                 </button>

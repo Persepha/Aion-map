@@ -5,6 +5,7 @@ export interface MapCoordinate {
 
 export interface GatheringData {
   id: string;
+  nameIcon: string;
   name: string;
   gathering_type: string;
   gathering_lvl: number;

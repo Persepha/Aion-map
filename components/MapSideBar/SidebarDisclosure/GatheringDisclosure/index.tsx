@@ -25,7 +25,7 @@ export const GatheringDisclosure: NextPage<GatheringDisclosureProps> = ({
             width={40}
             height={40}
           />
-          {title}
+          {title === "essencetaping" ? "Энергокинез" : "Эфирокинез"}
         </span>
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -79,7 +79,7 @@ export const GatheringDisclosure: NextPage<GatheringDisclosureProps> = ({
                 }`}
               >
                 <Image
-                  src={`/images/gathering/${resource.name}.png`}
+                  src={`/images/gathering/${resource.nameIcon}.png`}
                   alt={resource.name}
                   height={30}
                   width={30}

@@ -63,6 +63,10 @@ export default function Page({ params }: { params: { location: string } }) {
 
   useEffect(() => {
     gatheringData && setEssencetappingMaterials(gatheringData);
+    gatheringData &&
+      setHiddenEssencetappingMaterialsId(
+        gatheringData.map((material) => material.id)
+      );
   }, [gatheringData]);
 
   const [locationNpcTypes, setLocationNpcTypes] = useState<string[]>([]);
