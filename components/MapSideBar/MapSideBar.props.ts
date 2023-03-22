@@ -6,4 +6,6 @@ export interface MapSideBarProps {
   changeGatheringMaterialVisibility(materialId: string): void;
   changeNpcsTypeVisibility(npcType: string): void;
   isGatheringMaterialHidden(materialId: string): boolean;
+  selectedFaction: string;
+  selectedLocation: string;
 }

@@ -78,7 +78,7 @@ export default function Page() {
                   key={index}
                   x={location.textX}
                   y={location.textY}
-                  className="fill-[#f4f7ad] text-xl font-bold shadow-black drop-shadow-lg"
+                  className="fill-[#f4f7ad] text-xl font-bold shadow-black drop-shadow-[0_2px_10px_rgba(0,0,0,0.8)]"
                 >
                   {location.textName}
                 </text>

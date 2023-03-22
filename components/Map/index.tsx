@@ -16,6 +16,7 @@ import { MapProps } from "@/components/Map/Map.props";
 
 export const Map: NextPage<MapProps> = ({
   location,
+  faction,
   essencetappingData,
   npcsData,
 }) => {
@@ -43,7 +44,7 @@ export const Map: NextPage<MapProps> = ({
           ]}
           noWrap={true}
           attribution="Aion map"
-          url={`/images/elysea/${location}/{z}/{x}_{y}.png`}
+          url={`/images/${faction}/${location}/{z}/{x}_{y}.png`}
         />
 
         <Marker position={[-4.1, 12.1]}></Marker>

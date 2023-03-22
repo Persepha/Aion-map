@@ -1,6 +1,9 @@
 export const elyosLocationData = [
   {
     name: "poeta",
+    textName: "Фоэта",
+    textX: "130",
+    textY: "225",
     width: "179",
     height: "79",
     x: "118",
@@ -10,6 +13,9 @@ export const elyosLocationData = [
   },
   {
     name: "eltnen",
+    textName: "Элтенен",
+    textX: "210",
+    textY: "390",
     width: "344",
     height: "239",
     x: "52",
@@ -19,6 +25,9 @@ export const elyosLocationData = [
   },
   {
     name: "heiron",
+    textName: "Интердика",
+    textX: "390",
+    textY: "405",
     width: "301",
     height: "204",
     x: "312",
@@ -28,6 +37,9 @@ export const elyosLocationData = [
   },
   {
     name: "verteron",
+    textName: "Бертрон",
+    textX: "400",
+    textY: "310",
     width: "154",
     height: "103",
     x: "311",
@@ -37,6 +49,9 @@ export const elyosLocationData = [
   },
   {
     name: "sanctum",
+    textName: "Элизиум",
+    textX: "360",
+    textY: "50",
     width: "61",
     height: "109",
     x: "347",
@@ -46,6 +61,9 @@ export const elyosLocationData = [
   },
   {
     name: "theobomos",
+    textName: "Теобомос",
+    textX: "630",
+    textY: "240",
     width: "145",
     height: "120",
     x: "606",

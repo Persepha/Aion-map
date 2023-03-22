@@ -21,3 +21,26 @@ export interface NPCData {
   hp: number;
   coords: MapCoordinate[];
 }
+
+export enum LocationEnum {
+  elysea = "Элиос",
+  asmodae = "Асмодея",
+  abyss = "Арэшурат",
+  poeta = "Фоэта",
+  verteron = "Бертрон",
+  eltnen = "Элтенен",
+  heiron = "Интердика",
+  sanctum = "Элизиум",
+  theobomos = "Теобомос",
+  ishalgen = "Исхальген",
+  altgard = "Альтгард",
+  morheim = "Морхейм",
+  beluslan = "Белуслан",
+  brusthonin = "Брустхонин",
+  pandaemonium = "Пандемониум",
+  core = "Око",
+  lower = "Нижний уровень",
+  upper = "Верхний уровень",
+}
+
+export type LocationEnumType = keyof typeof LocationEnum;
