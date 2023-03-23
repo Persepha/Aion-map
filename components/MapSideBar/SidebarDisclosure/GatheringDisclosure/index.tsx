@@ -52,9 +52,9 @@ export const GatheringDisclosure: NextPage<GatheringDisclosureProps> = ({
       >
         <Disclosure.Panel className="flex flex-col gap-2 px-4 ">
           {gatheringData.map((resource) => (
-            <div key={resource.id} className="flex gap-2">
+            <div key={resource.id} className="flex items-center gap-2">
               <button
-                className="inline-flex h-[30px] justify-center rounded-md border border-slate-50/[0.06]
+                className="inline-flex h-[30px] items-center justify-center rounded-md border border-slate-50/[0.06]
           bg-zinc-700 px-1 py-1 shadow-sm transition duration-300 ease-in-out hover:scale-105 hover:bg-zinc-900"
               >
                 <svg
@@ -86,11 +86,7 @@ export const GatheringDisclosure: NextPage<GatheringDisclosureProps> = ({
                   className="transition duration-150 ease-in-out group-hover:scale-110"
                 />
 
-                <span
-                  className={`text-lg text-slate-200 ${
-                    isGatheringMaterialHidden(resource.id) ? "line-through" : ""
-                  }`}
-                >{`${resource.gathering_lvl} - ${resource.name}`}</span>
+                <span className="text-left text-lg text-slate-200">{`${resource.gathering_lvl} - ${resource.ru_name}`}</span>
               </button>
             </div>
           ))}

@@ -12,6 +12,7 @@ import { FactionBreadcrumbs } from "@/components/FactionBreadcrumbs";
 
 export const MapSideBar: NextPage<MapSideBarProps> = ({
   essencetappingData,
+  aethertapingData,
   locationNpcTypes,
   changeGatheringMaterialVisibility,
   changeNpcsTypeVisibility,
@@ -136,18 +137,27 @@ export const MapSideBar: NextPage<MapSideBarProps> = ({
             );
           })}
         </ul>
-        <GatheringDisclosure
-          gatheringData={essencetappingData}
-          changeGatheringMaterialVisibility={changeGatheringMaterialVisibility}
-          isGatheringMaterialHidden={isGatheringMaterialHidden}
-          title="essencetaping"
-        />
-        <GatheringDisclosure
-          gatheringData={essencetappingData}
-          changeGatheringMaterialVisibility={changeGatheringMaterialVisibility}
-          isGatheringMaterialHidden={isGatheringMaterialHidden}
-          title="aethertaping"
-        />
+        {essencetappingData.length > 0 && (
+          <GatheringDisclosure
+            gatheringData={essencetappingData}
+            changeGatheringMaterialVisibility={
+              changeGatheringMaterialVisibility
+            }
+            isGatheringMaterialHidden={isGatheringMaterialHidden}
+            title="essencetaping"
+          />
+        )}
+
+        {aethertapingData.length > 0 && (
+          <GatheringDisclosure
+            gatheringData={aethertapingData}
+            changeGatheringMaterialVisibility={
+              changeGatheringMaterialVisibility
+            }
+            isGatheringMaterialHidden={isGatheringMaterialHidden}
+            title="aethertaping"
+          />
+        )}
       </nav>
     </header>
   );

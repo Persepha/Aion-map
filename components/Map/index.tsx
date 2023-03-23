@@ -17,7 +17,7 @@ import { MapProps } from "@/components/Map/Map.props";
 export const Map: NextPage<MapProps> = ({
   location,
   faction,
-  essencetappingData,
+  gatheringMarkers,
   npcsData,
 }) => {
   return (
@@ -47,9 +47,9 @@ export const Map: NextPage<MapProps> = ({
           url={`/images/${faction}/${location}/{z}/{x}_{y}.png`}
         />
 
-        <Marker position={[-4.1, 12.1]}></Marker>
+        {/*<Marker position={[-11.6, 44.2]}></Marker>*/}
 
-        {essencetappingData.map((material, i) =>
+        {gatheringMarkers.map((material, i) =>
           material.coords.map((material_coords) => (
             <Marker
               key={material_coords.x + i + material_coords.y}

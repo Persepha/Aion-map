@@ -25,18 +25,65 @@ export default function Page({
   const [gatheringData, gatheringError, gatheringIsLoading] =
     useFetch<GatheringData>(`/data/gathering/${params.location}.json`);
 
+  const [gatheringMapMarkers, setGatheringMapMarkers] = useState<
+    GatheringData[]
+  >([]);
+
+  const essencetappingMaterialsAscending = [...gatheringData]
+    .filter((material) => material.gathering_type !== "Aether")
+    .sort((a, b) => a.gathering_lvl - b.gathering_lvl);
+
+  const aethertapingMaterialsAscending = [...gatheringData]
+    .filter((material) => material.gathering_type === "Aether")
+    .sort((a, b) => a.gathering_lvl - b.gathering_lvl);
+
+  useEffect(() => {
+    const filterGatheringData = () => {
+      if (gatheringData) {
+        setGatheringMapMarkers(gatheringData);
+        setHiddenGatheringMaterialsId(
+          gatheringData.map((material) => material.id)
+        );
+      }
+    };
+
+    filterGatheringData();
+  }, [gatheringData]);
+
+  const [hiddenGatheringMaterialsId, setHiddenGatheringMaterialsId] = useState<
+    string[]
+  >([]);
+
+  useEffect(() => {
+    setGatheringMapMarkers(
+      gatheringData.filter(
+        (material) => !hiddenGatheringMaterialsId.includes(material.id)
+      )
+    );
+  }, [hiddenGatheringMaterialsId]);
+
+  const changeGatheringMaterialVisibility = (materialId: string) => {
+    hiddenGatheringMaterialsId.includes(materialId)
+      ? setHiddenGatheringMaterialsId(
+          hiddenGatheringMaterialsId.filter(
+            (hiddenMaterialId) => hiddenMaterialId !== materialId
+          )
+        )
+      : setHiddenGatheringMaterialsId([
+          ...hiddenGatheringMaterialsId,
+          materialId,
+        ]);
+  };
+
+  const isGatheringMaterialHidden = (materialId: string) => {
+    return hiddenGatheringMaterialsId.includes(materialId);
+  };
+
   const [npcsData, npcsError, npcsIsLoading] = useFetch<NPCData>(
     `/data/npcs/${params.location}.json`
   );
 
-  const [essencetappingMaterials, setEssencetappingMaterials] = useState<
-    GatheringData[]
-  >([]);
-
   const [npcs, setNpcs] = useState<NPCData[]>([]);
-
-  const [hiddenEssencetappingMaterialsId, setHiddenEssencetappingMaterialsId] =
-    useState<string[]>([]);
 
   const [hiddenNpcTypes, setHiddenNpcTypes] = useState<string[]>([]);
 
@@ -48,31 +95,6 @@ export default function Page({
       : setHiddenNpcTypes([...hiddenNpcTypes, npcType]);
   };
 
-  const changeGatheringMaterialVisibility = (materialId: string) => {
-    hiddenEssencetappingMaterialsId.includes(materialId)
-      ? setHiddenEssencetappingMaterialsId(
-          hiddenEssencetappingMaterialsId.filter(
-            (hiddenMaterialId) => hiddenMaterialId !== materialId
-          )
-        )
-      : setHiddenEssencetappingMaterialsId([
-          ...hiddenEssencetappingMaterialsId,
-          materialId,
-        ]);
-  };
-
-  const isGatheringMaterialHidden = (materialId: string) => {
-    return hiddenEssencetappingMaterialsId.includes(materialId);
-  };
-
-  useEffect(() => {
-    gatheringData && setEssencetappingMaterials(gatheringData);
-    gatheringData &&
-      setHiddenEssencetappingMaterialsId(
-        gatheringData.map((material) => material.id)
-      );
-  }, [gatheringData]);
-
   const [locationNpcTypes, setLocationNpcTypes] = useState<string[]>([]);
 
   useEffect(() => {
@@ -82,26 +104,19 @@ export default function Page({
   }, [npcsData]);
 
   useEffect(() => {
-    setEssencetappingMaterials(
-      gatheringData.filter(
-        (material) => !hiddenEssencetappingMaterialsId.includes(material.id)
-      )
-    );
-  }, [hiddenEssencetappingMaterialsId]);
-
-  useEffect(() => {
     setNpcs(npcsData.filter((npc) => !hiddenNpcTypes.includes(npc.type)));
   }, [hiddenNpcTypes]);
+
+  const locationNpcTypesAscending = [...locationNpcTypes].sort(
+    (a, b) => getNpcTypeWeight(a) - getNpcTypeWeight(b)
+  );
 
   return (
     <>
       <MapSideBar
-        essencetappingData={[...gatheringData].sort(
-          (a, b) => a.gathering_lvl - b.gathering_lvl
-        )}
-        locationNpcTypes={[...locationNpcTypes].sort(
-          (a, b) => getNpcTypeWeight(a) - getNpcTypeWeight(b)
-        )}
+        essencetappingData={essencetappingMaterialsAscending}
+        aethertapingData={aethertapingMaterialsAscending}
+        locationNpcTypes={locationNpcTypesAscending}
         changeGatheringMaterialVisibility={changeGatheringMaterialVisibility}
         changeNpcsTypeVisibility={changeNpcsTypeVisibility}
         isGatheringMaterialHidden={isGatheringMaterialHidden}
@@ -109,7 +124,7 @@ export default function Page({
         selectedLocation={params.location}
       />
       <Map
-        essencetappingData={essencetappingMaterials}
+        gatheringMarkers={gatheringMapMarkers}
         npcsData={npcs}
         location={params.location}
         faction={params.faction}
