@@ -1,4 +1,5 @@
-import { GatheringData, NPCData } from "@/utils/locations/types";
+import { GatheringData } from "@/utils/locations/types";
+import { NPCData } from "@/utils/npcs/types";
 
 export interface MapProps {
   location: string;

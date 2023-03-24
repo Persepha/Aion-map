@@ -13,6 +13,9 @@ import "leaflet-defaulticon-compatibility";
 import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css";
 
 import { MapProps } from "@/components/Map/Map.props";
+import Image from "next/image";
+import { GatheringMarkerPopup } from "@/components/GatheringMarkerPopup";
+import { NpcMarkerPopup } from "@/components/NpcMarkerPopup";
 
 export const Map: NextPage<MapProps> = ({
   location,
@@ -60,29 +63,45 @@ export const Map: NextPage<MapProps> = ({
               })}
             >
               <Popup>
-                {material_coords.x} {material_coords.y} <br /> Easily
-                customizable.
+                <GatheringMarkerPopup material={material} />
               </Popup>
             </Marker>
           ))
         )}
 
-        {npcsData.map((npc) =>
-          npc.coords.map((npc_coord, i) => (
-            <Marker
-              key={npc_coord.x + i + npc_coord.y}
-              position={[npc_coord.x, npc_coord.y]}
-              icon={Leaflet.icon({
-                iconUrl: `/images/npc_icons/${npc.type}.png`,
-                iconSize: [40, 40],
-              })}
-            >
-              <Popup>
-                {npc_coord.x} {npc_coord.y} <br /> {npc.id} customizable.
-              </Popup>
-            </Marker>
-          ))
-        )}
+        {npcsData.map((npc) => (
+          <Marker
+            key={npc.id}
+            position={[npc.core_coord.x, npc.core_coord.y]}
+            icon={Leaflet.icon({
+              iconUrl: `/images/npc_icons/${npc.type}.png`,
+              iconSize: [40, 40],
+            })}
+          >
+            <Popup>
+              <NpcMarkerPopup npc={npc} />
+              {/*{npc_coord.x} {npc_coord.y} <br /> {npc.id} customizable.*/}
+            </Popup>
+          </Marker>
+        ))}
+
+        {/*{npcsData.map((npc) =>*/}
+        {/*  npc.coords.map((npc_coord, i) => (*/}
+        {/*    <Marker*/}
+        {/*      key={npc_coord.x + i + npc_coord.y}*/}
+        {/*      position={[npc_coord.x, npc_coord.y]}*/}
+        {/*      icon={Leaflet.icon({*/}
+        {/*        iconUrl: `/images/npc_icons/${npc.type}.png`,*/}
+        {/*        iconSize: [40, 40],*/}
+        {/*      })}*/}
+        {/*    >*/}
+        {/*      <Popup>*/}
+        {/*        <NpcMarkerPopup npc={npc} />*/}
+        {/*        /!*{npc_coord.x} {npc_coord.y} <br /> {npc.id} customizable.*!/*/}
+        {/*      </Popup>*/}
+        {/*    </Marker>*/}
+        {/*  ))*/}
+        {/*)}*/}
       </MapContainer>
     </section>
   );

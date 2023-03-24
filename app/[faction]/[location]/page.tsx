@@ -3,11 +3,12 @@
 import { useEffect, useState } from "react";
 import dynamic from "next/dynamic";
 
-import { GatheringData, NPCData } from "@/utils/locations/types";
+import { GatheringData } from "@/utils/locations/types";
 import { MapProps } from "@/components/Map/Map.props";
 import { MapSideBar } from "@/components/MapSideBar";
 import { useFetch } from "@/hooks/useFetch";
 import { getNpcTypeWeight } from "@/utils/getNpcTypeWeight";
+import { NPCData } from "@/utils/npcs/types";
 
 const Map = dynamic<MapProps>(
   () => import("@/components/Map").then((module) => module.Map),

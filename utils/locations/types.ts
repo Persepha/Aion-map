@@ -14,15 +14,6 @@ export interface GatheringData {
   ingame_coords: string;
 }
 
-export interface NPCData {
-  id: string;
-  ingame_coords: string;
-  type: string;
-  lvl: number;
-  hp: number;
-  coords: MapCoordinate[];
-}
-
 export enum LocationEnum {
   elysea = "Элиос",
   asmodae = "Асмодея",

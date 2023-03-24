@@ -40,3 +40,31 @@ html, body {
   width: 100%;
   background: hsl(0 0% 0% / 0.6) !important;
 }
+
+.leaflet-popup-content-wrapper {
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%) !important;
+  background: hsl(0 0% 0% / 0.75) !important;
+}
+
+@supports (backdrop-filter: blur(1rem)) {
+  .leaflet-popup-content-wrapper  {
+    background-color: hsl(0 0% 0% / 0.5) !important;
+    backdrop-filter: blur(1rem) !important;
+  }
+  .leaflet-popup-tip {
+    background-color: hsl(0 0% 0% / 0.5) !important;
+    backdrop-filter: blur(1rem) !important;
+  }
+}
+
+.leaflet-popup-content-wrapper .leaflet-popup-content {
+}
+
+.leaflet-popup-tip {
+  background: hsl(0 0% 0% / 0.75) !important;
+  border: 1px solid white !important;
+}
+
+.leaflet-popup-close-button {
+  color: white !important;
+}
