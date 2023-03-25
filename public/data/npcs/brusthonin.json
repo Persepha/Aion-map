@@ -1,0 +1,251 @@
+[
+  {
+    "id": "ripened_frightcorn_213907",
+    "ingame_coords": "[pos:Ripened Frightcorn; 220050000 2579.0 1930.8 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Ripened Frightcorn",
+    "lvl": 22,
+    "hp": 4055,
+    "coords": [
+      {"x": -40.32667382151408, "y": 30.134101312752996}
+    ],
+    "ru_name": "Спелый Фукон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=213907",
+    "agr_radius": "10 m",
+    "ingameFindTip": "/где Спелый Фукон",
+    "core_coord": {"x": -40.32667382151408, "y": 30.134101312752996}
+  },
+  {
+    "id": "bakun_the_zombified_213909",
+    "ingame_coords": "[pos:Bakun the Zombified; 220050000 2060.8 2096.4 0.0 0] [pos:Bakun the Zombified; 220050000 2210.4 1856.7 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Bakun the Zombified",
+    "lvl": 23,
+    "hp": 4549,
+    "coords": [
+      {"x": -34.56016676298192, "y": 28.97913592857413}, {"x": -32.21977214562867, "y": 32.71523852759808}
+    ],
+    "ru_name": "Палач Фоби",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=213909",
+    "agr_radius": "10 m",
+    "ingameFindTip": "/где Палач Фоби",
+    "core_coord": {"x": -34.56016676298192, "y": 28.97913592857413}
+  },
+  {
+    "id": "botanist_aello_213910",
+    "ingame_coords": "[pos:Botanist Aello; 220050000 2798.0 1398.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Botanist Aello",
+    "lvl": 25,
+    "hp": 5176,
+    "coords": [
+      {"x": -43.75278626269298, "y": 21.82957288238187}
+    ],
+    "ru_name": "Ботаник Аэлло",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=213910",
+    "agr_radius": "10 m",
+    "ingameFindTip": "/где Ботаник Аэлло",
+    "core_coord": {"x": -43.75278626269298, "y": 21.82957288238187}
+  },
+  {
+    "id": "healer_kanar's_ghost_214579",
+    "ingame_coords": "[pos:Healer Kanar's Ghost; 220050000 1356.0 2538.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Healer Kanar's Ghost",
+    "lvl": 47,
+    "hp": 13841,
+    "coords": [
+      {"x": -21.193634937670275, "y": 39.598271100518296}
+    ],
+    "ru_name": "Кианир Древний целитель",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=214579",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Кианир Древний целитель",
+    "core_coord": {"x": -21.193634937670275, "y": 39.598271100518296}
+  },
+  {
+    "id": "thorn_beard_latulatu_214582",
+    "ingame_coords": "[pos:Thorn Beard Latulatu; 220050000 1558.0 930.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Thorn Beard Latulatu",
+    "lvl": 47,
+    "hp": 13426,
+    "coords": [
+      {"x": -24.35379344505903, "y": 14.53505466651534}
+    ],
+    "ru_name": "Ратурату Колючая Борода",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=214582",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Ратурату Колючая Борода",
+    "core_coord": {"x": -24.35379344505903, "y": 14.53505466651534}
+  },
+  {
+    "id": "vengeful_narka_214580",
+    "ingame_coords": "[pos:Vengeful Narka; 220050000 2008.0 2898.0 0.0 0] [pos:Vengeful Narka; 220050000 1808.6 2891.8 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Vengeful Narka",
+    "lvl": 48,
+    "hp": 14523,
+    "coords": [
+      {
+        "x": -31.393750515974574,
+        "y": 45.209438958877165
+      },
+      {
+        "x": -45.22022620325271,
+        "y": 0.03953769908826077
+      }
+    ],
+    "ru_name": "Наркан мститель",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=214580",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Наркан-мститель",
+    "core_coord": {
+      "x": -31.393750515974574,
+      "y": 45.209438958877165
+    }
+  },
+  {
+    "id": "rusty_scale_shalba_214581",
+    "ingame_coords": "[pos:Rusty Scale Shalba; 220050000 2654.0 2737.0 0.0 0] [pos:Rusty Scale Shalba; 220050000 2388.1 2897.1 0.0 0] [pos:Rusty Scale Shalba; 220050000 2389.9 2896.1 0.0 0] [pos:Rusty Scale Shalba; 220050000 2395.7 2907.9 0.0 0] [pos:Rusty Scale Shalba; 220050000 2384.4 2908.3 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Rusty Scale Shalba",
+    "lvl": 50,
+    "hp": 13665,
+    "coords": [
+      {
+        "x": -37.368327416824904,
+        "y": 45.179824461846934
+      },
+      {
+        "x": -45.47835796251961,
+        "y": 0.03953769908826077
+      },
+      {
+        "x": -37.340167588541235,
+        "y": 45.19541103923127
+      },
+      {
+        "x": -41.5,
+        "y": 42.7
+      },
+      {
+        "x": -37.459064641294475,
+        "y": 45.36374607498203
+      }
+    ],
+    "ru_name": "Шальба Ржавая Раковина",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=214581",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Шальба Ржавая Раковина",
+    "core_coord": {
+      "x": -37.368327416824904,
+      "y": 45.179824461846934
+    }
+  },
+  {
+    "id": "ranger_agueria_214584",
+    "ingame_coords": "[pos:Ranger Agueria; 220050000 163.8 1725.8 0.0 0] [pos:Ranger Agueria; 220050000 726.3 1966.0 0.0 0] [pos:Ranger Agueria; 220050000 296.3 2370.3 0.0 0] [pos:Ranger Agueria; 220050000 163.8 1725.8 0.0 0] [pos:Ranger Agueria; 220050000 726.3 1966.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Ranger Agueria",
+    "lvl": 50,
+    "hp": 15706,
+    "coords": [
+      {"x": -4.615318253116489, "y": 36.98440207316612}, {"x": -2.5424420044580227, "y":
+      26.93885294896531}, {"x": -11.342388343102453, "y": 30.68274883668142}
+    ],
+    "ru_name": "Бродяга Эгерия",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=214584",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Бродяга Эгерия",
+    "core_coord": {"x": -4.615318253116489, "y": 36.98440207316612}
+  },
+  {
+    "id": "farmer_havenjark_213908",
+    "ingame_coords": "[pos:Farmer Havenjark; 220050000 1915.5 2318.2 0.0 0] [pos:Farmer Havenjark; 220050000 1771.5 2411.5 0.0 0] [pos:Farmer Havenjark; 220050000 1775.7 2410.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Farmer Havenjark",
+    "lvl": 24,
+    "hp": 20636,
+    "coords": [
+      {
+        "x": -27.693861966482295,
+        "y": 37.626569061400524
+      },
+      {
+        "x": -29.946648229175267,
+        "y": 36.172341391442515
+      },
+      {
+        "x": -37.69529431189631,
+        "y": 0.03953769908826077
+      }
+    ],
+    "ru_name": "Фермер Хабеньяка",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=213908",
+    "agr_radius": "30 m",
+    "ingameFindTip": "/где Фермер Хабеньяка",
+    "core_coord": {
+      "x": -27.693861966482295,
+      "y": 37.626569061400524
+    }
+  },
+  {
+    "id": "chief_mate_devahanson_214586",
+    "ingame_coords": "[pos:Chief Mate Devahanson; 220050000 231.4 93.7 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Chief Mate Devahanson",
+    "lvl": 48,
+    "hp": 60349,
+    "coords": [
+      {"x": -3.6000000000000023, "y": 1.5}
+    ],
+    "ru_name": "Первый советник Дебахан",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=214586",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Первый советник Дебахан",
+    "core_coord": {"x": -3.6000000000000023, "y": 1.5}
+  },
+  {
+    "id": "elder_kitarpa_214585",
+    "ingame_coords": "[pos:Elder Kitarpa; 220050000 611.8 2706.6 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Elder Kitarpa",
+    "lvl": 50,
+    "hp": 65152,
+    "coords": [
+      {"x": -9.55111037728061, "y": 42.22616804751637}
+    ],
+    "ru_name": "Старейшина Китарпа",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=214585",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Старейшина Китарпа",
+    "core_coord": {"x": -9.55111037728061, "y": 42.22616804751637}
+  },
+  {
+    "id": "unfaithful_ntuamu_214603",
+    "ingame_coords": "[pos:Unfaithful Ntuamu; 220050000 1834.1 887.2 0.0 0] [pos:Unfaithful Ntuamu; 220050000 1834.1 887.2 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Unfaithful Ntuamu",
+    "lvl": 50,
+    "hp": 176897,
+    "coords": [
+      {
+        "x": -28.673198216791878,
+        "y": 13.86794915446601
+      },
+      {
+        "x": -13.859564104680924,
+        "y": 0.03953769908826077
+      }
+    ],
+    "ru_name": "Нутаму",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=214603",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Нутаму",
+    "core_coord": {
+      "x": -28.673198216791878,
+      "y": 13.86794915446601
+    }
+  }
+]

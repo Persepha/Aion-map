@@ -1,0 +1,1898 @@
+[
+  {
+    "id": "head_hamok_212641",
+    "ingame_coords": "[pos:Head Hamok; 220020000 171.8 1678.9 0.0 0] [pos:Head Hamok; 220020000 171.8 1678.8 0.0 0] [pos:Head Hamok; 220020000 288.9 1716.5 0.0 0] [pos:Head Hamok; 220020000 175.6 1680.1 0.0 0] [pos:Head Hamok; 220020000 176.3 1680.8 0.0 0] [pos:Head Hamok; 220020000 229.1 1768.0 0.0 0] [pos:Head Hamok; 220020000 237.4 1713.0 0.0 0] [pos:Head Hamok; 220020000 224.1 1715.4 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Head Hamok",
+    "lvl": 22,
+    "hp": 4239,
+    "coords": [
+      {
+        "x": -2.7979814807640175,
+        "y": 26.226649765400328
+      },
+      {
+        "x": -2.7870520320793477,
+        "y": 26.21571060995913
+      },
+      {
+        "x": -3.75196621595444,
+        "y": 26.729850915695472
+      },
+      {
+        "x": -3.6223741815505037,
+        "y": 27.589355986075372
+      },
+      {
+        "x": -2.7277207392197145,
+        "y": 26.195395035568332
+      },
+      {
+        "x": -4.556061369183683,
+        "y": 26.784546692901465
+      },
+      {
+        "x": -2.7277207392197145,
+        "y": 26.196957772059935
+      }
+    ],
+    "ru_name": "Вождь Хамок",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212641",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Вождь Хамок",
+    "core_coord": {
+      "x": -2.7979814807640175,
+      "y": 26.226649765400328
+    }
+  },
+  {
+    "id": "azure_fungen_212642",
+    "ingame_coords": "[pos:Azure Fungen; 220020000 1014.0 2705.6 0.0 0] [pos:Azure Fungen; 220020000 1013.7 2705.6 0.0 0] [pos:Azure Fungen; 220020000 1014.0 2705.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Azure Fungen",
+    "lvl": 23,
+    "hp": 3362,
+    "coords": [
+      {
+        "x": -15.872724807252723,
+        "y": 42.241573331315266
+      },
+      {
+        "x": -15.87740885668901,
+        "y": 42.241573331315266
+      }
+    ],
+    "ru_name": "Пом Пом Кварцеголовый",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212642",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Пом-Пом Кварцеголовый",
+    "core_coord": {
+      "x": -15.872724807252723,
+      "y": 42.241573331315266
+    }
+  },
+  {
+    "id": "captain_subaku_212643",
+    "ingame_coords": "[pos:Captain Subaku; 220020000 1035.6 1947.7 0.0 0] [pos:Captain Subaku; 220020000 1093.0 1727.5 0.0 0] [pos:Captain Subaku; 220020000 1101.3 1720.8 0.0 0] [pos:Captain Subaku; 220020000 1152.8 1851.1 0.0 0] [pos:Captain Subaku; 220020000 1153.0 1850.8 0.0 0] [pos:Captain Subaku; 220020000 892.6 1783.7 0.0 0] [pos:Captain Subaku; 220020000 893.9 1787.1 0.0 0] [pos:Captain Subaku; 220020000 1158.7 1859.9 0.0 0] [pos:Captain Subaku; 220020000 1162.7 1850.3 0.0 0] [pos:Captain Subaku; 220020000 1157.6 1847.2 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Captain Subaku",
+    "lvl": 25,
+    "hp": 4929,
+    "coords": [
+      {
+        "x": -18.044562395877726,
+        "y": 28.88799001059482
+      },
+      {
+        "x": -18.04768509550192,
+        "y": 28.88330180112002
+      },
+      {
+        "x": -17.110875208244547,
+        "y": 26.956447706977446
+      },
+      {
+        "x": -13.98193018480493,
+        "y": 27.834705615256546
+      },
+      {
+        "x": -18.199136027275195,
+        "y": 28.875488118662023
+      },
+      {
+        "x": -16.214660416101662,
+        "y": 30.397593461480245
+      },
+      {
+        "x": -14.002227732362172,
+        "y": 27.887838655970935
+      },
+      {
+        "x": -18.13668203479137,
+        "y": 29.025510821855605
+      },
+      {
+        "x": -17.240467242648485,
+        "y": 26.851744362040257
+      }
+    ],
+    "ru_name": "Вождь Сбако",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212643",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Вождь Сбако",
+    "core_coord": {
+      "x": -18.044562395877726,
+      "y": 28.88799001059482
+    }
+  },
+  {
+    "id": "weeping_bigalia_212645",
+    "ingame_coords": "[pos:Weeping Bigalia; 220020000 1399.5 1013.2 0.0 0] [pos:Weeping Bigalia; 220020000 1399.5 1013.2 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Weeping Bigalia",
+    "lvl": 27,
+    "hp": 4156,
+    "coords": [
+      {
+        "x": -21.896412382317617,
+        "y": 15.793820947479944
+      }
+    ],
+    "ru_name": "Печальная Бегаллия",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212645",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Печальная Бегаллия",
+    "core_coord": {
+      "x": -21.896412382317617,
+      "y": 15.793820947479944
+    }
+  },
+  {
+    "id": "queen_sper_212646",
+    "ingame_coords": "[pos:Queen Sper; 220020000 572.0 1355.0 0.0 0] [pos:Queen Sper; 220020000 572.0 1355.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Queen Sper",
+    "lvl": 27,
+    "hp": 4156,
+    "coords": [
+      {
+        "x": -8.976242687226378,
+        "y": 21.135254275768123
+      }
+    ],
+    "ru_name": "Королева Сфира",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212646",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Королева Сфира",
+    "core_coord": {
+      "x": -8.976242687226378,
+      "y": 21.135254275768123
+    }
+  },
+  {
+    "id": "black_tears_sequoel_212647",
+    "ingame_coords": "[pos:Black Tears Sequoel; 220020000 688.1 1026.0 0.0 0] [pos:Black Tears Sequoel; 220020000 688.1 1026.0 0.0 0] [pos:Black Tears Sequoel; 220020000 643.3 1206.2 0.0 0] [pos:Black Tears Sequoel; 220020000 752.0 1185.8 0.0 0] [pos:Black Tears Sequoel; 220020000 760.5 1154.0 0.0 0] [pos:Black Tears Sequoel; 220020000 633.6 1176.8 0.0 0] [pos:Black Tears Sequoel; 220020000 676.6 1099.5 0.0 0] [pos:Black Tears Sequoel; 220020000 677.3 1060.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Black Tears Sequoel",
+    "lvl": 27,
+    "hp": 4156,
+    "coords": [
+      {
+        "x": -11.78667234899849,
+        "y": 18.49110413198123
+      },
+      {
+        "x": -10.788969819069392,
+        "y": 15.993851218404721
+      },
+      {
+        "x": -10.089485103250553,
+        "y": 18.809902376267594
+      },
+      {
+        "x": -9.938034171477279,
+        "y": 18.350457847737246
+      },
+      {
+        "x": -10.609414590678394,
+        "y": 17.142462539730587
+      },
+      {
+        "x": -11.919387083026619,
+        "y": 17.994153927652487
+      }
+    ],
+    "ru_name": "Сикюэль Черные Слезы",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212647",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Сикюэль Черные Слезы",
+    "core_coord": {
+      "x": -11.78667234899849,
+      "y": 18.49110413198123
+    }
+  },
+  {
+    "id": "weary_fidelio_212650",
+    "ingame_coords": "[pos:Weary Fidelio; 220020000 1336.5 907.8 0.0 0] [pos:Weary Fidelio; 220020000 1336.5 907.8 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Weary Fidelio",
+    "lvl": 27,
+    "hp": 5508,
+    "coords": [
+      {
+        "x": -20.912762000697377,
+        "y": 14.146696685333733
+      }
+    ],
+    "ru_name": "Фидаллио Многомудрый",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212650",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Фидаллио Многомудрый",
+    "core_coord": {
+      "x": -20.912762000697377,
+      "y": 14.146696685333733
+    }
+  },
+  {
+    "id": "chieftain_suroot_211393",
+    "ingame_coords": "[pos:Chieftain Suroot; 220020000 409.3 1039.8 0.0 0] [pos:Chieftain Suroot; 220020000 397.2 1129.2 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Chieftain Suroot",
+    "lvl": 28,
+    "hp": 5903,
+    "coords": [
+      {
+        "x": -6.435926542946808,
+        "y": 16.209508854245495
+      }
+    ],
+    "ru_name": "Вождь Сурт",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211393",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Вождь Сурт",
+    "core_coord": {
+      "x": -6.435926542946808,
+      "y": 16.209508854245495
+    }
+  },
+  {
+    "id": "third_baby_of_octanu_212658",
+    "ingame_coords": "[pos:Third Baby of Octanu; 220020000 324.8 1591.6 0.0 0] [pos:Third Baby of Octanu; 220020000 324.8 1591.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Third Baby of Octanu",
+    "lvl": 28,
+    "hp": 4454,
+    "coords": [
+      {
+        "x": -5.116585951726011,
+        "y": 24.83268881489329
+      }
+    ],
+    "ru_name": "Третий отпрыск Октану",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212658",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Третий отпрыск Октану",
+    "core_coord": {
+      "x": -5.116585951726011,
+      "y": 24.83268881489329
+    }
+  },
+  {
+    "id": "octanu's_first_spawn_212656",
+    "ingame_coords": "[pos:Octanu's First Spawn; 220020000 124.2 1576.3 0.0 0] [pos:Octanu's First Spawn; 220020000 91.5 1540.1 0.0 0] [pos:Octanu's First Spawn; 220020000 91.5 1540.1 0.0 0] [pos:Octanu's First Spawn; 220020000 124.2 1576.3 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Octanu's First Spawn",
+    "lvl": 29,
+    "hp": 4758,
+    "coords": [
+      {
+        "x": -1.9845182286622003,
+        "y": 24.59359013167852
+      },
+      {
+        "x": -1.4739568401069332,
+        "y": 24.027879521719385
+      }
+    ],
+    "ru_name": "Первый отпрыск Октану",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212656",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Первый отпрыск Октану",
+    "core_coord": {
+      "x": -1.9845182286622003,
+      "y": 24.59359013167852
+    }
+  },
+  {
+    "id": "octanu's_second_spawn_212657",
+    "ingame_coords": "[pos:Octanu's Second Spawn; 220020000 193.5 1613.3 0.0 0] [pos:Octanu's Second Spawn; 220020000 256.6 1534.0 0.0 0] [pos:Octanu's Second Spawn; 220020000 193.5 1613.3 0.0 0] [pos:Octanu's Second Spawn; 220020000 256.6 1534.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Octanu's Second Spawn",
+    "lvl": 29,
+    "hp": 4758,
+    "coords": [
+      {
+        "x": -3.0665336484444636,
+        "y": 25.17180263357045
+      },
+      {
+        "x": -4.051745379876799,
+        "y": 23.932552595731796
+      }
+    ],
+    "ru_name": "Второй отпрыск Октану",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212657",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Второй отпрыск Октану",
+    "core_coord": {
+      "x": -3.0665336484444636,
+      "y": 25.17180263357045
+    }
+  },
+  {
+    "id": "ginseng_digger_boss_212659",
+    "ingame_coords": "[pos:Ginseng Digger Boss; 220020000 272.5 322.5 0.0 0] [pos:Ginseng Digger Boss; 220020000 283.2 414.9 0.0 0] [pos:Ginseng Digger Boss; 220020000 283.9 411.7 0.0 0] [pos:Ginseng Digger Boss; 220020000 285.6 416.2 0.0 0] [pos:Ginseng Digger Boss; 220020000 299.6 332.1 0.0 0] [pos:Ginseng Digger Boss; 220020000 352.0 361.2 0.0 0] [pos:Ginseng Digger Boss; 220020000 353.1 365.1 0.0 0] [pos:Ginseng Digger Boss; 220020000 357.6 366.0 0.0 0] [pos:Ginseng Digger Boss; 220020000 359.6 366.7 0.0 0] [pos:Ginseng Digger Boss; 220020000 280.9 408.6 0.0 0] [pos:Ginseng Digger Boss; 220020000 354.6 365.3 0.0 0] [pos:Ginseng Digger Boss; 220020000 327.9 422.2 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Ginseng Digger Boss",
+    "lvl": 29,
+    "hp": 6495,
+    "coords": [
+      {
+        "x": -5.581868195730505,
+        "y": 5.668851218404722
+      },
+      {
+        "x": -4.300000000000002,
+        "y": 5.0
+      },
+      {
+        "x": -4.504536825384529,
+        "y": 6.464284092629029
+      },
+      {
+        "x": -4.467064429894233,
+        "y": 6.443968518238232
+      },
+      {
+        "x": -4.477993878578902,
+        "y": 6.393960950507037
+      },
+      {
+        "x": -5.5584479485490705,
+        "y": 5.665725745421523
+      },
+      {
+        "x": -4.431153384216033,
+        "y": 6.345516119267444
+      },
+      {
+        "x": -5.659935686335285,
+        "y": 5.690729529287119
+      },
+      {
+        "x": -4.7231257990779145,
+        "y": 5.150022703193582
+      },
+      {
+        "x": -5.628708690093373,
+        "y": 5.679790373845921
+      },
+      {
+        "x": -5.541273100616018,
+        "y": 5.604779022249129
+      }
+    ],
+    "ru_name": "Вожак искателей женьшеня",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212659",
+    "agr_radius": "5 m",
+    "ingameFindTip": "/где Вожак искателей женьшеня",
+    "core_coord": {
+      "x": -5.581868195730505,
+      "y": 5.668851218404722
+    }
+  },
+  {
+    "id": "queen_octanu_212655",
+    "ingame_coords": "[pos:Queen Octanu; 220020000 260.9 1706.7 0.0 0] [pos:Queen Octanu; 220020000 260.9 1706.7 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Queen Octanu",
+    "lvl": 30,
+    "hp": 5012,
+    "coords": [
+      {
+        "x": -4.11888342179691,
+        "y": 26.631398516724683
+      }
+    ],
+    "ru_name": "Королева Октану",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212655",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Королева Октану",
+    "core_coord": {
+      "x": -4.11888342179691,
+      "y": 26.631398516724683
+    }
+  },
+  {
+    "id": "fire_canyon_guardian_212661",
+    "ingame_coords": "[pos:Fire Canyon Guardian; 220020000 1527.0 2089.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Fire Canyon Guardian",
+    "lvl": 30,
+    "hp": 6945,
+    "coords": [{"x": -23.887133392739532, "y": 32.60574012411079}],
+    "ru_name": "Хранитель огненной долины",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212661",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Хранитель огненной долины",
+    "core_coord": {"x": -23.887133392739532, "y": 32.60574012411079}
+  },
+  {
+    "id": "lonely_tusker_212662",
+    "ingame_coords": "[pos:Lonely Tusker; 220020000 1880.3 2192.7 0.0 0] [pos:Lonely Tusker; 220020000 1880.3 2192.7 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Lonely Tusker",
+    "lvl": 32,
+    "hp": 7874,
+    "coords": [
+      {
+        "x": -29.403382278873348,
+        "y": 34.226297865899795
+      }
+    ],
+    "ru_name": "Одинокий Домбо",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212662",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Одинокий Домбо",
+    "core_coord": {
+      "x": -29.403382278873348,
+      "y": 34.226297865899795
+    }
+  },
+  {
+    "id": "mistress_harfuia_212663",
+    "ingame_coords": "[pos:Mistress Harfuia; 220020000 2778.0 1980.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Mistress Harfuia",
+    "lvl": 35,
+    "hp": 6848,
+    "coords": [{"x": -43.41961954205571, "y": 30.902357348266985}],
+    "ru_name": "Повелительница Харфия",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212663",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Повелительница Харфия",
+    "core_coord": {"x": -43.41961954205571, "y": 30.902357348266985}
+  },
+  {
+    "id": "wanderer_kunnenar_212664",
+    "ingame_coords": "[pos:Wanderer Kunnenar; 220020000 2644.8 2285.1 0.0 0] [pos:Wanderer Kunnenar; 220020000 2589.9 2216.6 0.0 0] [pos:Wanderer Kunnenar; 220020000 2589.9 2216.6 0.0 0] [pos:Wanderer Kunnenar; 220020000 2644.8 2285.1 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Wanderer Kunnenar",
+    "lvl": 37,
+    "hp": 10103,
+    "coords": [
+      {
+        "x": -40.48272054550386,
+        "y": 34.59979188739216
+      },
+      {
+        "x": -41.339901592344354,
+        "y": 35.67026638413803
+      }
+    ],
+    "ru_name": "Бродяга Кунненар",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212664",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Бродяга Кунненар",
+    "core_coord": {
+      "x": -40.48272054550386,
+      "y": 34.59979188739216
+    }
+  },
+  {
+    "id": "banished_farhir_212665",
+    "ingame_coords": "[pos:Banished Farhir; 220020000 2654.7 1386.3 0.0 0] [pos:Banished Farhir; 220020000 2654.7 1386.3 0.0 0] [pos:Banished Farhir; 220020000 2720.8 1345.6 0.0 0] [pos:Banished Farhir; 220020000 2690.6 1273.4 0.0 0] [pos:Banished Farhir; 220020000 2648.2 1309.8 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Banished Farhir",
+    "lvl": 37,
+    "hp": 8485,
+    "coords": [
+      {
+        "x": -41.494475223741816,
+        "y": 21.624390797638867
+      },
+      {
+        "x": -42.52652744953702,
+        "y": 20.988357045557738
+      },
+      {
+        "x": -42.054999806284144,
+        "y": 19.86006129862267
+      }
+    ],
+    "ru_name": "Изгнанник Фархир",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212665",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Изгнанник Фархир",
+    "core_coord": {
+      "x": -41.494475223741816,
+      "y": 21.624390797638867
+    }
+  },
+  {
+    "id": "abandoned_gerik_212666",
+    "ingame_coords": "[pos:Abandoned Gerik; 220020000 2358.2 1081.3 0.0 0] [pos:Abandoned Gerik; 220020000 2358.3 1081.3 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Abandoned Gerik",
+    "lvl": 38,
+    "hp": 8911,
+    "coords": [
+      {
+        "x": -36.86507303087831,
+        "y": 16.85804449825942
+      }
+    ],
+    "ru_name": "Брошенный Кэрик",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212666",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Брошенный Кэрик",
+    "core_coord": {
+      "x": -36.86507303087831,
+      "y": 16.85804449825942
+    }
+  },
+  {
+    "id": "lab_medic_212975",
+    "ingame_coords": "[pos:Lab Medic; 220020000 2636.2 2595.4 0.0 0] [pos:Lab Medic; 220020000 2626.4 2610.2 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Lab Medic",
+    "lvl": 39,
+    "hp": 7557,
+    "coords": [
+      {
+        "x": -41.20562550850412,
+        "y": 40.519437717572266
+      }
+    ],
+    "ru_name": "Элитный врач лаборатории",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212975",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Элитный врач лаборатории",
+    "core_coord": {
+      "x": -41.20562550850412,
+      "y": 40.519437717572266
+    }
+  },
+  {
+    "id": "lab_captain_212976",
+    "ingame_coords": "[pos:Lab Captain; 220020000 2662.2 2537.1 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Lab Captain",
+    "lvl": 39,
+    "hp": 8691,
+    "coords": [{"x": -41.61157645964899, "y": 39.60836234296957}],
+    "ru_name": "Элитный стражник лаборатории",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212976",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Элитный стражник лаборатории",
+    "core_coord": {"x": -41.61157645964899, "y": 39.60836234296957}
+  },
+  {
+    "id": "klaw_spawnguard_212816",
+    "ingame_coords": "[pos:Klaw Spawnguard; 220020000 1606.3 2638.7 0.0 0] [pos:Klaw Spawnguard; 220020000 1722.6 2556.0 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Klaw Spawnguard",
+    "lvl": 26,
+    "hp": 28351,
+    "coords": [
+      {
+        "x": -25.125283793731356,
+        "y": 41.196102618434985
+      }
+    ],
+    "ru_name": "Глава караула ньютов работников",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212816",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Глава караула ньютов-работников",
+    "core_coord": {
+      "x": -25.125283793731356,
+      "y": 41.196102618434985
+    }
+  },
+  {
+    "id": "klaw_spawnmaster_212817",
+    "ingame_coords": "[pos:Klaw Spawnmaster; 220020000 1819.2 2737.6 0.0 0] [pos:Klaw Spawnmaster; 220020000 1696.7 2736.8 0.0 0] [pos:Klaw Spawnmaster; 220020000 1696.7 2736.8 0.0 0] [pos:Klaw Spawnmaster; 220020000 1819.2 2737.6 0.0 0] [pos:Klaw Spawnmaster; 220020000 1804.0 2734.5 0.0 0] [pos:Klaw Spawnmaster; 220020000 1804.6 2736.4 0.0 0] [pos:Klaw Spawnmaster; 220020000 1813.2 2739.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Klaw Spawnmaster",
+    "lvl": 26,
+    "hp": 27664,
+    "coords": [
+      {
+        "x": -28.212072372244393,
+        "y": 42.693204177387614
+      },
+      {
+        "x": -28.449397543682927,
+        "y": 42.741649008627206
+      },
+      {
+        "x": -26.536744023865797,
+        "y": 42.72914711669441
+      },
+      {
+        "x": -28.221440471116964,
+        "y": 42.72289617072801
+      }
+    ],
+    "ru_name": "Глава караула ньютов воинов",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212817",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Глава караула ньютов-воинов",
+    "core_coord": {
+      "x": -28.212072372244393,
+      "y": 42.693204177387614
+    }
+  },
+  {
+    "id": "gigantic_sulfur_slime_212660",
+    "ingame_coords": "[pos:Gigantic Sulfur Slime; 220020000 1630.4 2036.1 0.0 0] [pos:Gigantic Sulfur Slime; 220020000 1630.4 2036.2 0.0 0] [pos:Gigantic Sulfur Slime; 220020000 1631.9 2040.9 0.0 0] [pos:Gigantic Sulfur Slime; 220020000 1632.6 2042.5 0.0 0] [pos:Gigantic Sulfur Slime; 220020000 1643.1 2047.6 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Gigantic Sulfur Slime",
+    "lvl": 27,
+    "hp": 10551,
+    "coords": [
+      {
+        "x": -25.501569098446403,
+        "y": 31.77905252005448
+      },
+      {
+        "x": -25.5359187943125,
+        "y": 31.879067655516874
+      },
+      {
+        "x": -25.524989345627837,
+        "y": 31.854063871651277
+      },
+      {
+        "x": -25.501569098446403,
+        "y": 31.780615256546085
+      }
+    ],
+    "ru_name": "Огромный серный слизневик",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212660",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Огромный серный слизневик",
+    "core_coord": {
+      "x": -25.501569098446403,
+      "y": 31.77905252005448
+    }
+  },
+  {
+    "id": "klaw_spawnlord_212818",
+    "ingame_coords": "[pos:Klaw Spawnlord; 220020000 1823.5 2525.5 0.0 0] [pos:Klaw Spawnlord; 220020000 1890.3 2559.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Klaw Spawnlord",
+    "lvl": 27,
+    "hp": 29555,
+    "coords": [
+      {
+        "x": -28.516535585603037,
+        "y": 39.42708490994399
+      }
+    ],
+    "ru_name": "Глава караула вождей ньютов",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212818",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Глава караула вождей ньютов",
+    "core_coord": {
+      "x": -28.516535585603037,
+      "y": 39.42708490994399
+    }
+  },
+  {
+    "id": "king_klawtun_212819",
+    "ingame_coords": "[pos:King Klawtun; 220020000 1725.4 2654.9 0.0 0] [pos:King Klawtun; 220020000 1789.6 2602.3 0.0 0] [pos:King Klawtun; 220020000 1725.4 2654.9 0.0 0] [pos:King Klawtun; 220020000 1789.6 2602.3 0.0 0] [pos:King Klawtun; 220020000 1788.8 2602.1 0.0 0] [pos:King Klawtun; 220020000 1788.6 2601.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "King Klawtun",
+    "lvl": 27,
+    "hp": 28838,
+    "coords": [
+      {
+        "x": -27.974747200805858,
+        "y": 40.62414106250945
+      },
+      {
+        "x": -26.98485141993724,
+        "y": 41.44926593007416
+      },
+      {
+        "x": -27.98723799930262,
+        "y": 40.62726653549266
+      }
+    ],
+    "ru_name": "Король Ньютун",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212819",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Король Ньютун",
+    "core_coord": {
+      "x": -27.974747200805858,
+      "y": 40.62414106250945
+    }
+  },
+  {
+    "id": "chieftain_zubaba_212813",
+    "ingame_coords": "[pos:Chieftain Zubaba; 220020000 824.5 464.6 0.0 0] [pos:Chieftain Zubaba; 220020000 824.5 464.6 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Chieftain Zubaba",
+    "lvl": 28,
+    "hp": 25051,
+    "coords": [
+      {
+        "x": -12.918650962767813,
+        "y": 7.220648554563342
+      }
+    ],
+    "ru_name": "Вождь Зибаба",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212813",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Вождь Зибаба",
+    "core_coord": {
+      "x": -12.918650962767813,
+      "y": 7.220648554563342
+    }
+  },
+  {
+    "id": "klaw_comitatus_212820",
+    "ingame_coords": "[pos:Klaw Comitatus; 220020000 1614.9 2771.5 0.0 0] [pos:Klaw Comitatus; 220020000 1725.5 2790.3 0.0 0] [pos:Klaw Comitatus; 220020000 1638.5 2775.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Klaw Comitatus",
+    "lvl": 28,
+    "hp": 29563,
+    "coords": [
+      {
+        "x": -25.25955987757158,
+        "y": 43.27141667927955
+      },
+      {
+        "x": -26.986412769749332,
+        "y": 43.56521113970032
+      }
+    ],
+    "ru_name": "Начальник охраны ньютов",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212820",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Начальник охраны ньютов",
+    "core_coord": {
+      "x": -25.25955987757158,
+      "y": 43.27141667927955
+    }
+  },
+  {
+    "id": "nanny_nuk_212822",
+    "ingame_coords": "[pos:Nanny Nuk; 220020000 1792.1 2871.8 0.0 0] [pos:Nanny Nuk; 220020000 1673.4 3014.5 0.0 0] [pos:Nanny Nuk; 220020000 1673.4 3014.5 0.0 0] [pos:Nanny Nuk; 220020000 1792.1 2871.8 0.0 0] [pos:Nanny Nuk; 220020000 1673.5 3014.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Nanny Nuk",
+    "lvl": 28,
+    "hp": 29563,
+    "coords": [
+      {
+        "x": -28.026271744605012,
+        "y": 44.83884138035417
+      },
+      {
+        "x": -26.172949517647517,
+        "y": 47.06886635386711
+      }
+    ],
+    "ru_name": "Нук Воспитатель",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212822",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Нук Воспитатель",
+    "core_coord": {
+      "x": -28.026271744605012,
+      "y": 44.83884138035417
+    }
+  },
+  {
+    "id": "great_healer_natama_212812",
+    "ingame_coords": "[pos:Great Healer Natama; 220020000 965.3 352.0 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Great Healer Natama",
+    "lvl": 29,
+    "hp": 30757,
+    "coords": [{"x": -15.117031498198443, "y": 5.461007265021946}],
+    "ru_name": "Верховная целительница Натама",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212812",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Верховная целительница Натама",
+    "core_coord": {"x": -15.117031498198443, "y": 5.461007265021946}
+  },
+  {
+    "id": "arkanis_cornerstone_212825",
+    "ingame_coords": "[pos:Arkanis Cornerstone; 220020000 1664.2 1173.3 0.0 0] [pos:Arkanis Cornerstone; 220020000 1712.0 1137.0 0.0 0] [pos:Arkanis Cornerstone; 220020000 1713.4 1135.6 0.0 0] [pos:Arkanis Cornerstone; 220020000 1716.9 1142.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Arkanis Cornerstone",
+    "lvl": 30,
+    "hp": 28190,
+    "coords": [
+      {
+        "x": -26.02930533493472,
+        "y": 18.295762070531254
+      },
+      {
+        "x": -26.775630545116424,
+        "y": 17.72848872408052
+      },
+      {
+        "x": -26.797489442485766,
+        "y": 17.70661041319812
+      }
+    ],
+    "ru_name": "Краеугольный камень Арканиса",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212825",
+    "agr_radius": "10 m",
+    "ingameFindTip": "/где Краеугольный камень Арканиса",
+    "core_coord": {
+      "x": -26.02930533493472,
+      "y": 18.295762070531254
+    }
+  },
+  {
+    "id": "craggy_lakrum_212826",
+    "ingame_coords": "[pos:Craggy Lakrum; 220020000 1654.9 1128.9 0.0 0] [pos:Craggy Lakrum; 220020000 1655.0 1164.7 0.0 0] [pos:Craggy Lakrum; 220020000 1660.3 1145.7 0.0 0] [pos:Craggy Lakrum; 220020000 1661.8 1145.3 0.0 0] [pos:Craggy Lakrum; 220020000 1661.8 1129.1 0.0 0] [pos:Craggy Lakrum; 220020000 1668.8 1147.9 0.0 0] [pos:Craggy Lakrum; 220020000 1669.4 1118.1 0.0 0] [pos:Craggy Lakrum; 220020000 1669.5 1146.7 0.0 0] [pos:Craggy Lakrum; 220020000 1670.0 1144.9 0.0 0] [pos:Craggy Lakrum; 220020000 1682.1 1198.8 0.0 0] [pos:Craggy Lakrum; 220020000 1688.0 1211.1 0.0 0] [pos:Craggy Lakrum; 220020000 1689.0 1137.9 0.0 0] [pos:Craggy Lakrum; 220020000 1690.2 1125.5 0.0 0] [pos:Craggy Lakrum; 220020000 1690.9 1132.9 0.0 0] [pos:Craggy Lakrum; 220020000 1693.9 1208.9 0.0 0] [pos:Craggy Lakrum; 220020000 1694.0 1130.6 0.0 0] [pos:Craggy Lakrum; 220020000 1699.4 1120.5 0.0 0] [pos:Craggy Lakrum; 220020000 1701.3 1140.4 0.0 0] [pos:Craggy Lakrum; 220020000 1708.5 1142.8 0.0 0] [pos:Craggy Lakrum; 220020000 1669.0 1148.2 0.0 0] [pos:Craggy Lakrum; 220020000 1681.3 1198.2 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Craggy Lakrum",
+    "lvl": 30,
+    "hp": 32402,
+    "coords": [
+      {
+        "x": -26.720983301693078,
+        "y": 17.81912744059331
+      },
+      {
+        "x": -26.493026229127118,
+        "y": 18.85209626154079
+      },
+      {
+        "x": -26.578900468792376,
+        "y": 17.47063720296655
+      },
+      {
+        "x": -26.119863624036263,
+        "y": 17.851944906916906
+      },
+      {
+        "x": -25.99183293944442,
+        "y": 17.858195852883302
+      },
+      {
+        "x": -25.968412692262987,
+        "y": 17.864446798849706
+      },
+      {
+        "x": -26.44618573476425,
+        "y": 17.664416527924928
+      },
+      {
+        "x": -26.104250125915307,
+        "y": 17.9035152111397
+      },
+      {
+        "x": -25.88566115222192,
+        "y": 18.16136673225367
+      },
+      {
+        "x": -26.110495525163692,
+        "y": 17.433131527168154
+      },
+      {
+        "x": -25.99183293944442,
+        "y": 17.60503254124413
+      },
+      {
+        "x": -26.494587578939214,
+        "y": 17.628473588618128
+      },
+      {
+        "x": -26.608566115222192,
+        "y": 17.781621764794913
+      },
+      {
+        "x": -26.400906590213477,
+        "y": 18.886476464355983
+      },
+      {
+        "x": -26.112056874975785,
+        "y": 17.880074163765702
+      },
+      {
+        "x": -26.43525628607958,
+        "y": 17.54877402754654
+      },
+      {
+        "x": -25.88409980240983,
+        "y": 17.601907068260935
+      },
+      {
+        "x": -26.416520088334433,
+        "y": 17.74255335250492
+      },
+      {
+        "x": -26.101127426291118,
+        "y": 17.898827001664902
+      },
+      {
+        "x": -26.308786951299833,
+        "y": 18.694259875889205
+      }
+    ],
+    "ru_name": "Защитная статуя Лакрум",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212826",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Защитная статуя Лакрум",
+    "core_coord": {
+      "x": -26.720983301693078,
+      "y": 17.81912744059331
+    }
+  },
+  {
+    "id": "ilaina_aetherleech_212827",
+    "ingame_coords": "[pos:Ilaina Aetherleech; 220020000 1571.2 1250.9 0.0 0] [pos:Ilaina Aetherleech; 220020000 1580.6 1250.3 0.0 0] [pos:Ilaina Aetherleech; 220020000 1597.4 1258.4 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Ilaina Aetherleech",
+    "lvl": 30,
+    "hp": 26894,
+    "coords": [
+      {
+        "x": -24.72401689202278,
+        "y": 19.499069169063112
+      },
+      {
+        "x": -24.577250009685795,
+        "y": 19.508445588012712
+      }
+    ],
+    "ru_name": "Энергетический вампир Иллайна",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212827",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Энергетический вампир Иллайна",
+    "core_coord": {
+      "x": -24.72401689202278,
+      "y": 19.499069169063112
+    }
+  },
+  {
+    "id": "sawteeth_lehul_212828",
+    "ingame_coords": "[pos:Sawteeth Lehul; 220020000 1602.4 1198.6 0.0 0] [pos:Sawteeth Lehul; 220020000 1619.4 1209.8 0.0 0] [pos:Sawteeth Lehul; 220020000 1620.0 1231.2 0.0 0] [pos:Sawteeth Lehul; 220020000 1634.2 1218.6 0.0 0] [pos:Sawteeth Lehul; 220020000 1642.6 1220.6 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Sawteeth Lehul",
+    "lvl": 30,
+    "hp": 32402,
+    "coords": [
+      {
+        "x": -25.560900391306035,
+        "y": 19.00368170122597
+      },
+      {
+        "x": -25.339188717988456,
+        "y": 19.20058649916755
+      },
+      {
+        "x": -25.064391151059628,
+        "y": 18.691134402906005
+      },
+      {
+        "x": -25.329820619115882,
+        "y": 18.866160889965187
+      }
+    ],
+    "ru_name": "Рогатый Рехол",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212828",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Рогатый Рехол",
+    "core_coord": {
+      "x": -25.560900391306035,
+      "y": 19.00368170122597
+    }
+  },
+  {
+    "id": "soul_ripping_hazan_212829",
+    "ingame_coords": "[pos:Soul Ripping Hazan; 220020000 1577.0 1335.3 0.0 0] [pos:Soul Ripping Hazan; 220020000 1579.9 1349.1 0.0 0] [pos:Soul Ripping Hazan; 220020000 1591.4 1342.9 0.0 0] [pos:Soul Ripping Hazan; 220020000 1608.5 1343.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Soul Ripping Hazan",
+    "lvl": 31,
+    "hp": 28735,
+    "coords": [
+      {
+        "x": -24.89264267172911,
+        "y": 20.946163160284545
+      },
+      {
+        "x": -24.66780829878734,
+        "y": 20.827395186922956
+      },
+      {
+        "x": -24.713087443338114,
+        "y": 21.043052822763734
+      }
+    ],
+    "ru_name": "Хазан Раздиратель Душ",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212829",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Хазан Раздиратель Душ",
+    "core_coord": {
+      "x": -24.89264267172911,
+      "y": 20.946163160284545
+    }
+  },
+  {
+    "id": "vaelath_212850",
+    "ingame_coords": "[pos:Vaelath; 220020000 2750.0 2828.7 0.0 0] [pos:Vaelath; 220020000 2787.1 2878.3 0.0 0] [pos:Vaelath; 220020000 2787.7 2860.6 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Vaelath",
+    "lvl": 38,
+    "hp": 54102,
+    "coords": [
+      {
+        "x": -42.98244159466894,
+        "y": 44.16530195247464
+      },
+      {
+        "x": -43.56170237495641,
+        "y": 44.94041925230815
+      }
+    ],
+    "ru_name": "Элитный капитан повстанцев",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212850",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Элитный капитан повстанцев",
+    "core_coord": {
+      "x": -42.98244159466894,
+      "y": 44.16530195247464
+    }
+  },
+  {
+    "id": "sentinel_ulika_212830",
+    "ingame_coords": "[pos:Sentinel Ulika; 220020000 1736.8 1350.1 0.0 0] [pos:Sentinel Ulika; 220020000 1770.8 1298.1 0.0 0] [pos:Sentinel Ulika; 220020000 1798.5 1354.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Sentinel Ulika",
+    "lvl": 31,
+    "hp": 28735,
+    "coords": [
+      {
+        "x": -27.162845298516135,
+        "y": 21.05868018767973
+      },
+      {
+        "x": -27.693704234628647,
+        "y": 20.246057212047823
+      }
+    ],
+    "ru_name": "Наблюдатель Улима",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212830",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Наблюдатель Улима",
+    "core_coord": {
+      "x": -27.162845298516135,
+      "y": 21.05868018767973
+    }
+  },
+  {
+    "id": "stone_fist_safiro_212831",
+    "ingame_coords": "[pos:Stone Fist Safiro; 220020000 1813.9 1173.0 0.0 0] [pos:Stone Fist Safiro; 220020000 1770.1 1194.5 0.0 0] [pos:Stone Fist Safiro; 220020000 1771.0 1197.0 0.0 0] [pos:Stone Fist Safiro; 220020000 1813.8 1173.3 0.0 0] [pos:Stone Fist Safiro; 220020000 1813.9 1173.0 0.0 0] [pos:Stone Fist Safiro; 220020000 1770.1 1194.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Stone Fist Safiro",
+    "lvl": 32,
+    "hp": 40366,
+    "coords": [
+      {
+        "x": -27.682774785943977,
+        "y": 18.627062206750416
+      },
+      {
+        "x": -28.36508465382976,
+        "y": 18.295762070531254
+      },
+      {
+        "x": -27.69682693425284,
+        "y": 18.66613061904041
+      },
+      {
+        "x": -28.36664600364186,
+        "y": 18.291073861056454
+      }
+    ],
+    "ru_name": "Каменный Сафиро",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212831",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Каменный Сафиро",
+    "core_coord": {
+      "x": -27.682774785943977,
+      "y": 18.627062206750416
+    }
+  },
+  {
+    "id": "katerios_212849",
+    "ingame_coords": "[pos:Katerios; 220020000 2745.3 2517.8 0.0 0] [pos:Katerios; 220020000 2746.3 2532.8 0.0 0] [pos:Katerios; 220020000 2746.4 2518.1 0.0 0] [pos:Katerios; 220020000 2750.0 2549.8 0.0 0] [pos:Katerios; 220020000 2750.9 2526.9 0.0 0] [pos:Katerios; 220020000 2757.8 2560.8 0.0 0] [pos:Katerios; 220020000 2762.4 2545.4 0.0 0] [pos:Katerios; 220020000 2768.1 2542.7 0.0 0] [pos:Katerios; 220020000 2777.9 2539.5 0.0 0] [pos:Katerios; 220020000 2784.5 2542.2 0.0 0] [pos:Katerios; 220020000 2888.8 2375.1 0.0 0] [pos:Katerios; 220020000 2739.3 2546.9 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Katerios",
+    "lvl": 38,
+    "hp": 42790,
+    "coords": [
+      {
+        "x": -42.9262330014335,
+        "y": 39.31144240956561
+      },
+      {
+        "x": -43.41805819224362,
+        "y": 39.64586801876797
+      },
+      {
+        "x": -43.52110727984193,
+        "y": 39.68806190404116
+      },
+      {
+        "x": -43.1760489713688,
+        "y": 39.73806947177236
+      },
+      {
+        "x": -42.909058153500446,
+        "y": 39.30675420009081
+      },
+      {
+        "x": -45.14959513385766,
+        "y": 37.07672922657787
+      },
+      {
+        "x": -42.9246716516214,
+        "y": 39.541164673830785
+      },
+      {
+        "x": -43.1042268800124,
+        "y": 39.97873089147873
+      },
+      {
+        "x": -42.98244159466894,
+        "y": 39.806829877402755
+      },
+      {
+        "x": -43.265045910658245,
+        "y": 39.69587558649916
+      },
+      {
+        "x": -42.996493742977805,
+        "y": 39.44896322082639
+      }
+    ],
+    "ru_name": "Капитан разведки повстанцев",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212849",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Капитан разведки повстанцев",
+    "core_coord": {
+      "x": -42.9262330014335,
+      "y": 39.31144240956561
+    }
+  },
+  {
+    "id": "harmilden's_tipolid_212857",
+    "ingame_coords": "[pos:Harmilden's Tipolid; 220020000 2696.5 2798.8 0.0 0] [pos:Harmilden's Tipolid; 220020000 2696.5 2798.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Harmilden's Tipolid",
+    "lvl": 38,
+    "hp": 54102,
+    "coords": [
+      {
+        "x": -42.14711944519778,
+        "y": 43.6980437414863
+      }
+    ],
+    "ru_name": "Ящер Хирмильдена",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212857",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Ящер Хирмильдена",
+    "core_coord": {
+      "x": -42.14711944519778,
+      "y": 43.6980437414863
+    }
+  },
+  {
+    "id": "chieftain_hapanunu_212871",
+    "ingame_coords": "[pos:Chieftain Hapanunu; 220020000 2303.4 382.5 0.0 0] [pos:Chieftain Hapanunu; 220020000 2304.1 383.1 0.0 0] [pos:Chieftain Hapanunu; 220020000 2303.4 382.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Chieftain Hapanunu",
+    "lvl": 38,
+    "hp": 54102,
+    "coords": [
+      {
+        "x": -36.00945333384991,
+        "y": 5.93764189495989
+      },
+      {
+        "x": -36.020382782534575,
+        "y": 5.94701831390949
+      }
+    ],
+    "ru_name": "Вождь Хафанун",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212871",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Вождь Хафанун",
+    "core_coord": {
+      "x": -36.00945333384991,
+      "y": 5.93764189495989
+    }
+  },
+  {
+    "id": "queen_kint_212847",
+    "ingame_coords": "[pos:Queen Kint; 220020000 2454.7 2973.1 0.0 0] [pos:Queen Kint; 220020000 2454.7 2973.1 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Queen Kint",
+    "lvl": 39,
+    "hp": 75359,
+    "coords": [
+      {
+        "x": -38.371775599550574,
+        "y": 46.421893446344775
+      }
+    ],
+    "ru_name": "Королева Кинт",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212847",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Королева Кинт",
+    "core_coord": {
+      "x": -38.371775599550574,
+      "y": 46.421893446344775
+    }
+  },
+  {
+    "id": "kellanas_212853",
+    "ingame_coords": "[pos:Kellanas; 220020000 2654.3 2815.8 0.0 0] [pos:Kellanas; 220020000 2745.8 2612.3 0.0 0] [pos:Kellanas; 220020000 2751.9 2816.9 0.0 0] [pos:Kellanas; 220020000 2755.8 2808.3 0.0 0] [pos:Kellanas; 220020000 2761.3 2739.8 0.0 0] [pos:Kellanas; 220020000 2761.8 2573.3 0.0 0] [pos:Kellanas; 220020000 2761.8 2768.3 0.0 0] [pos:Kellanas; 220020000 2783.0 2577.0 0.0 0] [pos:Kellanas; 220020000 2800.2 2570.8 0.0 0] [pos:Kellanas; 220020000 2801.8 2569.3 0.0 0] [pos:Kellanas; 220020000 2832.3 2527.8 0.0 0] [pos:Kellanas; 220020000 2834.5 2518.9 0.0 0] [pos:Kellanas; 220020000 2837.3 2512.3 0.0 0] [pos:Kellanas; 220020000 2840.3 2502.8 0.0 0] [pos:Kellanas; 220020000 2843.9 2495.4 0.0 0] [pos:Kellanas; 220020000 2844.3 2496.3 0.0 0] [pos:Kellanas; 220020000 2848.3 2490.3 0.0 0] [pos:Kellanas; 220020000 2848.8 2489.8 0.0 0] [pos:Kellanas; 220020000 2854.5 2486.6 0.0 0] [pos:Kellanas; 220020000 2796.9 2589.1 0.0 0] [pos:Kellanas; 220020000 2797.7 2589.1 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Kellanas",
+    "lvl": 39,
+    "hp": 49840,
+    "coords": [
+      {
+        "x": -43.072999883770485,
+        "y": 43.84650370818828
+      },
+      {
+        "x": -44.392340474991286,
+        "y": 39.07234372635084
+      },
+      {
+        "x": -44.34549998062842,
+        "y": 39.22080369305282
+      },
+      {
+        "x": -43.01210724109876,
+        "y": 43.980899046465865
+      },
+      {
+        "x": -43.158874123435744,
+        "y": 42.776029211442406
+      },
+      {
+        "x": -44.26743249002364,
+        "y": 39.46302784925079
+      },
+      {
+        "x": -44.45479446747511,
+        "y": 38.97076585439685
+      },
+      {
+        "x": -43.16668087249622,
+        "y": 40.17407295292871
+      },
+      {
+        "x": -44.517248459958935,
+        "y": 38.87700166490086
+      },
+      {
+        "x": -44.52505520901941,
+        "y": 38.86918798244286
+      },
+      {
+        "x": -43.791220797334475,
+        "y": 40.11156349326472
+      },
+      {
+        "x": -43.16668087249622,
+        "y": 43.221409111548354
+      },
+      {
+        "x": -43.497687032660494,
+        "y": 40.2318942031179
+      },
+      {
+        "x": -44.61405214830886,
+        "y": 38.81918041471167
+      },
+      {
+        "x": -44.301782185889735,
+        "y": 39.32394430149841
+      },
+      {
+        "x": -44.448549068226725,
+        "y": 38.95670122597245
+      },
+      {
+        "x": -43.71471465654179,
+        "y": 40.420985318601474
+      },
+      {
+        "x": -42.916864902560924,
+        "y": 40.78354018465264
+      },
+      {
+        "x": -43.766239200340934,
+        "y": 40.13500454063872
+      },
+      {
+        "x": -41.48822982449344,
+        "y": 43.96370894505827
+      }
+    ],
+    "ru_name": "Главный чародей повстанцев",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212853",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Главный чародей повстанцев",
+    "core_coord": {
+      "x": -43.072999883770485,
+      "y": 43.84650370818828
+    }
+  },
+  {
+    "id": "head_cook_zifbaum_212856",
+    "ingame_coords": "[pos:Head Cook Zifbaum; 220020000 2652.1 2938.2 0.0 0] [pos:Head Cook Zifbaum; 220020000 2652.1 2938.2 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Head Cook Zifbaum",
+    "lvl": 39,
+    "hp": 39609,
+    "coords": [
+      {
+        "x": -41.453880128627326,
+        "y": 45.87649841077644
+      }
+    ],
+    "ru_name": "Шеф повар Зибаум",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212856",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Шеф-повар Зибаум",
+    "core_coord": {
+      "x": -41.453880128627326,
+      "y": 45.87649841077644
+    }
+  },
+  {
+    "id": "architect_ikeadi_212858",
+    "ingame_coords": "[pos:Architect Ikeadi; 220020000 2853.6 2965.3 0.0 0] [pos:Architect Ikeadi; 220020000 2853.6 2965.3 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Architect Ikeadi",
+    "lvl": 39,
+    "hp": 42646,
+    "coords": [
+      {
+        "x": -44.6,
+        "y": 46.3
+      }
+    ],
+    "ru_name": "Архитектор Икеади",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212858",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Архитектор Икеади",
+    "core_coord": {
+      "x": -44.6,
+      "y": 46.3
+    }
+  },
+  {
+    "id": "ascended_pretor_212860",
+    "ingame_coords": "[pos:Ascended Pretor; 220020000 2646.7 2498.1 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Ascended Pretor",
+    "lvl": 39,
+    "hp": 56862,
+    "coords": [{"x": -41.36956723877417, "y": 38.998895111245645}],
+    "ru_name": "Перевоплощающийся фрэл",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212860",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Перевоплощающийся фрэл",
+    "core_coord": {"x": -41.36956723877417, "y": 38.998895111245645}
+  },
+  {
+    "id": "hook_humnadun_212868",
+    "ingame_coords": "[pos:Hook Humnadun; 220020000 2546.2 638.2 0.0 0] [pos:Hook Humnadun; 220020000 2546.2 638.2 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Hook Humnadun",
+    "lvl": 39,
+    "hp": 59088,
+    "coords": [
+      {
+        "x": -39.80041067761807,
+        "y": 9.933559103980627
+      }
+    ],
+    "ru_name": "Хумнадун Крюк",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212868",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Хумнадун Крюк",
+    "core_coord": {
+      "x": -39.80041067761807,
+      "y": 9.933559103980627
+    }
+  },
+  {
+    "id": "eye_of_death_makama_212869",
+    "ingame_coords": "[pos:Eye of Death Makama; 220020000 2650.6 609.4 0.0 0] [pos:Eye of Death Makama; 220020000 2650.6 609.4 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Eye of Death Makama",
+    "lvl": 39,
+    "hp": 51381,
+    "coords": [
+      {
+        "x": -41.43045988144589,
+        "y": 9.483490994399876
+      }
+    ],
+    "ru_name": "Макама взгляд смерти",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212869",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Макама - взгляд смерти",
+    "core_coord": {
+      "x": -41.43045988144589,
+      "y": 9.483490994399876
+    }
+  },
+  {
+    "id": "greathealer_hamina_211613",
+    "ingame_coords": "[pos:Greathealer Hamina; 220020000 2505.4 516.8 0.0 0] [pos:Greathealer Hamina; 220020000 2505.4 516.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Greathealer Hamina",
+    "lvl": 40,
+    "hp": 54439,
+    "coords": [
+      {
+        "x": -39.16337995428306,
+        "y": 8.036397003178447
+      }
+    ],
+    "ru_name": "Верховная целительница Хамина",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211613",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Верховная целительница Хамина",
+    "core_coord": {
+      "x": -39.16337995428306,
+      "y": 8.036397003178447
+    }
+  },
+  {
+    "id": "greatpriest_maropapa_211614",
+    "ingame_coords": "[pos:Greatpriest Maropapa; 220020000 2590.4 564.1 0.0 0] [pos:Greatpriest Maropapa; 220020000 2611.5 552.7 0.0 0] [pos:Greatpriest Maropapa; 220020000 2643.0 544.0 0.0 0] [pos:Greatpriest Maropapa; 220020000 2644.0 544.1 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Greatpriest Maropapa",
+    "lvl": 40,
+    "hp": 45185,
+    "coords": [
+      {
+        "x": -41.31179729572663,
+        "y": 8.461461328893598
+      },
+      {
+        "x": -40.49052729456434,
+        "y": 8.775571363705161
+      },
+      {
+        "x": -40.81997210491651,
+        "y": 8.597419403662784
+      }
+    ],
+    "ru_name": "Главный жрец Маропана",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211614",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Главный жрец Маропана",
+    "core_coord": {
+      "x": -41.31179729572663,
+      "y": 8.461461328893598
+    }
+  },
+  {
+    "id": "big_fang_kruk_212870",
+    "ingame_coords": "[pos:Big Fang Kruk; 220020000 2968.0 686.3 0.0 0] [pos:Big Fang Kruk; 220020000 2977.2 697.0 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Big Fang Kruk",
+    "lvl": 40,
+    "hp": 54439,
+    "coords": [
+      {
+        "x": -46.386184185037386,
+        "y": 10.685235356440138
+      }
+    ],
+    "ru_name": "Клыкастый Крун",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212870",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Клыкастый Крун",
+    "core_coord": {
+      "x": -46.386184185037386,
+      "y": 10.685235356440138
+    }
+  },
+  {
+    "id": "king_zugog_212644",
+    "ingame_coords": "[pos:King Zugog; 220020000 896.8 2169.3 0.0 0] [pos:King Zugog; 220020000 896.8 2169.3 0.0 0] [pos:King Zugog; 220020000 929.5 2155.5 0.0 0] [pos:King Zugog; 220020000 942.2 2164.0 0.0 0] [pos:King Zugog; 220020000 946.4 2165.9 0.0 0] [pos:King Zugog; 220020000 970.7 2158.2 0.0 0] [pos:King Zugog; 220020000 949.5 2165.2 0.0 0] [pos:King Zugog; 220020000 971.6 2146.1 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "King Zugog",
+    "lvl": 27,
+    "hp": 504427,
+    "coords": [
+      {
+        "x": -14.821936383712371,
+        "y": 33.80748448615105
+      },
+      {
+        "x": -14.047506876912944,
+        "y": 33.86061752686545
+      },
+      {
+        "x": -14.870338227887336,
+        "y": 33.79654533070985
+      },
+      {
+        "x": -14.558068265468213,
+        "y": 33.64495989102467
+      },
+      {
+        "x": -14.756359691604358,
+        "y": 33.777792492810654
+      },
+      {
+        "x": -15.201344388051607,
+        "y": 33.68715377629786
+      }
+    ],
+    "ru_name": "Король Зукок",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212644",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Король Зукок",
+    "core_coord": {
+      "x": -14.821936383712371,
+      "y": 33.80748448615105
+    }
+  },
+  {
+    "id": "queen_taran_212821",
+    "ingame_coords": "[pos:Queen Taran; 220020000 1693.4 2885.0 0.0 0] [pos:Queen Taran; 220020000 1693.4 2885.0 0.0 0] [pos:Queen Taran; 220020000 1677.7 2894.6 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Queen Taran",
+    "lvl": 28,
+    "hp": 59602,
+    "coords": [
+      {
+        "x": -26.48521948006664,
+        "y": 45.04512259724534
+      }
+    ],
+    "ru_name": "Королева Тарак",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212821",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Королева Тарак",
+    "core_coord": {
+      "x": -26.48521948006664,
+      "y": 45.04512259724534
+    }
+  },
+  {
+    "id": "chieftain_kiwanunu_211461",
+    "ingame_coords": "[pos:Chieftain Kiwanunu; 220020000 1346.3 394.0 0.0 0] [pos:Chieftain Kiwanunu; 220020000 1346.4 394.0 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Chieftain Kiwanunu",
+    "lvl": 30,
+    "hp": 53045,
+    "coords": [
+      {
+        "x": -21.06577428228275,
+        "y": 6.11735659149387
+      }
+    ],
+    "ru_name": "Вождь Кивануну",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211461",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Вождь Кивануну",
+    "core_coord": {
+      "x": -21.06577428228275,
+      "y": 6.11735659149387
+    }
+  },
+  {
+    "id": "king_consierd_212648",
+    "ingame_coords": "[pos:King Consierd; 220020000 1309.4 1334.4 0.0 0] [pos:King Consierd; 220020000 1309.4 1334.4 0.0 0] [pos:King Consierd; 220020000 1186.8 1358.7 0.0 0] [pos:King Consierd; 220020000 860.5 1437.0 0.0 0] [pos:King Consierd; 220020000 961.9 1372.6 0.0 0] [pos:King Consierd; 220020000 1198.9 1348.7 0.0 0] [pos:King Consierd; 220020000 1149.0 1426.6 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "King Consierd",
+    "lvl": 38,
+    "hp": 790727,
+    "coords": [
+      {
+        "x": -18.76434465925381,
+        "y": 21.036801876797334
+      },
+      {
+        "x": -20.48963620161947,
+        "y": 20.813330558498564
+      },
+      {
+        "x": -15.063945604587193,
+        "y": 21.41029589828969
+      },
+      {
+        "x": -13.480736895122236,
+        "y": 22.416698198879974
+      },
+      {
+        "x": -18.57542133199024,
+        "y": 21.193075525957315
+      }
+    ],
+    "ru_name": "Повелитель Консиод",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212648",
+    "agr_radius": "25 m",
+    "ingameFindTip": "/где Повелитель Консиод",
+    "core_coord": {
+      "x": -18.76434465925381,
+      "y": 21.036801876797334
+    }
+  },
+  {
+    "id": "chieftain_nuaka_212872",
+    "ingame_coords": "[pos:Chieftain Nuaka; 220020000 2419.1 538.1 0.0 0] [pos:Chieftain Nuaka; 220020000 2418.4 538.7 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Chieftain Nuaka",
+    "lvl": 39,
+    "hp": 84037,
+    "coords": [
+      {
+        "x": -37.81593506644454,
+        "y": 8.36925987588921
+      }
+    ],
+    "ru_name": "Вождь Ниука",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212872",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Вождь Ниука",
+    "core_coord": {
+      "x": -37.81593506644454,
+      "y": 8.36925987588921
+    }
+  },
+  {
+    "id": "supervisor_harmilden_212859",
+    "ingame_coords": "[pos:Supervisor Harmilden; 220020000 2984.4 2707.6 0.0 0] [pos:Supervisor Harmilden; 220020000 2984.5 2707.7 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Supervisor Harmilden",
+    "lvl": 40,
+    "hp": 117598,
+    "coords": [
+      {
+        "x": -46.64224555422107,
+        "y": 42.27282806114726
+      }
+    ],
+    "ru_name": "Главный надсмотрщик Хармильден",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212859",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Главный надсмотрщик Хармильден",
+    "core_coord": {
+      "x": -46.64224555422107,
+      "y": 42.27282806114726
+    }
+  },
+  {
+    "id": "frostmane_lestin_212875",
+    "ingame_coords": "[pos:Frostmane Lestin; 220020000 2576.3 235.5 0.0 0] [pos:Frostmane Lestin; 220020000 2576.3 235.5 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Frostmane Lestin",
+    "lvl": 40,
+    "hp": 811606,
+    "coords": [
+      {
+        "x": -40.27037697105885,
+        "y": 3.640419252308158
+      }
+    ],
+    "ru_name": "Морозногривый Рестин",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212875",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Морозногривый Рестин",
+    "core_coord": {
+      "x": -40.27037697105885,
+      "y": 3.640419252308158
+    }
+  },
+  {
+    "id": "chieftain_muhamurru_216576",
+    "ingame_coords": "[pos:Ragnarok; 220070000 1828.7 1337.7 0.0 0] [pos:Ragnarok; 220070000 1828.7 1337.7 0.0 0] [pos:Ragnarok; 220070000 1704.6 1366.6 0.0 0] [pos:Ragnarok; 220070000 1358.9 1313.9 0.0 0] [pos:Ragnarok; 220070000 1343.5 1304.2 0.0 0] [pos:Ragnarok; 220070000 1775.5 1365.8 0.0 0] [pos:Ragnarok; 220070000 1758.5 1372.2 0.0 0] [pos:Ragnarok; 220070000 2015.2 1336.4 0.0 0] [pos:Ragnarok; 220070000 2000.1 1316.3 0.0 0] [pos:Ragnarok; 220070000 1592.5 1356.7 0.0 0] [pos:Ragnarok; 220070000 1452.9 1358.9 0.0 0] [pos:Ragnarok; 220070000 1460.1 1362.0 0.0 0] [pos:Ragnarok; 220070000 1517.1 1368.5 0.0 0] [pos:Ragnarok; 220070000 1441.6 1299.6 0.0 0] [pos:Ragnarok; 220070000 1540.2 1365.5 0.0 0] [pos:Ragnarok; 220070000 1712.6 1367.1 0.0 0] [pos:Ragnarok; 220070000 1745.4 1373.1 0.0 0] [pos:Ragnarok; 220070000 1922.0 1313.9 0.0 0] [pos:Ragnarok; 220070000 1791.2 1355.4 0.0 0] [pos:Ragnarok; 220070000 1535.0 1365.8 0.0 0] [pos:Ragnarok; 220070000 1487.6 1368.0 0.0 0] [pos:Ragnarok; 220070000 1380.3 1221.9 0.0 0] [pos:Ragnarok; 220070000 1384.3 1221.5 0.0 0] [pos:Ragnarok; 220070000 1392.3 1220.6 0.0 0] [pos:Ragnarok; 220070000 1399.3 1222.2 0.0 0] [pos:Ragnarok; 220070000 1439.7 1264.4 0.0 0] [pos:Ragnarok; 220070000 1440.9 1266.1 0.0 0] [pos:Ragnarok; 220070000 1904.7 1314.7 0.0 0] [pos:Ragnarok; 220070000 2047.1 1377.2 0.0 0] [pos:Ragnarok; 220070000 2043.5 1375.3 0.0 0] [pos:Ragnarok; 220070000 2029.3 1358.4 0.0 0] [pos:Ragnarok; 220070000 1521.1 1368.1 0.0 0] [pos:Ragnarok; 220070000 1681.2 1365.3 0.0 0] [pos:Ragnarok; 220070000 1332.8 1295.2 0.0 0] [pos:Ragnarok; 220070000 1355.4 1244.7 0.0 0] [pos:Ragnarok; 220070000 1935.9 1312.5 0.0 0] [pos:Ragnarok; 220070000 1884.3 1317.0 0.0 0] [pos:Ragnarok; 220070000 1518.9 1368.3 0.0 0] [pos:Ragnarok; 220070000 1438.4 1352.6 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Chieftain Muhamurru",
+    "lvl": 40,
+    "hp": 88966,
+    "coords": [
+      {
+        "x": -29.465836271357173,
+        "y": 20.541414408960193
+      },
+      {
+        "x": -22.84259036844756,
+        "y": 21.24464583018011
+      },
+      {
+        "x": -23.795013753825888,
+        "y": 21.339972756167697
+      },
+      {
+        "x": -27.501658207740885,
+        "y": 21.404044952323293
+      },
+      {
+        "x": -21.78399519584673,
+        "y": 19.034936431057965
+      },
+      {
+        "x": -22.524075006780055,
+        "y": 19.71941501437869
+      },
+      {
+        "x": -30.05446515051722,
+        "y": 20.4929695777206
+      },
+      {
+        "x": -27.297121382356362,
+        "y": 21.41810958074769
+      },
+      {
+        "x": -26.294734802990973,
+        "y": 21.296216134402904
+      },
+      {
+        "x": -23.732559761342063,
+        "y": 21.346223702134097
+      },
+      {
+        "x": -31.509643175390337,
+        "y": 20.84458528833056
+      },
+      {
+        "x": -22.730173181976678,
+        "y": 21.19620099894052
+      },
+      {
+        "x": -24.093231567936154,
+        "y": 21.299341607386104
+      },
+      {
+        "x": -31.9515051722134,
+        "y": 21.452489783562886
+      },
+      {
+        "x": -26.660090659021346,
+        "y": 21.3165317087937
+      },
+      {
+        "x": -27.767087675797143,
+        "y": 21.304029816860904
+      },
+      {
+        "x": -28.59772577583201,
+        "y": 20.864900862721356
+      },
+      {
+        "x": -29.78435163302468,
+        "y": 20.505471469653397
+      },
+      {
+        "x": -32.00771376544884,
+        "y": 21.482181776903282
+      },
+      {
+        "x": -26.784998643988995,
+        "y": 21.3243453912517
+      },
+      {
+        "x": -21.893289682693425,
+        "y": 19.059940214923564
+      },
+      {
+        "x": -22.542811204525204,
+        "y": 19.745981534735883
+      },
+      {
+        "x": -24.90981751966216,
+        "y": 21.16182079612532
+      },
+      {
+        "x": -21.262504358606797,
+        "y": 20.4929695777206
+      },
+      {
+        "x": -31.2738793537639,
+        "y": 20.530475253518993
+      },
+      {
+        "x": -23.271961566773857,
+        "y": 21.3384100196761
+      },
+      {
+        "x": -21.659087210879083,
+        "y": 19.049001059482364
+      },
+      {
+        "x": -21.596633218395258,
+        "y": 19.055252005448768
+      },
+      {
+        "x": -30.271492774398514,
+        "y": 20.4710912668382
+      },
+      {
+        "x": -23.760664057959787,
+        "y": 21.343098229150897
+      },
+      {
+        "x": -24.01204137770718,
+        "y": 21.304029816860904
+      },
+      {
+        "x": -31.72979349889582,
+        "y": 21.18838731648252
+      },
+      {
+        "x": -20.854992057649838,
+        "y": 20.200737853791434
+      },
+      {
+        "x": -28.012219596296156,
+        "y": 21.141505221734523
+      },
+      {
+        "x": -22.55374065320987,
+        "y": 20.269498259421823
+      },
+      {
+        "x": -21.02205648754407,
+        "y": 20.341384138035416
+      },
+      {
+        "x": -21.20785711518345,
+        "y": 19.411555925533523
+      }
+    ],
+    "ru_name": "Мутант Натараз",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=216576",
+    "agr_radius": "50 m",
+    "ingameFindTip": "/где Мутант Натараз",
+    "core_coord": {
+      "x": -29.465836271357173,
+      "y": 20.541414408960193
+    }
+  },
+  {
+    "id": "grand_chieftain_kasika_212874",
+    "ingame_coords": "[pos:Grand Chieftain Kasika; 220020000 2931.2 882.7 0.0 0] [pos:Grand Chieftain Kasika; 220020000 2931.2 882.7 0.0 0] [pos:Grand Chieftain Kasika; 220020000 2930.3 885.2 0.0 0] ",
+    "type": "legendary_npc",
+    "name": "Grand Chieftain Kasika",
+    "lvl": 40,
+    "hp": 1449445,
+    "coords": [
+      {
+        "x": -45.811607454186195,
+        "y": 13.754449825942181
+      }
+    ],
+    "ru_name": "Вождь Касака Ураган",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212874",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Вождь Касака Ураган",
+    "core_coord": {
+      "x": -45.811607454186195,
+      "y": 13.754449825942181
+    }
+  }
+]

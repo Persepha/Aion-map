@@ -1,0 +1,266 @@
+[
+  {
+    "id": "brigade_general_akius_253007",
+    "ingame_coords": "[pos:Brigade General Akius; 400010000 2325.0 2970.0 0.0 1] ",
+    "type": "normal_npc",
+    "name": "Brigade General Akius",
+    "lvl": 26,
+    "hp": 5284,
+    "coords": [
+      {"x": -27.234335368717705, "y": 34.745339366515836}
+    ],
+    "ru_name": "Капитан гарнизона Аггий",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=253007",
+    "agr_radius": "15 m",
+    "ingameFindTip": "/где Капитан гарнизона Аггий",
+    "core_coord": {"x": -27.234335368717705, "y": 34.745339366515836}
+  },
+  {
+    "id": "highmage_nobris_253011",
+    "ingame_coords": "[pos:Highmage Nobris; 400010000 2208.7 3080.0 0.0 1] ",
+    "type": "normal_npc",
+    "name": "Highmage Nobris",
+    "lvl": 26,
+    "hp": 3987,
+    "coords": [
+      {"x": -25.868670737435412, "y": 36.029502262443444}
+    ],
+    "ru_name": "Верховный маг Обис",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=253011",
+    "agr_radius": "15 m",
+    "ingameFindTip": "/где Верховный маг Обис",
+    "core_coord": {"x": -25.868670737435412, "y": 36.029502262443444}
+  },
+  {
+    "id": "captain_semund_253016",
+    "ingame_coords": "[pos:Captain Semund; 400010000 2275.0 3124.0 0.0 1] [pos:Captain Semund; 400010000 2146.6 3161.1 0.0 1] ",
+    "type": "normal_npc",
+    "name": "Captain Semund",
+    "lvl": 26,
+    "hp": 5284,
+    "coords": [
+      {
+        "x": -26.647205260685766,
+        "y": 36.543167420814484
+      },
+      {
+        "x": -37.0523250352278,
+        "y": 0.0729411764705894
+      }
+    ],
+    "ru_name": "Капитан Сэмонд",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=253016",
+    "agr_radius": "15 m",
+    "ingameFindTip": "/где Капитан Сэмонд",
+    "core_coord": {
+      "x": -26.647205260685766,
+      "y": 36.543167420814484
+    }
+  },
+  {
+    "id": "general_luhut_253020",
+    "ingame_coords": "[pos:General Luhut; 400010000 2252.0 3146.0 0.0 1] [pos:General Luhut; 400010000 2306.7 3222.6 0.0 1] ",
+    "type": "normal_npc",
+    "name": "General Luhut",
+    "lvl": 26,
+    "hp": 3987,
+    "coords": [
+      {"x": -26.377125410991074, "y": 36.8}
+    ],
+    "ru_name": "Капитан Рэкх",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=253020",
+    "agr_radius": "15 m",
+    "ingameFindTip": "/где Капитан Рэкх",
+    "core_coord": {"x": -26.377125410991074, "y": 36.8}
+  },
+  {
+    "id": "lumion_253024",
+    "ingame_coords": "[pos:Lumion; 400010000 2202.5 3160.1 0.0 1] ",
+    "type": "normal_npc",
+    "name": "Lumion",
+    "lvl": 26,
+    "hp": 4179,
+    "coords": [
+      {"x": -25.795866604039453, "y": 36.96460633484163}
+    ],
+    "ru_name": "Капитан разведки Румион",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=253024",
+    "agr_radius": "15 m",
+    "ingameFindTip": "/где Капитан разведки Румион",
+    "core_coord": {"x": -25.795866604039453, "y": 36.96460633484163}
+  },
+  {
+    "id": "deputy_lohan_253028",
+    "ingame_coords": "[pos:Deputy Lohan; 400010000 2144.4 3139.5 0.0 1] ",
+    "type": "normal_npc",
+    "name": "Deputy Lohan",
+    "lvl": 26,
+    "hp": 4804,
+    "coords": [
+      {"x": -25.11362141850634, "y": 36.72411764705882}
+    ],
+    "ru_name": "Адъютант Роан",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=253028",
+    "agr_radius": "15 m",
+    "ingameFindTip": "/где Адъютант Роан",
+    "core_coord": {"x": -25.11362141850634, "y": 36.72411764705882}
+  },
+  {
+    "id": "highmage_pasau_253036",
+    "ingame_coords": "[pos:Highmage Pasau; 400010000 2146.2 3143.9 0.0 1] ",
+    "type": "normal_npc",
+    "name": "Highmage Pasau",
+    "lvl": 26,
+    "hp": 4804,
+    "coords": [
+      {"x": -25.134758102395487, "y": 36.775484162895935}
+    ],
+    "ru_name": "Волшебница Фессайя",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=253036",
+    "agr_radius": "15 m",
+    "ingameFindTip": "/где Волшебница Фессайя",
+    "core_coord": {"x": -25.134758102395487, "y": 36.775484162895935}
+  },
+  {
+    "id": "imperturbable_kamon_252549",
+    "ingame_coords": "[pos:Imperturbable Kamon; 400010000 3080.0 3146.0 0.0 1] [pos:Imperturbable Kamon; 400010000 3295.0 2985.0 0.0 1] [pos:Imperturbable Kamon; 400010000 3077.0 3146.8 0.0 1] [pos:Imperturbable Kamon; 400010000 3295.4 2982.8 0.0 1] [pos:Imperturbable Kamon; 400010000 3050.2 3241.1 0.0 1] ",
+    "type": "normal_npc",
+    "name": "Imperturbable Kamon",
+    "lvl": 27,
+    "hp": 5759,
+    "coords": [
+      {
+        "x": -38.629356505401596,
+        "y": 34.89476923076923
+      },
+      {
+        "x": -38.62465946453734,
+        "y": 34.920452488687786
+      },
+      {
+        "x": -36.099999999999994,
+        "y": 36.8
+      },
+      {
+        "x": -37.991733208078905,
+        "y": 0.0729411764705894
+      },
+      {
+        "x": -36.06477219351808,
+        "y": 36.80933936651584
+      }
+    ],
+    "ru_name": "Мшистый камон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=252549",
+    "agr_radius": "10 m",
+    "ingameFindTip": "/где Мшистый камон",
+    "core_coord": {
+      "x": -38.629356505401596,
+      "y": 34.89476923076923
+    }
+  },
+  {
+    "id": "the_everwatcher_253705",
+    "ingame_coords": "[pos:The Everwatcher; 400010000 951.0 936.0 0.0 1] ",
+    "type": "normal_npc",
+    "name": "The Everwatcher",
+    "lvl": 30,
+    "hp": 5133,
+    "coords": [
+      {"x": -11.1, "y": 11.000000000000002}
+    ],
+    "ru_name": "Бдительный аргос",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=253705",
+    "agr_radius": "10 m",
+    "ingameFindTip": "/где Бдительный аргос",
+    "core_coord": {"x": -11.1, "y": 11.000000000000002}
+  },
+  {
+    "id": "neved_the_forgotten_252503",
+    "ingame_coords": "[pos:Neved the Forgotten; 400010000 3155.0 2219.0 0.0 1] [pos:Neved the Forgotten; 400010000 3226.1 1977.4 0.0 1] [pos:Neved the Forgotten; 400010000 3043.0 2129.0 0.0 1] [pos:Neved the Forgotten; 400010000 3327.6 2153.0 0.0 1] [pos:Neved the Forgotten; 400010000 3042.0 2127.4 0.0 1] [pos:Neved the Forgotten; 400010000 3153.8 2216.6 0.0 1] [pos:Neved the Forgotten; 400010000 3226.9 1977.7 0.0 1] [pos:Neved the Forgotten; 400010000 3321.9 2154.7 0.0 1] ",
+    "type": "elite_npc",
+    "name": "Neved the Forgotten",
+    "lvl": 27,
+    "hp": 21912,
+    "coords": [
+      {
+        "x": -36.96660403945514,
+        "y": 25.949990950226244
+      },
+      {
+        "x": -35.653781117895726,
+        "y": 24.90865158371041
+      },
+      {
+        "x": -37.82498825739784,
+        "y": 23.16102262443439
+      },
+      {
+        "x": -39.00746829497416,
+        "y": 25.207511312217196
+      },
+      {
+        "x": -35.66552372005636,
+        "y": 24.927330316742083
+      },
+      {
+        "x": -37.815594175669325,
+        "y": 23.15752036199095
+      },
+      {
+        "x": -36.98069516204791,
+        "y": 25.978009049773757
+      },
+      {
+        "x": -25.234570220760915,
+        "y": 0.0729411764705894
+      }
+    ],
+    "ru_name": "Изгнанный воин Невет",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=252503",
+    "agr_radius": "10 m",
+    "ingameFindTip": "/где Изгнанный воин Невет",
+    "core_coord": {
+      "x": -36.96660403945514,
+      "y": 25.949990950226244
+    }
+  },
+  {
+    "id": "team_leader_lahu_253613",
+    "ingame_coords": "[pos:Team Leader Lahu; 400010000 1046.1 1736.6 0.0 1] [pos:Team Leader Lahu; 400010000 1046.2 1736.5 0.0 1] [pos:Team Leader Lahu; 400010000 1070.0 1849.9 0.0 1] [pos:Team Leader Lahu; 400010000 1073.5 1850.6 0.0 1] [pos:Team Leader Lahu; 400010000 1139.6 1799.5 0.0 1] ",
+    "type": "elite_npc",
+    "name": "Team Leader Lahu",
+    "lvl": 32,
+    "hp": 56513,
+    "coords": [
+      {
+        "x": -12.497369657116016,
+        "y": 21.669058823529415
+      },
+      {
+        "x": -12.217895725692813,
+        "y": 20.345203619909505
+      },
+      {
+        "x": -12.538468764678251,
+        "y": 21.677230769230768
+      },
+      {
+        "x": -21.063597933302017,
+        "y": 0.0729411764705894
+      },
+      {
+        "x": -12.216721465476747,
+        "y": 20.34637104072398
+      }
+    ],
+    "ru_name": "Капитан налетчиков Раху",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=253613",
+    "agr_radius": "10 m",
+    "ingameFindTip": "/где Капитан налетчиков Раху",
+    "core_coord": {
+      "x": -12.497369657116016,
+      "y": 21.669058823529415
+    }
+  }
+]

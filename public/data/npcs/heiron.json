@@ -1,0 +1,2158 @@
+[
+  {
+    "id": "greybeard_212117",
+    "ingame_coords": "[pos:Greybeard; 210040000 2207.2 602.1 0.0 0] [pos:Greybeard; 210040000 2207.2 602.1 0.0 0] [pos:Greybeard; 210040000 2091.1 562.9 0.0 0] [pos:Greybeard; 210040000 2170.0 549.0 0.0 0] [pos:Greybeard; 210040000 2207.6 602.0 0.0 0] [pos:Greybeard; 210040000 2171.6 556.2 0.0 0] [pos:Greybeard; 210040000 2151.8 505.4 0.0 0] [pos:Greybeard; 210040000 2097.4 587.2 0.0 0] [pos:Greybeard; 210040000 2097.6 538.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Greybeard",
+    "lvl": 31,
+    "hp": 7102,
+    "coords": [
+      {
+        "x": -33.66355195484959,
+        "y": 7.89721765218233
+      },
+      {
+        "x": -34.537212689454286,
+        "y": 9.407030871963613
+      },
+      {
+        "x": -34.530949888489374,
+        "y": 9.40859382560728
+      },
+      {
+        "x": -33.94850939875291,
+        "y": 8.578665440820673
+      },
+      {
+        "x": -32.811811023622056,
+        "y": 9.175713732701057
+      },
+      {
+        "x": -32.71317190842475,
+        "y": 8.795915997290235
+      },
+      {
+        "x": -33.973560602612544,
+        "y": 8.69119810316462
+      }
+    ],
+    "ru_name": "Старый Варон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212117",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Старый Варон",
+    "core_coord": {
+      "x": -33.66355195484959,
+      "y": 7.89721765218233
+    }
+  },
+  {
+    "id": "firescar_211074",
+    "ingame_coords": "[pos:Firescar; 210040000 1785.0 1350.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Firescar",
+    "lvl": 34,
+    "hp": 7979,
+    "coords": [{"x": -27.920563470028682, "y": 21.09792412658473}],
+    "ru_name": "Несчастная Шанта",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211074",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Несчастная Шанта",
+    "core_coord": {"x": -27.920563470028682, "y": 21.09792412658473}
+  },
+  {
+    "id": "rinokero_212124",
+    "ingame_coords": "[pos:Rinokero; 210040000 1423.7 1727.7 0.0 0] [pos:Rinokero; 210040000 1423.7 1727.7 0.0 0] [pos:Rinokero; 210040000 1427.1 1737.6 0.0 0] [pos:Rinokero; 210040000 1425.4 1718.2 0.0 0] [pos:Rinokero; 210040000 1427.5 1719.7 0.0 0] [pos:Rinokero; 210040000 1418.7 1719.1 0.0 0] [pos:Rinokero; 210040000 1423.0 1727.6 0.0 0] [pos:Rinokero; 210040000 1424.1 1724.7 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Rinokero",
+    "lvl": 35,
+    "hp": 8419,
+    "coords": [
+      {
+        "x": -22.185403486413918,
+        "y": 26.86678602535566
+      },
+      {
+        "x": -22.31692230667699,
+        "y": 27.15593244943385
+      },
+      {
+        "x": -22.29030540257613,
+        "y": 26.852719442562666
+      },
+      {
+        "x": -22.263688498475272,
+        "y": 27.001200038710927
+      },
+      {
+        "x": -22.25272859678668,
+        "y": 26.999637085067256
+      },
+      {
+        "x": -22.323185107641898,
+        "y": 26.876163747217653
+      }
+    ],
+    "ru_name": "Ринокер Всемогущий",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212124",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Ринокер Всемогущий",
+    "core_coord": {
+      "x": -22.185403486413918,
+      "y": 26.86678602535566
+    }
+  },
+  {
+    "id": "aged_ginseng_211928",
+    "ingame_coords": "[pos:Aged Ginseng; 210040000 1392.2 1600.9 0.0 0] [pos:Aged Ginseng; 210040000 1392.2 1600.9 0.0 0] [pos:Aged Ginseng; 210040000 1380.5 1501.5 0.0 0] [pos:Aged Ginseng; 210040000 1391.7 1599.2 0.0 0] [pos:Aged Ginseng; 210040000 1391.0 1600.1 0.0 0] [pos:Aged Ginseng; 210040000 1390.5 1602.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Aged Ginseng",
+    "lvl": 36,
+    "hp": 6787,
+    "coords": [
+      {
+        "x": -21.762664421282608,
+        "y": 24.992804606600217
+      },
+      {
+        "x": -21.770492922488742,
+        "y": 25.019374818542538
+      },
+      {
+        "x": -21.751704519594018,
+        "y": 25.006871189393202
+      },
+      {
+        "x": -21.587305994265176,
+        "y": 23.465798896738605
+      }
+    ],
+    "ru_name": "Столетний женьшень",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211928",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Столетний женьшень",
+    "core_coord": {
+      "x": -21.762664421282608,
+      "y": 24.992804606600217
+    }
+  },
+  {
+    "id": "fortune_211132",
+    "ingame_coords": "[pos:Fortune; 210040000 323.8 1275.8 0.0 0] [pos:Fortune; 210040000 503.1 1357.4 0.0 0] [pos:Fortune; 210040000 629.1 1242.1 0.0 0] [pos:Fortune; 210040000 633.4 1248.1 0.0 0] [pos:Fortune; 210040000 766.4 1469.6 0.0 0] [pos:Fortune; 210040000 773.4 1467.8 0.0 0] [pos:Fortune; 210040000 774.5 1473.3 0.0 0] [pos:Fortune; 210040000 765.4 1468.3 0.0 0] [pos:Fortune; 210040000 319.7 1275.4 0.0 0] [pos:Fortune; 210040000 767.9 1469.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Fortune",
+    "lvl": 37,
+    "hp": 9556,
+    "coords": [
+      {
+        "x": -11.956683810477454,
+        "y": 22.94689828704152
+      },
+      {
+        "x": -9.822634381684956,
+        "y": 19.411497145069198
+      },
+      {
+        "x": -7.849852077738845,
+        "y": 21.213582696216008
+      },
+      {
+        "x": -12.09916253242912,
+        "y": 23.025045969224813
+      },
+      {
+        "x": -9.88995949205772,
+        "y": 19.505274363689153
+      },
+      {
+        "x": -4.978357835328395,
+        "y": 19.931960708409953
+      },
+      {
+        "x": -5.042551545218705,
+        "y": 19.938212522984614
+      },
+      {
+        "x": -12.08193982977562,
+        "y": 22.93908351882319
+      },
+      {
+        "x": -11.972340812889726,
+        "y": 22.967216684409173
+      }
+    ],
+    "ru_name": "Энт удачи",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211132",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Энт удачи",
+    "core_coord": {
+      "x": -11.956683810477454,
+      "y": 22.94689828704152
+    }
+  },
+  {
+    "id": "little_floel_212119",
+    "ingame_coords": "[pos:Little Floel; 210040000 1406.0 729.0 0.0 0] [pos:Little Floel; 210040000 1635.0 737.0 0.0 0] [pos:Little Floel; 210040000 1715.0 570.1 0.0 0] [pos:Little Floel; 210040000 1715.1 570.1 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Little Floel",
+    "lvl": 37,
+    "hp": 7229,
+    "coords": [
+      {
+        "x": -25.572013108188074,
+        "y": 11.517018290912612
+      },
+      {
+        "x": -21.98655955577808,
+        "y": 11.391981999419338
+      },
+      {
+        "x": -26.824573301169732,
+        "y": 8.908448659634184
+      }
+    ],
+    "ru_name": "Маленький Флоэл",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212119",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Маленький Флоэл",
+    "core_coord": {
+      "x": -25.572013108188074,
+      "y": 11.517018290912612
+    }
+  },
+  {
+    "id": "furol_the_gray_212127",
+    "ingame_coords": "[pos:Furol the Gray; 210040000 864.4 1566.6 0.0 0] [pos:Furol the Gray; 210040000 864.4 1566.6 0.0 0] [pos:Furol the Gray; 210040000 868.2 1569.6 0.0 0] [pos:Furol the Gray; 210040000 868.5 1567.7 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Furol the Gray",
+    "lvl": 37,
+    "hp": 9141,
+    "coords": [
+      {
+        "x": -13.506727049292255,
+        "y": 24.48328171876512
+      },
+      {
+        "x": -13.566223658458886,
+        "y": 24.5301703280751
+      }
+    ],
+    "ru_name": "Фурол Пепельная Шкура",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212127",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Фурол Пепельная Шкура",
+    "core_coord": {
+      "x": -13.506727049292255,
+      "y": 24.48328171876512
+    }
+  },
+  {
+    "id": "flinch_212118",
+    "ingame_coords": "[pos:Flinch; 210040000 1239.3 974.0 0.0 0] [pos:Flinch; 210040000 1239.3 974.0 0.0 0] [pos:Flinch; 210040000 1234.2 967.4 0.0 0] [pos:Flinch; 210040000 1234.5 975.1 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Flinch",
+    "lvl": 38,
+    "hp": 7243,
+    "coords": [
+      {
+        "x": -19.29668654134997,
+        "y": 15.118063485918901
+      },
+      {
+        "x": -19.37653725365255,
+        "y": 15.221218426400853
+      }
+    ],
+    "ru_name": "Корби Гремящие Крылья",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212118",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Корби Гремящие Крылья",
+    "core_coord": {
+      "x": -19.29668654134997,
+      "y": 15.118063485918901
+    }
+  },
+  {
+    "id": "miserly_iscraw_212126",
+    "ingame_coords": "[pos:Miserly Iscraw; 210040000 820.3 2093.7 0.0 0] [pos:Miserly Iscraw; 210040000 861.4 2174.9 0.0 0] [pos:Miserly Iscraw; 210040000 900.4 2085.0 0.0 0] [pos:Miserly Iscraw; 210040000 861.4 2174.9 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Miserly Iscraw",
+    "lvl": 38,
+    "hp": 9600,
+    "coords": [
+      {
+        "x": -12.816253242911117,
+        "y": 32.72161037452821
+      },
+      {
+        "x": -14.070379136134003,
+        "y": 32.58563340752928
+      },
+      {
+        "x": -13.459756042055444,
+        "y": 33.990728733184945
+      }
+    ],
+    "ru_name": "Искро Жадный",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212126",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Искро Жадный",
+    "core_coord": {
+      "x": -12.816253242911117,
+      "y": 32.72161037452821
+    }
+  },
+  {
+    "id": "midas_212128",
+    "ingame_coords": "[pos:Midas; 210040000 692.5 1373.7 0.0 0] [pos:Midas; 210040000 692.5 1373.7 0.0 0] [pos:Midas; 210040000 696.1 1373.2 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Midas",
+    "lvl": 38,
+    "hp": 7243,
+    "coords": [
+      {
+        "x": -10.81528833462292,
+        "y": 21.468344140133553
+      }
+    ],
+    "ru_name": "Ракне Золотой Доспех",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212128",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Ракне Золотой Доспех",
+    "core_coord": {
+      "x": -10.81528833462292,
+      "y": 21.468344140133553
+    }
+  },
+  {
+    "id": "stench_212121",
+    "ingame_coords": "[pos:Stench; 210040000 1049.8 408.1 0.0 0] [pos:Stench; 210040000 1152.0 341.0 0.0 0] [pos:Stench; 210040000 1218.0 430.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Stench",
+    "lvl": 39,
+    "hp": 8349,
+    "coords": [
+      {
+        "x": -16.40953529652725,
+        "y": 6.376463756895386
+      },
+      {
+        "x": -18.009680943061316,
+        "y": 5.32772186199555
+      }
+    ],
+    "ru_name": "Рафл Солнцеликий",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212121",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Рафл Солнцеликий",
+    "core_coord": {
+      "x": -16.40953529652725,
+      "y": 6.376463756895386
+    }
+  },
+  {
+    "id": "melita_poisonthorn_212122",
+    "ingame_coords": "[pos:Melita Poisonthorn; 210040000 1043.0 1047.7 0.0 0] [pos:Melita Poisonthorn; 210040000 1043.0 1047.7 0.0 0] [pos:Melita Poisonthorn; 210040000 1040.3 1059.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Melita Poisonthorn",
+    "lvl": 39,
+    "hp": 9596,
+    "coords": [
+      {
+        "x": -16.303067680123807,
+        "y": 16.373115261782637
+      }
+    ],
+    "ru_name": "Мелита Ядовитый Шип",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212122",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Мелита Ядовитый Шип",
+    "core_coord": {
+      "x": -16.303067680123807,
+      "y": 16.373115261782637
+    }
+  },
+  {
+    "id": "depie_the_loner_212125",
+    "ingame_coords": "[pos:Depie the Loner; 210040000 609.4 1665.1 0.0 0] [pos:Depie the Loner; 210040000 609.4 1665.1 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Depie the Loner",
+    "lvl": 39,
+    "hp": 7567,
+    "coords": [
+      {
+        "x": -9.514191434163223,
+        "y": 26.022791057776054
+      }
+    ],
+    "ru_name": "Дефи Отшельник",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212125",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Дефи Отшельник",
+    "core_coord": {
+      "x": -9.514191434163223,
+      "y": 26.022791057776054
+    }
+  },
+  {
+    "id": "shadekirrin_lutis_212123",
+    "ingame_coords": "[pos:Shadekirrin Lutis; 210040000 618.2 997.0 0.0 0] [pos:Shadekirrin Lutis; 210040000 618.2 997.0 0.0 0] [pos:Shadekirrin Lutis; 210040000 537.8 960.5 0.0 0] [pos:Shadekirrin Lutis; 210040000 550.2 940.9 0.0 0] [pos:Shadekirrin Lutis; 210040000 541.3 924.6 0.0 0] [pos:Shadekirrin Lutis; 210040000 518.5 918.0 0.0 0] [pos:Shadekirrin Lutis; 210040000 516.2 899.3 0.0 0] [pos:Shadekirrin Lutis; 210040000 537.8 886.4 0.0 0] [pos:Shadekirrin Lutis; 210040000 553.5 907.1 0.0 0] [pos:Shadekirrin Lutis; 210040000 517.5 917.6 0.0 0] [pos:Shadekirrin Lutis; 210040000 514.8 911.1 0.0 0] [pos:Shadekirrin Lutis; 210040000 515.4 902.4 0.0 0] [pos:Shadekirrin Lutis; 210040000 513.9 908.4 0.0 0] [pos:Shadekirrin Lutis; 210040000 552.0 897.3 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Shadekirrin Lutis",
+    "lvl": 41,
+    "hp": 9413,
+    "coords": [
+      {
+        "x": -8.054958809339592,
+        "y": 14.053692054582406
+      },
+      {
+        "x": -8.075312912475543,
+        "y": 14.339712571373271
+      },
+      {
+        "x": -8.090969914887815,
+        "y": 14.345964385947935
+      },
+      {
+        "x": -8.393150061444638,
+        "y": 13.852071034549502
+      },
+      {
+        "x": -8.393150061444638,
+        "y": 15.010219684505953
+      },
+      {
+        "x": -9.651973055391206,
+        "y": 15.580697764444015
+      },
+      {
+        "x": -8.033039005962411,
+        "y": 14.238120584534986
+      },
+      {
+        "x": -8.63896499931729,
+        "y": 14.17560243878835
+      },
+      {
+        "x": -8.042433207409774,
+        "y": 14.10214361753605
+      },
+      {
+        "x": -8.447949569887585,
+        "y": 14.449119326429885
+      },
+      {
+        "x": -8.018947703791369,
+        "y": 14.195920836156006
+      },
+      {
+        "x": -8.587296891356797,
+        "y": 14.703880770347432
+      }
+    ],
+    "ru_name": "Рутис Тенеликий",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212123",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Рутис Тенеликий",
+    "core_coord": {
+      "x": -8.054958809339592,
+      "y": 14.053692054582406
+    }
+  },
+  {
+    "id": "dishella_212133",
+    "ingame_coords": "[pos:Dishella; 210040000 1209.3 2573.9 0.0 0] [pos:Dishella; 210040000 1209.3 2573.9 0.0 0] [pos:Dishella; 210040000 1216.7 2570.0 0.0 0] [pos:Dishella; 210040000 1200.9 2576.5 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Dishella",
+    "lvl": 41,
+    "hp": 8413,
+    "coords": [
+      {
+        "x": -18.906827181284427,
+        "y": 40.226913771411986
+      },
+      {
+        "x": -19.022688999135234,
+        "y": 40.16595857930901
+      }
+    ],
+    "ru_name": "Дишел Громадный",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212133",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Дишел Громадный",
+    "core_coord": {
+      "x": -18.906827181284427,
+      "y": 40.226913771411986
+    }
+  },
+  {
+    "id": "lambos_212132",
+    "ingame_coords": "[pos:Lambos; 210040000 492.0 2979.0 0.0 0] [pos:Lambos; 210040000 490.7 2973.5 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Lambos",
+    "lvl": 42,
+    "hp": 11629,
+    "coords": [
+      {
+        "x": -7.67605935096264,
+        "y": 46.55843898190265
+      }
+    ],
+    "ru_name": "Боцман Рембос",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212132",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Боцман Рембос",
+    "core_coord": {
+      "x": -7.67605935096264,
+      "y": 46.55843898190265
+    }
+  },
+  {
+    "id": "lab_chief_eirin_214101",
+    "ingame_coords": "[pos:Lab Chief Eirin; 210040000 384.3 742.4 0.0 0] [pos:Lab Chief Eirin; 210040000 384.3 742.4 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Lab Chief Eirin",
+    "lvl": 42,
+    "hp": 10572,
+    "coords": [
+      {
+        "x": -5.989800191161083,
+        "y": 11.60141778767057
+      }
+    ],
+    "ru_name": "Хозяйка лаборатории Эйрин",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=214101",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Хозяйка лаборатории Эйрин",
+    "core_coord": {
+      "x": -5.989800191161083,
+      "y": 11.60141778767057
+    }
+  },
+  {
+    "id": "gossamos_211990",
+    "ingame_coords": "[pos:Gossamos; 210040000 407.6 2434.5 0.0 0] [pos:Gossamos; 210040000 407.6 2434.5 0.0 0] [pos:Gossamos; 210040000 411.7 2437.4 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Gossamos",
+    "lvl": 44,
+    "hp": 12126,
+    "coords": [
+      {
+        "x": -6.354608347366992,
+        "y": 38.048156392141685
+      }
+    ],
+    "ru_name": "Прозрачный змей",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211990",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Прозрачный змей",
+    "core_coord": {
+      "x": -6.354608347366992,
+      "y": 38.048156392141685
+    }
+  },
+  {
+    "id": "miserable_prote_212146",
+    "ingame_coords": "[pos:Miserable Prote; 210040000 403.0 2634.1 0.0 0] [pos:Miserable Prote; 210040000 403.0 2634.1 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Miserable Prote",
+    "lvl": 42,
+    "hp": 43838,
+    "coords": [
+      {
+        "x": -6.282586136270546,
+        "y": 41.167811864898866
+      }
+    ],
+    "ru_name": "Злосчастная Фрота",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212146",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Злосчастная Фрота",
+    "core_coord": {
+      "x": -6.282586136270546,
+      "y": 41.167811864898866
+    }
+  },
+  {
+    "id": "butler_duterran_212130",
+    "ingame_coords": "[pos:Butler Duterran; 210040000 682.2 2118.8 0.0 0] [pos:Butler Duterran; 210040000 682.2 2118.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Butler Duterran",
+    "lvl": 43,
+    "hp": 46115,
+    "coords": [
+      {
+        "x": -10.654021209776532,
+        "y": 33.113911739088365
+      }
+    ],
+    "ru_name": "Управляющий Нутеран",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212130",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Управляющий Нутеран",
+    "core_coord": {
+      "x": -10.654021209776532,
+      "y": 33.113911739088365
+    }
+  },
+  {
+    "id": "ragenon_souleater_212145",
+    "ingame_coords": "[pos:Ragenon Souleater; 210040000 1504.2 1917.3 0.0 0] [pos:Ragenon Souleater; 210040000 1559.9 1996.7 0.0 0] [pos:Ragenon Souleater; 210040000 1633.0 2060.1 0.0 0] [pos:Ragenon Souleater; 210040000 1645.4 2256.5 0.0 0] [pos:Ragenon Souleater; 210040000 1661.4 2244.2 0.0 0] [pos:Ragenon Souleater; 210040000 1664.1 2088.5 0.0 0] [pos:Ragenon Souleater; 210040000 1673.4 2235.1 0.0 0] [pos:Ragenon Souleater; 210040000 1673.8 2252.0 0.0 0] [pos:Ragenon Souleater; 210040000 1676.0 2135.4 0.0 0] [pos:Ragenon Souleater; 210040000 1677.6 2099.7 0.0 0] [pos:Ragenon Souleater; 210040000 1681.5 2178.6 0.0 0] [pos:Ragenon Souleater; 210040000 1723.5 2311.3 0.0 0] [pos:Ragenon Souleater; 210040000 1646.4 2256.6 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Ragenon Souleater",
+    "lvl": 43,
+    "hp": 76638,
+    "coords": [
+      {
+        "x": -26.02763187838515,
+        "y": 32.640336785057585
+      },
+      {
+        "x": -26.173242000819272,
+        "y": 34.93162682667183
+      },
+      {
+        "x": -26.179504801784176,
+        "y": 35.19576599245137
+      },
+      {
+        "x": -25.985357971872023,
+        "y": 35.073855608245424
+      },
+      {
+        "x": -26.30006372035866,
+        "y": 34.048558018000584
+      },
+      {
+        "x": -25.73484593327569,
+        "y": 35.26609890641634
+      },
+      {
+        "x": -25.540699103363533,
+        "y": 32.19645795025646
+      },
+      {
+        "x": -23.524077192663064,
+        "y": 29.964560147101515
+      },
+      {
+        "x": -26.239001410950806,
+        "y": 32.815387593148166
+      },
+      {
+        "x": -26.213950207091173,
+        "y": 33.37336204393691
+      },
+      {
+        "x": -24.396172227026543,
+        "y": 31.205545340172264
+      },
+      {
+        "x": -26.957657821674033,
+        "y": 36.122597503145265
+      }
+    ],
+    "ru_name": "Коллекционер душ Лакенон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212145",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Коллекционер душ Лакенон",
+    "core_coord": {
+      "x": -26.02763187838515,
+      "y": 32.640336785057585
+    }
+  },
+  {
+    "id": "head_chef_paparu_212231",
+    "ingame_coords": "[pos:Head Chef Paparu; 210040000 2274.8 1577.6 0.0 0] [pos:Head Chef Paparu; 210040000 2274.5 1577.7 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Head Chef Paparu",
+    "lvl": 39,
+    "hp": 61686,
+    "coords": [
+      {
+        "x": -35.589363251558886,
+        "y": 24.655206619568375
+      }
+    ],
+    "ru_name": "Шеф повар Папару",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212231",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Шеф-повар Папару",
+    "core_coord": {
+      "x": -35.589363251558886,
+      "y": 24.655206619568375
+    }
+  },
+  {
+    "id": "tantuka_the_blacksmith_216576",
+    "ingame_coords": "[pos:Tantuka the Blacksmith; 210040000 2514.8 1681.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Tantuka the Blacksmith",
+    "lvl": 40,
+    "hp": 87647,
+    "coords": [
+      {"x": -39.34860953074508, "y": 26.288493177199264}
+    ],
+    "ru_name": "Кузнец Тантука",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212233",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Кузнец Тантука",
+    "core_coord": {"x": -39.34860953074508, "y": 26.288493177199264}
+  },
+  {
+    "id": "pitiless_graveknight_212346",
+    "ingame_coords": "[pos:Pitiless Graveknight; 210040000 410.7 2053.4 0.0 0] [pos:Pitiless Graveknight; 210040000 410.7 2053.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Pitiless Graveknight",
+    "lvl": 43,
+    "hp": 46115,
+    "coords": [
+      {
+        "x": -6.40314505484503,
+        "y": 32.091740056130845
+      }
+    ],
+    "ru_name": "Гесфальт",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212346",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Гесфальт",
+    "core_coord": {
+      "x": -6.40314505484503,
+      "y": 32.091740056130845
+    }
+  },
+  {
+    "id": "skinripper_212269",
+    "ingame_coords": "[pos:Skinripper; 210040000 2525.6 2237.9 0.0 0] [pos:Skinripper; 210040000 2540.3 1997.8 0.0 0] [pos:Skinripper; 210040000 2564.3 2015.8 0.0 0] [pos:Skinripper; 210040000 2570.8 2021.8 0.0 0] [pos:Skinripper; 210040000 2590.6 2111.4 0.0 0] [pos:Skinripper; 210040000 2592.3 2250.8 0.0 0] [pos:Skinripper; 210040000 2593.1 2031.8 0.0 0] [pos:Skinripper; 210040000 2594.8 2127.8 0.0 0] [pos:Skinripper; 210040000 2596.0 2075.0 0.0 0] [pos:Skinripper; 210040000 2604.8 2207.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Skinripper",
+    "lvl": 44,
+    "hp": 95732,
+    "coords": [
+      {
+        "x": -40.223835965591014,
+        "y": 31.59784670473241
+      },
+      {
+        "x": -40.57298711938465,
+        "y": 31.754142069099004
+      },
+      {
+        "x": -40.122065449911254,
+        "y": 31.504069486112456
+      },
+      {
+        "x": -39.516139456556374,
+        "y": 34.97538952869448
+      },
+      {
+        "x": -40.56046151745484,
+        "y": 35.17701054872738
+      },
+      {
+        "x": -40.61839242638024,
+        "y": 32.42933804316269
+      },
+      {
+        "x": -40.53384461335397,
+        "y": 32.99825316945708
+      },
+      {
+        "x": -40.59960402348551,
+        "y": 33.254577567018295
+      },
+      {
+        "x": -39.74629739201676,
+        "y": 31.22273783025259
+      }
+    ],
+    "ru_name": "Свирепый Моракс",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212269",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Свирепый Моракс",
+    "core_coord": {
+      "x": -40.223835965591014,
+      "y": 31.59784670473241
+    }
+  },
+  {
+    "id": "chieftain_chantar_212227",
+    "ingame_coords": "[pos:Chieftain Chantar; 210040000 2656.6 1541.5 0.0 0] [pos:Chieftain Chantar; 210040000 2656.6 1541.5 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Chieftain Chantar",
+    "lvl": 40,
+    "hp": 94897,
+    "coords": [
+      {
+        "x": -41.56720677256384,
+        "y": 24.090980354204973
+      }
+    ],
+    "ru_name": "Вождь Чантар",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212227",
+    "agr_radius": "40 m",
+    "ingameFindTip": "/где Вождь Чантар",
+    "core_coord": {
+      "x": -41.56720677256384,
+      "y": 24.090980354204973
+    }
+  },
+  {
+    "id": "chieftain_kunpapa_212247",
+    "ingame_coords": "[pos:Chieftain Kunpapa; 210040000 2766.9 1227.5 0.0 0] [pos:Chieftain Kunpapa; 210040000 2766.9 1227.5 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Chieftain Kunpapa",
+    "lvl": 42,
+    "hp": 478535,
+    "coords": [
+      {
+        "x": -43.2941741386373,
+        "y": 19.183305913093974
+      }
+    ],
+    "ru_name": "Вождь Кунпала",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212247",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Вождь Кунпала",
+    "core_coord": {
+      "x": -43.2941741386373,
+      "y": 19.183305913093974
+    }
+  },
+  {
+    "id": "dedrun_the_sentinel_211088",
+    "ingame_coords": "[pos:Dedrun the Sentinel; 210040000 1592.7 1879.8 0.0 0] [pos:Dedrun the Sentinel; 210040000 1592.7 1879.9 0.0 0] [pos:Dedrun the Sentinel; 210040000 1528.1 1935.1 0.0 0] [pos:Dedrun the Sentinel; 210040000 1535.6 1924.1 0.0 0] [pos:Dedrun the Sentinel; 210040000 1611.6 1973.8 0.0 0] [pos:Dedrun the Sentinel; 210040000 1543.5 1914.7 0.0 0] [pos:Dedrun the Sentinel; 210040000 1625.5 1933.4 0.0 0] [pos:Dedrun the Sentinel; 210040000 1526.5 1967.4 0.0 0] [pos:Dedrun the Sentinel; 210040000 1539.8 1918.2 0.0 0] [pos:Dedrun the Sentinel; 210040000 1592.4 1879.8 0.0 0] [pos:Dedrun the Sentinel; 210040000 1619.0 1912.3 0.0 0] [pos:Dedrun the Sentinel; 210040000 1625.2 1944.4 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Dedrun the Sentinel",
+    "lvl": 43,
+    "hp": 143951,
+    "coords": [
+      {
+        "x": -24.909721906149024,
+        "y": 29.380015484370468
+      },
+      {
+        "x": -23.8732283464567,
+        "y": 30.747599922578146
+      },
+      {
+        "x": -24.1393973874653,
+        "y": 29.92392335236621
+      },
+      {
+        "x": -24.015707068408364,
+        "y": 30.0708409948708
+      },
+      {
+        "x": -25.205639251740937,
+        "y": 30.84762895577277
+      },
+      {
+        "x": -24.0814664785399,
+        "y": 29.978626729894515
+      },
+      {
+        "x": -24.90502480542534,
+        "y": 29.378452530726797
+      },
+      {
+        "x": -25.4232715852715,
+        "y": 30.216195683731733
+      },
+      {
+        "x": -25.321501069591744,
+        "y": 29.886412464918223
+      },
+      {
+        "x": -24.909721906149024,
+        "y": 29.378452530726797
+      },
+      {
+        "x": -23.89827955031633,
+        "y": 30.242765895674054
+      }
+    ],
+    "ru_name": "Караульный Тедрон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211088",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Караульный Тедрон",
+    "core_coord": {
+      "x": -24.909721906149024,
+      "y": 29.380015484370468
+    }
+  },
+  {
+    "id": "spirit_king_agro_211908",
+    "ingame_coords": "[pos:Spirit King Agro; 210040000 263.6 774.3 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Spirit King Agro",
+    "lvl": 43,
+    "hp": 143951,
+    "coords": [{"x": -4.100000000000008, "y": 12.1}],
+    "ru_name": "Властелин элементалей Агур",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211908",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Властелин элементалей Агур",
+    "core_coord": {"x": -4.100000000000008, "y": 12.1}
+  },
+  {
+    "id": "commander_ashutang_212266",
+    "ingame_coords": "[pos:Commander Ashutang; 210040000 2216.5 2317.9 0.0 0] [pos:Commander Ashutang; 210040000 2216.5 2318.0 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Commander Ashutang",
+    "lvl": 44,
+    "hp": 108540,
+    "coords": [
+      {
+        "x": -34.676560010923495,
+        "y": 36.225752443627215
+      }
+    ],
+    "ru_name": "Командир Астан",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212266",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Командир Астан",
+    "core_coord": {
+      "x": -34.676560010923495,
+      "y": 36.225752443627215
+    }
+  },
+  {
+    "id": "medic_mahashi_212267",
+    "ingame_coords": "[pos:Medic Mahashi; 210040000 2840.8 1763.8 0.0 0] [pos:Medic Mahashi; 210040000 2841.0 1764.3 0.0 0] [pos:Medic Mahashi; 210040000 2840.8 1763.8 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Medic Mahashi",
+    "lvl": 44,
+    "hp": 130771,
+    "coords": [
+      {
+        "x": -44.45122661690411,
+        "y": 27.56542630407432
+      },
+      {
+        "x": -44.45435801738656,
+        "y": 27.573241072292653
+      }
+    ],
+    "ru_name": "Военный врач Махаши",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212267",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Военный врач Махаши",
+    "core_coord": {
+      "x": -44.45122661690411,
+      "y": 27.56542630407432
+    }
+  },
+  {
+    "id": "captain_zorejas_212279",
+    "ingame_coords": "[pos:Captain Zorejas; 210040000 3015.5 2128.8 0.0 0] [pos:Captain Zorejas; 210040000 3015.5 2128.8 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Captain Zorejas",
+    "lvl": 44,
+    "hp": 143848,
+    "coords": [
+      {
+        "x": -47.1865049383278,
+        "y": 33.27020710345496
+      }
+    ],
+    "ru_name": "Капитан Дореаз",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212279",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Капитан Дореаз",
+    "core_coord": {
+      "x": -47.1865049383278,
+      "y": 33.27020710345496
+    }
+  },
+  {
+    "id": "medeus_the_vile_211265",
+    "ingame_coords": "[pos:Medeus the Vile; 210040000 210.1 2509.7 0.0 0] [pos:Medeus the Vile; 210040000 210.1 2509.7 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Medeus the Vile",
+    "lvl": 45,
+    "hp": 113141,
+    "coords": [
+      {
+        "x": -3.2623503709435235,
+        "y": 39.223497532178456
+      }
+    ],
+    "ru_name": "Негодующий Медеус",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211265",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Негодующий Медеус",
+    "core_coord": {
+      "x": -3.2623503709435235,
+      "y": 39.223497532178456
+    }
+  },
+  {
+    "id": "greatmage_shivhaz_212278",
+    "ingame_coords": "[pos:Greatmage Shivhaz; 210040000 2460.7 2840.9 0.0 0] [pos:Greatmage Shivhaz; 210040000 2460.3 2840.3 0.0 0] [pos:Greatmage Shivhaz; 210040000 2460.7 2840.9 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Greatmage Shivhaz",
+    "lvl": 45,
+    "hp": 113141,
+    "coords": [
+      {
+        "x": -38.50000000000001,
+        "y": 44.400000000000006
+      },
+      {
+        "x": -38.4937371990351,
+        "y": 44.39062227813801
+      }
+    ],
+    "ru_name": "Верховный маг Шибхаз",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212278",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Верховный маг Шибхаз",
+    "core_coord": {
+      "x": -38.50000000000001,
+      "y": 44.400000000000006
+    }
+  },
+  {
+    "id": "scout_dehavi_212311",
+    "ingame_coords": "[pos:Scout Dehavi; 210040000 2445.1 2530.6 0.0 0] [pos:Scout Dehavi; 210040000 2444.7 2530.4 0.0 0] [pos:Scout Dehavi; 210040000 2445.1 2530.6 0.0 0] [pos:Scout Dehavi; 210040000 2442.1 2539.7 0.0 0] [pos:Scout Dehavi; 210040000 2430.4 2554.2 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Scout Dehavi",
+    "lvl": 46,
+    "hp": 453951,
+    "coords": [
+      {
+        "x": -38.24948796140367,
+        "y": 39.547028936417306
+      },
+      {
+        "x": -38.20877975513177,
+        "y": 39.69238362527823
+      },
+      {
+        "x": -38.255750762368585,
+        "y": 39.55015484370463
+      }
+    ],
+    "ru_name": "Капитан разведки Теаби",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212311",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Капитан разведки Теаби",
+    "core_coord": {
+      "x": -38.24948796140367,
+      "y": 39.547028936417306
+    }
+  },
+  {
+    "id": "indratu_assassin_212312",
+    "ingame_coords": "[pos:Indratu Assassin; 210040000 2365.7 2615.4 0.0 0] [pos:Indratu Assassin; 210040000 2365.8 2615.3 0.0 0] [pos:Indratu Assassin; 210040000 2365.8 2615.4 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Indratu Assassin",
+    "lvl": 46,
+    "hp": 118441,
+    "coords": [
+      {
+        "x": -37.01258477083429,
+        "y": 40.87553953353334
+      },
+      {
+        "x": -37.01415047107552,
+        "y": 40.87397657988968
+      }
+    ],
+    "ru_name": "Драконид-скаут 52-го отряда",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212312",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Драконид-скаут 52-го отряда",
+    "core_coord": {
+      "x": -37.01258477083429,
+      "y": 40.87553953353334
+    }
+  },
+  {
+    "id": "gojira_211897",
+    "ingame_coords": "[pos:Gojira; 210040000 804.6 1042.4 0.0 0] [pos:Gojira; 210040000 804.6 1042.3 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Gojira",
+    "lvl": 47,
+    "hp": 161819,
+    "coords": [
+      {
+        "x": -12.570438305038467,
+        "y": 16.290278718668347
+      }
+    ],
+    "ru_name": "Прожорливая Каккуна",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211897",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Прожорливая Каккуна",
+    "core_coord": {
+      "x": -12.570438305038467,
+      "y": 16.290278718668347
+    }
+  },
+  {
+    "id": "takun_the_terrible_211900",
+    "ingame_coords": "[pos:Takun the Terrible; 210040000 690.3 528.4 0.0 0] [pos:Takun the Terrible; 210040000 690.4 528.5 0.0 0] [pos:Takun the Terrible; 210040000 761.3 541.0 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Takun the Terrible",
+    "lvl": 47,
+    "hp": 169174,
+    "coords": [
+      {
+        "x": -10.78240862955715,
+        "y": 8.258259943869158
+      },
+      {
+        "x": -10.780842929315924,
+        "y": 8.256696990225493
+      }
+    ],
+    "ru_name": "Таккун ужаса",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211900",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Таккун ужаса",
+    "core_coord": {
+      "x": -10.78240862955715,
+      "y": 8.258259943869158
+    }
+  },
+  {
+    "id": "high_priest_yatri_212308",
+    "ingame_coords": "[pos:High Priest Yatri; 210040000 2110.1 2409.4 0.0 0] [pos:High Priest Yatri; 210040000 2110.5 2409.3 0.0 0] [pos:High Priest Yatri; 210040000 2110.1 2409.4 0.0 0] [pos:High Priest Yatri; 210040000 2161.3 2454.5 0.0 0] [pos:High Priest Yatri; 210040000 2130.1 2428.6 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "High Priest Yatri",
+    "lvl": 47,
+    "hp": 537908,
+    "coords": [
+      {
+        "x": -33.010654954257895,
+        "y": 37.65585502758154
+      },
+      {
+        "x": -33.0169177552228,
+        "y": 37.654292073937874
+      },
+      {
+        "x": -33.812293477766154,
+        "y": 38.36074712087487
+      }
+    ],
+    "ru_name": "Верховный жрец Атир",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212308",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Верховный жрец Атир",
+    "core_coord": {
+      "x": -33.010654954257895,
+      "y": 37.65585502758154
+    }
+  },
+  {
+    "id": "branyaka_the_weary_212309",
+    "ingame_coords": "[pos:Branyaka the Weary; 210040000 2301.8 2432.1 0.0 0] [pos:Branyaka the Weary; 210040000 2301.9 2432.1 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Branyaka the Weary",
+    "lvl": 47,
+    "hp": 618595,
+    "coords": [
+      {
+        "x": -36.012102316690196,
+        "y": 38.0106455046937
+      }
+    ],
+    "ru_name": "Опытный Браниак",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212309",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Опытный Браниак",
+    "core_coord": {
+      "x": -36.012102316690196,
+      "y": 38.0106455046937
+    }
+  },
+  {
+    "id": "high_mage_brashuna_212310",
+    "ingame_coords": "[pos:High Mage Brashuna; 210040000 2309.0 2669.5 0.0 0] [pos:High Mage Brashuna; 210040000 2309.4 2669.4 0.0 0] [pos:High Mage Brashuna; 210040000 2309.0 2669.5 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "High Mage Brashuna",
+    "lvl": 47,
+    "hp": 446464,
+    "coords": [
+      {
+        "x": -36.13109553502345,
+        "y": 41.71953450111294
+      },
+      {
+        "x": -36.124832734058536,
+        "y": 41.72109745475661
+      }
+    ],
+    "ru_name": "Верховный маг Врасон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212310",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Верховный маг Врасон",
+    "core_coord": {
+      "x": -36.13109553502345,
+      "y": 41.71953450111294
+    }
+  },
+  {
+    "id": "commander_gitimuka_212307",
+    "ingame_coords": "[pos:Commander Gitimuka; 210040000 1983.5 2639.2 0.0 0] [pos:Commander Gitimuka; 210040000 1983.5 2639.2 0.0 0] [pos:Commander Gitimuka; 210040000 2001.9 2622.0 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Commander Gitimuka",
+    "lvl": 48,
+    "hp": 986773,
+    "coords": [
+      {
+        "x": -31.02847844886442,
+        "y": 41.24752250072583
+      }
+    ],
+    "ru_name": "Командир Китамука",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212307",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Командир Китамука",
+    "core_coord": {
+      "x": -31.02847844886442,
+      "y": 41.24752250072583
+    }
+  },
+  {
+    "id": "ulan_212315",
+    "ingame_coords": "[pos:Ulan; 210040000 1058.7 2794.8 0.0 0] [pos:Ulan; 210040000 1058.8 2795.1 0.0 0] [pos:Ulan; 210040000 1058.7 2794.8 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Ulan",
+    "lvl": 49,
+    "hp": 483660,
+    "coords": [
+      {
+        "x": -16.550448318237684,
+        "y": 43.68416723120101
+      },
+      {
+        "x": -16.54888261799646,
+        "y": 43.67947837027001
+      }
+    ],
+    "ru_name": "Темный маг Оуллан",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212315",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Темный маг Оуллан",
+    "core_coord": {
+      "x": -16.550448318237684,
+      "y": 43.68416723120101
+    }
+  },
+  {
+    "id": "hallion_212316",
+    "ingame_coords": "[pos:Hallion; 210040000 1020.1 2881.2 0.0 0] [pos:Hallion; 210040000 1019.7 2880.8 0.0 0] [pos:Hallion; 210040000 1020.1 2881.2 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Hallion",
+    "lvl": 49,
+    "hp": 483660,
+    "coords": [
+      {
+        "x": -15.9382595239179,
+        "y": 45.02361850382271
+      },
+      {
+        "x": -15.944522324882808,
+        "y": 45.029870318397364
+      }
+    ],
+    "ru_name": "Темный воин Халлион",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212316",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Темный воин Халлион",
+    "core_coord": {
+      "x": -15.9382595239179,
+      "y": 45.02361850382271
+    }
+  },
+  {
+    "id": "exedil_212317",
+    "ingame_coords": "[pos:Exedil; 210040000 958.1 2803.1 0.0 0] [pos:Exedil; 210040000 958.0 2803.1 0.0 0] [pos:Exedil; 210040000 958.1 2803.1 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Exedil",
+    "lvl": 49,
+    "hp": 582723,
+    "coords": [
+      {
+        "x": -14.972222475080796,
+        "y": 43.80920352269428
+      },
+      {
+        "x": -14.973788175322023,
+        "y": 43.80920352269428
+      }
+    ],
+    "ru_name": "Темный жрец Акседель",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212317",
+    "agr_radius": "12 m",
+    "ingameFindTip": "/где Темный жрец Акседель",
+    "core_coord": {
+      "x": -14.972222475080796,
+      "y": 43.80920352269428
+    }
+  },
+  {
+    "id": "guardian_vingeveu_212281",
+    "ingame_coords": "[pos:Guardian Vingeveu; 210040000 2855.5 2504.0 0.0 0] [pos:Guardian Vingeveu; 210040000 2855.5 2504.0 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Guardian Vingeveu",
+    "lvl": 46,
+    "hp": 156970,
+    "coords": [
+      {
+        "x": -44.68138455236449,
+        "y": 39.1344091744895
+      }
+    ],
+    "ru_name": "Третий хранитель Вингебу",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212281",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Третий хранитель Вингебу",
+    "core_coord": {
+      "x": -44.68138455236449,
+      "y": 39.1344091744895
+    }
+  },
+  {
+    "id": "bulwark_jeshuchi_212282",
+    "ingame_coords": "[pos:Bulwark Jeshuchi; 210040000 2793.8 2596.5 0.0 0] [pos:Bulwark Jeshuchi; 210040000 2793.9 2596.5 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Bulwark Jeshuchi",
+    "lvl": 47,
+    "hp": 1246140,
+    "coords": [
+      {
+        "x": -43.71534750352739,
+        "y": 40.580141294880484
+      }
+    ],
+    "ru_name": "Второй хранитель Чезуч",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212282",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Второй хранитель Чезуч",
+    "core_coord": {
+      "x": -43.71534750352739,
+      "y": 40.580141294880484
+    }
+  },
+  {
+    "id": "deputy_hanuman_212306",
+    "ingame_coords": "[pos:Deputy Hanuman; 210040000 1933.3 2612.4 0.0 0] [pos:Deputy Hanuman; 210040000 1933.3 2612.5 0.0 0] ",
+    "type": "legendary_npc",
+    "name": "Deputy Hanuman",
+    "lvl": 48,
+    "hp": 2868018,
+    "coords": [
+      {
+        "x": -30.24249692776843,
+        "y": 40.82865092422337
+      }
+    ],
+    "ru_name": "Адъютант Хануман",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212306",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Адъютант Хануман",
+    "core_coord": {
+      "x": -30.24249692776843,
+      "y": 40.82865092422337
+    }
+  },
+  {
+    "id": "bollvig_blackheart_212314",
+    "ingame_coords": "[pos:Bollvig Blackheart; 210040000 1001.5 2828.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.5 2828.5 0.0 0] [pos:Bollvig Blackheart; 210040000 999.5 2830.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.1 2825.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.4 2826.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.0 2831.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.2 2826.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.0 2831.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.1 2829.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.9 2826.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.9 2825.8 0.0 0] [pos:Bollvig Blackheart; 210040000 998.8 2828.8 0.0 0] [pos:Bollvig Blackheart; 210040000 999.5 2827.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.3 2826.3 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.6 2830.3 0.0 0] [pos:Bollvig Blackheart; 210040000 999.6 2830.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.2 2826.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.0 2825.9 0.0 0] [pos:Bollvig Blackheart; 210040000 999.5 2829.5 0.0 0] [pos:Bollvig Blackheart; 210040000 999.3 2828.3 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.0 2825.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.7 2828.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.6 2830.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.4 2830.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.8 2828.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.0 2831.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.2 2830.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.0 2831.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.2 2830.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.6 2825.4 0.0 0] [pos:Bollvig Blackheart; 210040000 999.5 2828.3 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.2 2827.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.4 2825.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.6 2830.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.8 2826.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.2 2827.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.2 2826.3 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.1 2826.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.3 2826.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.0 2826.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.1 2825.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.9 2826.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.6 2826.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.1 2828.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.9 2829.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.6 2830.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.4 2830.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.4 2831.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.2 2830.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.2 2830.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.1 2830.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.6 2829.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.4 2829.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.3 2828.5 0.0 0] [pos:Bollvig Blackheart; 210040000 999.5 2826.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.8 2830.3 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.6 2830.9 0.0 0] [pos:Bollvig Blackheart; 210040000 999.9 2829.9 0.0 0] [pos:Bollvig Blackheart; 210040000 998.8 2827.9 0.0 0] [pos:Bollvig Blackheart; 210040000 999.1 2826.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.7 2825.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.4 2831.0 0.0 0] [pos:Bollvig Blackheart; 210040000 999.3 2829.9 0.0 0] [pos:Bollvig Blackheart; 210040000 999.8 2828.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.8 2828.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.0 2828.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.5 2828.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.3 2826.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.8 2828.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.1 2830.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.0 2830.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.8 2830.7 0.0 0] [pos:Bollvig Blackheart; 210040000 999.6 2830.3 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.5 2830.5 0.0 0] [pos:Bollvig Blackheart; 210040000 999.2 2828.0 0.0 0] [pos:Bollvig Blackheart; 210040000 998.9 2826.8 0.0 0] [pos:Bollvig Blackheart; 210040000 999.8 2826.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.9 2826.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.8 2827.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.5 2829.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.3 2827.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.1 2826.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.0 2826.7 0.0 0] [pos:Bollvig Blackheart; 210040000 999.6 2826.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.9 2826.3 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.4 2829.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.1 2827.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.6 2829.4 0.0 0] [pos:Bollvig Blackheart; 210040000 998.6 2828.9 0.0 0] [pos:Bollvig Blackheart; 210040000 999.4 2826.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.5 2826.3 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.8 2826.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.6 2827.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.4 2831.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.1 2829.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.0 2826.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.8 2825.8 0.0 0] [pos:Bollvig Blackheart; 210040000 999.0 2827.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.7 2825.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.3 2827.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.0 2830.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.5 2831.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.8 2830.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.9 2830.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.9 2829.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.1 2826.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.9 2826.1 0.0 0] [pos:Bollvig Blackheart; 210040000 999.6 2826.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.9 2826.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.5 2827.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.3 2830.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.9 2829.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.3 2826.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.8 2825.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.7 2831.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.2 2830.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.6 2829.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.4 2826.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.3 2830.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.0 2831.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.2 2831.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.0 2829.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.3 2826.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.5 2825.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.4 2830.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.4 2829.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.1 2828.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.8 2831.3 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.6 2829.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.5 2830.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.1 2830.7 0.0 0] [pos:Bollvig Blackheart; 210040000 999.9 2826.0 0.0 0] [pos:Bollvig Blackheart; 210040000 999.9 2827.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.4 2831.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.2 2827.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.8 2826.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.4 2830.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.4 2830.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.1 2826.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.3 2826.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.2 2830.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.7 2830.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.7 2830.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.4 2825.9 0.0 0] [pos:Bollvig Blackheart; 210040000 998.9 2828.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.0 2826.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.8 2828.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.9 2829.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.9 2831.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.4 2826.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.2 2826.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.7 2830.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.7 2829.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.9 2829.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.6 2825.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.7 2826.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.9 2827.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.2 2825.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.0 2826.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.2 2827.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.8 2825.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.9 2831.5 0.0 0] [pos:Bollvig Blackheart; 210040000 999.9 2828.9 0.0 0] [pos:Bollvig Blackheart; 210040000 999.6 2826.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.7 2830.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.6 2828.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.8 2827.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.5 2830.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.4 2825.5 0.0 0] [pos:Bollvig Blackheart; 210040000 999.3 2828.4 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.3 2828.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.2 2829.0 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.8 2825.6 0.0 0] [pos:Bollvig Blackheart; 210040000 999.2 2828.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.2 2831.1 0.0 0] [pos:Bollvig Blackheart; 210040000 999.8 2830.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.1 2828.3 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.1 2825.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.9 2826.5 0.0 0] [pos:Bollvig Blackheart; 210040000 999.7 2829.9 0.0 0] [pos:Bollvig Blackheart; 210040000 999.5 2827.8 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.2 2826.8 0.0 0] [pos:Bollvig Blackheart; 210040000 999.8 2827.5 0.0 0] [pos:Bollvig Blackheart; 210040000 999.2 2827.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1004.2 2827.2 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.8 2829.7 0.0 0] [pos:Bollvig Blackheart; 210040000 998.8 2830.1 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.1 2825.9 0.0 0] [pos:Bollvig Blackheart; 210040000 1001.4 2825.7 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.3 2826.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.6 2828.6 0.0 0] [pos:Bollvig Blackheart; 210040000 1002.1 2830.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1000.4 2826.5 0.0 0] [pos:Bollvig Blackheart; 210040000 1003.8 2830.1 0.0 0] ",
+    "type": "legendary_npc",
+    "name": "Bollvig Blackheart",
+    "lvl": 50,
+    "hp": 2324975,
+    "coords": [
+      {
+        "x": -15.686181785080342,
+        "y": 44.237452821058746
+      },
+      {
+        "x": -15.657999180738253,
+        "y": 44.249956450208074
+      },
+      {
+        "x": -15.643907878567209,
+        "y": 44.17180876802478
+      },
+      {
+        "x": -15.668959082426843,
+        "y": 44.16086809251912
+      },
+      {
+        "x": -15.645473578808437,
+        "y": 44.2530823574954
+      },
+      {
+        "x": -15.667393382185615,
+        "y": 44.16711990709378
+      },
+      {
+        "x": -15.665827681944387,
+        "y": 44.19681602632343
+      },
+      {
+        "x": -15.664261981703163,
+        "y": 44.24057872834607
+      },
+      {
+        "x": -15.653302080014573,
+        "y": 44.237452821058746
+      },
+      {
+        "x": -15.661130581220707,
+        "y": 44.248393496564404
+      },
+      {
+        "x": -15.62198807519003,
+        "y": 44.19681602632343
+      },
+      {
+        "x": -15.623553775431258,
+        "y": 44.17493467531211
+      },
+      {
+        "x": -15.656433480497027,
+        "y": 44.24683054292074
+      },
+      {
+        "x": -15.628250876154938,
+        "y": 44.16711990709378
+      },
+      {
+        "x": -15.618856674707576,
+        "y": 44.2030678408981
+      },
+      {
+        "x": -15.651736379773345,
+        "y": 44.21400851640376
+      },
+      {
+        "x": -15.668959082426843,
+        "y": 44.192127165392435
+      },
+      {
+        "x": -15.690878885804022,
+        "y": 44.19525307267977
+      },
+      {
+        "x": -15.679918984115433,
+        "y": 44.19681602632343
+      },
+      {
+        "x": -15.62198807519003,
+        "y": 44.24057872834607
+      },
+      {
+        "x": -15.63294797687862,
+        "y": 44.179623536243106
+      },
+      {
+        "x": -15.686181785080342,
+        "y": 44.20775670182909
+      },
+      {
+        "x": -15.694010286286476,
+        "y": 44.20619374818543
+      },
+      {
+        "x": -15.683050384597886,
+        "y": 44.22182328462208
+      },
+      {
+        "x": -15.629816576396166,
+        "y": 44.178060582599436
+      },
+      {
+        "x": -15.629816576396166,
+        "y": 44.165556953450114
+      },
+      {
+        "x": -15.673656183150523,
+        "y": 44.16868286073744
+      },
+      {
+        "x": -15.662696281461935,
+        "y": 44.237452821058746
+      },
+      {
+        "x": -15.61729097446635,
+        "y": 44.198378979967096
+      },
+      {
+        "x": -15.673656183150523,
+        "y": 44.16399399980645
+      },
+      {
+        "x": -15.68148468435666,
+        "y": 44.17493467531211
+      },
+      {
+        "x": -15.68148468435666,
+        "y": 44.16711990709378
+      },
+      {
+        "x": -15.643907878567209,
+        "y": 44.24683054292074
+      },
+      {
+        "x": -15.651736379773345,
+        "y": 44.24526758927708
+      },
+      {
+        "x": -15.676787583632978,
+        "y": 44.24683054292074
+      },
+      {
+        "x": -15.614159573983896,
+        "y": 44.18587535081777
+      },
+      {
+        "x": -15.661130581220707,
+        "y": 44.170245814381104
+      },
+      {
+        "x": -15.686181785080342,
+        "y": 44.23901577470241
+      },
+      {
+        "x": -15.687747485321568,
+        "y": 44.212445562760095
+      },
+      {
+        "x": -15.645473578808437,
+        "y": 44.24683054292074
+      },
+      {
+        "x": -15.689313185562794,
+        "y": 44.179623536243106
+      },
+      {
+        "x": -15.639210777843529,
+        "y": 44.22026033097842
+      },
+      {
+        "x": -15.667393382185615,
+        "y": 44.243704635633414
+      },
+      {
+        "x": -15.661130581220707,
+        "y": 44.237452821058746
+      },
+      {
+        "x": -15.620422374948804,
+        "y": 44.179623536243106
+      },
+      {
+        "x": -15.664261981703163,
+        "y": 44.24683054292074
+      },
+      {
+        "x": -15.667393382185615,
+        "y": 44.248393496564404
+      },
+      {
+        "x": -15.679918984115433,
+        "y": 44.23901577470241
+      },
+      {
+        "x": -15.679918984115433,
+        "y": 44.23120100648408
+      },
+      {
+        "x": -15.612593873742668,
+        "y": 44.179623536243106
+      },
+      {
+        "x": -15.618856674707576,
+        "y": 44.204630794541764
+      },
+      {
+        "x": -15.683050384597886,
+        "y": 44.179623536243106
+      },
+      {
+        "x": -15.607896773018988,
+        "y": 44.212445562760095
+      },
+      {
+        "x": -15.670524782668071,
+        "y": 44.217134423691085
+      },
+      {
+        "x": -15.62198807519003,
+        "y": 44.22182328462208
+      },
+      {
+        "x": -15.695575986527704,
+        "y": 44.18587535081777
+      },
+      {
+        "x": -15.651736379773345,
+        "y": 44.16243104616278
+      },
+      {
+        "x": -15.694010286286476,
+        "y": 44.19994193361076
+      },
+      {
+        "x": -15.643907878567209,
+        "y": 44.17649762895577
+      },
+      {
+        "x": -15.636079377361074,
+        "y": 44.23120100648408
+      },
+      {
+        "x": -15.62668517591371,
+        "y": 44.24057872834607
+      },
+      {
+        "x": -15.61729097446635,
+        "y": 44.20775670182909
+      },
+      {
+        "x": -15.631382276637394,
+        "y": 44.165556953450114
+      },
+      {
+        "x": -15.690878885804022,
+        "y": 44.22026033097842
+      },
+      {
+        "x": -15.651736379773345,
+        "y": 44.25464531113907
+      },
+      {
+        "x": -15.689313185562794,
+        "y": 44.23432691377142
+      },
+      {
+        "x": -15.679918984115433,
+        "y": 44.21400851640376
+      },
+      {
+        "x": -15.623553775431258,
+        "y": 44.23120100648408
+      },
+      {
+        "x": -15.689313185562794,
+        "y": 44.18587535081777
+      },
+      {
+        "x": -15.64860497929089,
+        "y": 44.24057872834607
+      },
+      {
+        "x": -15.656433480497027,
+        "y": 44.15774218523178
+      },
+      {
+        "x": -15.686181785080342,
+        "y": 44.22807509919675
+      },
+      {
+        "x": -15.654867780255799,
+        "y": 44.159305138875446
+      },
+      {
+        "x": -15.642342178325983,
+        "y": 44.16399399980645
+      },
+      {
+        "x": -15.68148468435666,
+        "y": 44.23588986741508
+      },
+      {
+        "x": -15.623553775431258,
+        "y": 44.178060582599436
+      },
+      {
+        "x": -15.631382276637394,
+        "y": 44.16868286073744
+      },
+      {
+        "x": -15.647039279049665,
+        "y": 44.16086809251912
+      },
+      {
+        "x": -15.656433480497027,
+        "y": 44.229638052840414
+      },
+      {
+        "x": -15.63294797687862,
+        "y": 44.16399399980645
+      },
+      {
+        "x": -15.657999180738253,
+        "y": 44.22494919190942
+      },
+      {
+        "x": -15.675221883391751,
+        "y": 44.17493467531211
+      },
+      {
+        "x": -15.657999180738253,
+        "y": 44.204630794541764
+      },
+      {
+        "x": -15.668959082426843,
+        "y": 44.248393496564404
+      },
+      {
+        "x": -15.62668517591371,
+        "y": 44.190564211748764
+      },
+      {
+        "x": -15.654867780255799,
+        "y": 44.15774218523178
+      },
+      {
+        "x": -15.662696281461935,
+        "y": 44.1890012581051
+      },
+      {
+        "x": -15.640776478084756,
+        "y": 44.22026033097842
+      },
+      {
+        "x": -15.689313185562794,
+        "y": 44.212445562760095
+      },
+      {
+        "x": -15.664261981703163,
+        "y": 44.19525307267977
+      },
+      {
+        "x": -15.679918984115433,
+        "y": 44.17180876802478
+      },
+      {
+        "x": -15.650170679532117,
+        "y": 44.178060582599436
+      },
+      {
+        "x": -15.62198807519003,
+        "y": 44.2030678408981
+      },
+      {
+        "x": -15.61102817350144,
+        "y": 44.23120100648408
+      },
+      {
+        "x": -15.667393382185615,
+        "y": 44.16086809251912
+      },
+      {
+        "x": -15.62198807519003,
+        "y": 44.17493467531211
+      },
+      {
+        "x": -15.68148468435666,
+        "y": 44.178060582599436
+      },
+      {
+        "x": -15.645473578808437,
+        "y": 44.178060582599436
+      },
+      {
+        "x": -15.629816576396166,
+        "y": 44.173371721668445
+      },
+      {
+        "x": -15.645473578808437,
+        "y": 44.165556953450114
+      },
+      {
+        "x": -15.678353283874205,
+        "y": 44.229638052840414
+      },
+      {
+        "x": -15.676787583632978,
+        "y": 44.229638052840414
+      },
+      {
+        "x": -15.694010286286476,
+        "y": 44.23276396012775
+      },
+      {
+        "x": -15.651736379773345,
+        "y": 44.16711990709378
+      },
+      {
+        "x": -15.694010286286476,
+        "y": 44.22807509919675
+      },
+      {
+        "x": -15.694010286286476,
+        "y": 44.22026033097842
+      },
+      {
+        "x": -15.678353283874205,
+        "y": 44.17649762895577
+      },
+      {
+        "x": -15.686181785080342,
+        "y": 44.23432691377142
+      },
+      {
+        "x": -15.628250876154938,
+        "y": 44.22807509919675
+      },
+      {
+        "x": -15.656433480497027,
+        "y": 44.23120100648408
+      },
+      {
+        "x": -15.686181785080342,
+        "y": 44.1936901190361
+      },
+      {
+        "x": -15.639210777843529,
+        "y": 44.243704635633414
+      },
+      {
+        "x": -15.61102817350144,
+        "y": 44.19681602632343
+      },
+      {
+        "x": -15.679918984115433,
+        "y": 44.24683054292074
+      },
+      {
+        "x": -15.639210777843529,
+        "y": 44.16711990709378
+      },
+      {
+        "x": -15.667393382185615,
+        "y": 44.25151940385174
+      },
+      {
+        "x": -15.642342178325983,
+        "y": 44.209319655472754
+      },
+      {
+        "x": -15.672090482909297,
+        "y": 44.24214168198974
+      },
+      {
+        "x": -15.679918984115433,
+        "y": 44.18587535081777
+      },
+      {
+        "x": -15.612593873742668,
+        "y": 44.198378979967096
+      },
+      {
+        "x": -15.68148468435666,
+        "y": 44.23276396012775
+      },
+      {
+        "x": -15.640776478084756,
+        "y": 44.173371721668445
+      },
+      {
+        "x": -15.695575986527704,
+        "y": 44.19681602632343
+      },
+      {
+        "x": -15.651736379773345,
+        "y": 44.165556953450114
+      },
+      {
+        "x": -15.694010286286476,
+        "y": 44.2030678408981
+      },
+      {
+        "x": -15.650170679532117,
+        "y": 44.17180876802478
+      },
+      {
+        "x": -15.6376450776023,
+        "y": 44.24057872834607
+      },
+      {
+        "x": -15.675221883391751,
+        "y": 44.22807509919675
+      },
+      {
+        "x": -15.665827681944387,
+        "y": 44.17649762895577
+      },
+      {
+        "x": -15.700273087251384,
+        "y": 44.21400851640376
+      },
+      {
+        "x": -15.642342178325983,
+        "y": 44.24057872834607
+      },
+      {
+        "x": -15.661130581220707,
+        "y": 44.210882609116425
+      },
+      {
+        "x": -15.659564880979481,
+        "y": 44.17493467531211
+      },
+      {
+        "x": -15.64860497929089,
+        "y": 44.17649762895577
+      },
+      {
+        "x": -15.651736379773345,
+        "y": 44.229638052840414
+      },
+      {
+        "x": -15.631382276637394,
+        "y": 44.24057872834607
+      },
+      {
+        "x": -15.62668517591371,
+        "y": 44.16711990709378
+      },
+      {
+        "x": -15.667393382185615,
+        "y": 44.24214168198974
+      },
+      {
+        "x": -15.6376450776023,
+        "y": 44.17180876802478
+      },
+      {
+        "x": -15.678353283874205,
+        "y": 44.165556953450114
+      },
+      {
+        "x": -15.625119475672486,
+        "y": 44.22807509919675
+      },
+      {
+        "x": -15.623553775431258,
+        "y": 44.23432691377142
+      },
+      {
+        "x": -15.665827681944387,
+        "y": 44.19994193361076
+      },
+      {
+        "x": -15.623553775431258,
+        "y": 44.173371721668445
+      },
+      {
+        "x": -15.661130581220707,
+        "y": 44.24683054292074
+      },
+      {
+        "x": -15.64860497929089,
+        "y": 44.16711990709378
+      },
+      {
+        "x": -15.62198807519003,
+        "y": 44.19525307267977
+      },
+      {
+        "x": -15.68148468435666,
+        "y": 44.18274944353044
+      },
+      {
+        "x": -15.631382276637394,
+        "y": 44.179623536243106
+      },
+      {
+        "x": -15.628250876154938,
+        "y": 44.18587535081777
+      },
+      {
+        "x": -15.636079377361074,
+        "y": 44.217134423691085
+      },
+      {
+        "x": -15.668959082426843,
+        "y": 44.23120100648408
+      },
+      {
+        "x": -15.63294797687862,
+        "y": 44.23901577470241
+      },
+      {
+        "x": -15.61102817350144,
+        "y": 44.210882609116425
+      },
+      {
+        "x": -15.679918984115433,
+        "y": 44.243704635633414
+      },
+      {
+        "x": -15.634513677119847,
+        "y": 44.20619374818543
+      },
+      {
+        "x": -15.672090482909297,
+        "y": 44.243704635633414
+      },
+      {
+        "x": -15.689313185562794,
+        "y": 44.19994193361076
+      },
+      {
+        "x": -15.62668517591371,
+        "y": 44.198378979967096
+      },
+      {
+        "x": -15.61729097446635,
+        "y": 44.18587535081777
+      },
+      {
+        "x": -15.642342178325983,
+        "y": 44.16243104616278
+      },
+      {
+        "x": -15.686181785080342,
+        "y": 44.198378979967096
+      },
+      {
+        "x": -15.651736379773345,
+        "y": 44.159305138875446
+      },
+      {
+        "x": -15.618856674707576,
+        "y": 44.22807509919675
+      },
+      {
+        "x": -15.69244458604525,
+        "y": 44.22651214555309
+      },
+      {
+        "x": -15.675221883391751,
+        "y": 44.21400851640376
+      },
+      {
+        "x": -15.657999180738253,
+        "y": 44.170245814381104
+      },
+      {
+        "x": -15.628250876154938,
+        "y": 44.212445562760095
+      },
+      {
+        "x": -15.653302080014573,
+        "y": 44.20619374818543
+      },
+      {
+        "x": -15.700273087251384,
+        "y": 44.210882609116425
+      },
+      {
+        "x": -15.69244458604525,
+        "y": 44.178060582599436
+      },
+      {
+        "x": -15.690878885804022,
+        "y": 44.217134423691085
+      },
+      {
+        "x": -15.659564880979481,
+        "y": 44.16868286073744
+      },
+      {
+        "x": -15.689313185562794,
+        "y": 44.23901577470241
+      },
+      {
+        "x": -15.657999180738253,
+        "y": 44.190564211748764
+      },
+      {
+        "x": -15.64860497929089,
+        "y": 44.170245814381104
+      },
+      {
+        "x": -15.659564880979481,
+        "y": 44.16399399980645
+      },
+      {
+        "x": -15.636079377361074,
+        "y": 44.17493467531211
+      },
+      {
+        "x": -15.670524782668071,
+        "y": 44.24057872834607
+      },
+      {
+        "x": -15.68148468435666,
+        "y": 44.18118648988678
+      },
+      {
+        "x": -15.686181785080342,
+        "y": 44.22494919190942
+      },
+      {
+        "x": -15.643907878567209,
+        "y": 44.2530823574954
+      },
+      {
+        "x": -15.642342178325983,
+        "y": 44.16086809251912
+      },
+      {
+        "x": -15.615725274225122,
+        "y": 44.178060582599436
+      },
+      {
+        "x": -15.675221883391751,
+        "y": 44.23276396012775
+      }
+    ],
+    "ru_name": "Расберг Черное Сердце",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212314",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Расберг Черное Сердце",
+    "core_coord": {
+      "x": -15.686181785080342,
+      "y": 44.237452821058746
+    }
+  },
+  {
+    "id": "watcher_zapiel_212283",
+    "ingame_coords": "[pos:Watcher Zapiel; 210040000 2921.1 2567.7 0.0 0] [pos:Watcher Zapiel; 210040000 2921.1 2567.8 0.0 0] ",
+    "type": "legendary_npc",
+    "name": "Watcher Zapiel",
+    "lvl": 48,
+    "hp": 2868018,
+    "coords": [
+      {
+        "x": -45.708483910609445,
+        "y": 40.13001064550469
+      }
+    ],
+    "ru_name": "Первый хранитель Чафиэль",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212283",
+    "agr_radius": "16 m",
+    "ingameFindTip": "/где Первый хранитель Чафиэль",
+    "core_coord": {
+      "x": -45.708483910609445,
+      "y": 40.13001064550469
+    }
+  },
+  {
+    "id": "akairun_of_medeus_212008",
+    "ingame_coords": "[pos:Akairun of Medeus;210040000 182 2704 0.0 0]",
+    "type": "legendary_npc",
+    "name": "Akairun of Medeus",
+    "lvl": 47,
+    "hp": 2577183,
+    "coords": [{"x": -2.8223886031587164, "y": 42.260316461821354}],
+    "ru_name": "Акаирун Медеуса",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=212008",
+    "agr_radius": "20 m",
+    "ingameFindTip": "/где Акаирун Медеуса",
+    "core_coord": {"x": -2.8223886031587164, "y": 42.260316461821354}
+  }
+]

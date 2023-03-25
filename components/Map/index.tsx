@@ -35,7 +35,7 @@ export const Map: NextPage<MapProps> = ({
         crs={CRS.Simple}
         maxBounds={[
           [-60, -20],
-          [20, 60],
+          [40, 60],
         ]}
         minZoom={4}
         maxZoom={7}
@@ -64,6 +64,9 @@ export const Map: NextPage<MapProps> = ({
             >
               <Popup>
                 <GatheringMarkerPopup material={material} />
+                <p className="text-white">
+                  {material_coords.x} {material_coords.y}
+                </p>
               </Popup>
             </Marker>
           ))
@@ -80,7 +83,6 @@ export const Map: NextPage<MapProps> = ({
           >
             <Popup>
               <NpcMarkerPopup npc={npc} />
-              {/*{npc_coord.x} {npc_coord.y} <br /> {npc.id} customizable.*/}
             </Popup>
           </Marker>
         ))}

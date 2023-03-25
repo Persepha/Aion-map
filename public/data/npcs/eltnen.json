@@ -1,0 +1,1438 @@
+[
+  {
+    "id": "fidget_210765",
+    "ingame_coords": "[pos:Fidget; 210020000 756.6 2823.6 0.0 0] [pos:Fidget; 210020000 765.8 2227.3 0.0 0] [pos:Fidget; 210020000 763.8 2232.6 0.0 0] [pos:Fidget; 210020000 764.0 2228.1 0.0 0] [pos:Fidget; 210020000 770.6 2235.2 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Fidget",
+    "lvl": 22,
+    "hp": 3098,
+    "coords": [
+      {
+        "x": -11.985910707862022,
+        "y": 34.67594721538806
+      },
+      {
+        "x": -11.954654462608415,
+        "y": 34.758689331245805
+      },
+      {
+        "x": -11.84213197969543,
+        "y": 43.98521583538358
+      },
+      {
+        "x": -11.957780087133777,
+        "y": 34.68843659136658
+      }
+    ],
+    "ru_name": "Жадный Манку",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210765",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Жадный Манку",
+    "core_coord": {
+      "x": -11.985910707862022,
+      "y": 34.67594721538806
+    }
+  },
+  {
+    "id": "trisqeek_210782",
+    "ingame_coords": "[pos:Trisqeek; 210020000 214.0 2063.0 0.0 0] [pos:Trisqeek; 210020000 207.1 2065.2 0.0 0] [pos:Trisqeek; 210020000 216.4 2063.1 0.0 0] [pos:Trisqeek; 210020000 214.0 2065.5 0.0 0] [pos:Trisqeek; 210020000 220.6 2059.4 0.0 0] [pos:Trisqeek; 210020000 208.4 2061.2 0.0 0] [pos:Trisqeek; 210020000 208.2 2065.5 0.0 0] [pos:Trisqeek; 210020000 206.3 2059.6 0.0 0] [pos:Trisqeek; 210020000 210.6 2068.9 0.0 0] [pos:Trisqeek; 210020000 209.8 2072.7 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Trisqeek",
+    "lvl": 24,
+    "hp": 3600,
+    "coords": [
+      {
+        "x": -3.309177025460649,
+        "y": 32.203050771639454
+      },
+      {
+        "x": -3.2747951556816814,
+        "y": 32.082840527846116
+      },
+      {
+        "x": -3.2716695311563204,
+        "y": 32.149970923730706
+      },
+      {
+        "x": -3.3623126423917817,
+        "y": 32.149970923730706
+      },
+      {
+        "x": -3.2544785962668366,
+        "y": 32.145287407738756
+      },
+      {
+        "x": -3.465458251728686,
+        "y": 32.05473943189443
+      },
+      {
+        "x": -3.2419760981653942,
+        "y": 32.05786177588906
+      },
+      {
+        "x": -3.3998201366961105,
+        "y": 32.11250279579512
+      },
+      {
+        "x": -3.3623126423917817,
+        "y": 32.11094162379781
+      }
+    ],
+    "ru_name": "Сквиз Тиран",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210782",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Сквиз Тиран",
+    "core_coord": {
+      "x": -3.309177025460649,
+      "y": 32.203050771639454
+    }
+  },
+  {
+    "id": "kumonga_213001",
+    "ingame_coords": "[pos:Kumonga; 210020000 816.2 2120.6 0.0 0] [pos:Kumonga; 210020000 816.2 2120.6 0.0 0] [pos:Kumonga; 210020000 819.8 2119.7 0.0 0] [pos:Kumonga; 210020000 817.2 2117.3 0.0 0] [pos:Kumonga; 210020000 812.1 2119.2 0.0 0] [pos:Kumonga; 210020000 811.7 2119.0 0.0 0] [pos:Kumonga; 210020000 819.8 2120.1 0.0 0] [pos:Kumonga; 210020000 809.5 2123.0 0.0 0] [pos:Kumonga; 210020000 819.6 2118.2 0.0 0] [pos:Kumonga; 210020000 823.2 2117.2 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Kumonga",
+    "lvl": 24,
+    "hp": 2599,
+    "coords": [
+      {
+        "x": -12.78919621087973,
+        "y": 32.958658018340415
+      },
+      {
+        "x": -12.826703705184059,
+        "y": 32.97270856631626
+      },
+      {
+        "x": -12.668859666653342,
+        "y": 33.04764482218743
+      },
+      {
+        "x": -12.829829329709419,
+        "y": 33.002370834265264
+      },
+      {
+        "x": -12.773568088252928,
+        "y": 33.01017669425184
+      },
+      {
+        "x": -12.709492785483032,
+        "y": 32.988320286289415
+      },
+      {
+        "x": -12.829829329709419,
+        "y": 32.996126146276
+      },
+      {
+        "x": -12.70324153643231,
+        "y": 32.98519794229479
+      }
+    ],
+    "ru_name": "Кумонга",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=213001",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Кумонга",
+    "core_coord": {
+      "x": -12.78919621087973,
+      "y": 32.958658018340415
+    }
+  },
+  {
+    "id": "galatia_210815",
+    "ingame_coords": "[pos:Galatia; 210020000 1060.5 2296.0 0.0 0] [pos:Galatia; 210020000 1215.7 2206.3 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Galatia",
+    "lvl": 27,
+    "hp": 4319,
+    "coords": [
+      {
+        "x": -16.591518445981052,
+        "y": 35.748472377544175
+      }
+    ],
+    "ru_name": "Отчаявшаяся Каллатия",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210815",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Отчаявшаяся Каллатия",
+    "core_coord": {
+      "x": -16.591518445981052,
+      "y": 35.748472377544175
+    }
+  },
+  {
+    "id": "snaggletooth_211649",
+    "ingame_coords": "[pos:Snaggletooth; 210020000 251.7 1440.9 0.0 0] [pos:Snaggletooth; 210020000 251.7 1440.9 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Snaggletooth",
+    "lvl": 27,
+    "hp": 4131,
+    "coords": [
+      {
+        "x": -3.9514928654222783,
+        "y": 22.398890628494744
+      }
+    ],
+    "ru_name": "Басалмон Молниевогривый",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211649",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Басалмон Молниевогривый",
+    "core_coord": {
+      "x": -3.9514928654222783,
+      "y": 22.398890628494744
+    }
+  },
+  {
+    "id": "queen_mediarch_210870",
+    "ingame_coords": "[pos:Queen Mediarch; 210020000 1166.5 840.5 0.0 0] [pos:Queen Mediarch; 210020000 837.8 474.2 0.0 0] [pos:Queen Mediarch; 210020000 838.4 472.9 0.0 0] [pos:Queen Mediarch; 210020000 1154.3 835.1 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Queen Mediarch",
+    "lvl": 29,
+    "hp": 3568,
+    "coords": [
+      {
+        "x": -13.120512410567967,
+        "y": 7.286745694475509
+      },
+      {
+        "x": -18.248099444422238,
+        "y": 13.02561395660926
+      },
+      {
+        "x": -13.111135536991885,
+        "y": 7.307040930440618
+      }
+    ],
+    "ru_name": "Королева Медиак",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210870",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Королева Медиак",
+    "core_coord": {
+      "x": -13.120512410567967,
+      "y": 7.286745694475509
+    }
+  },
+  {
+    "id": "razorjaw_211675",
+    "ingame_coords": "[pos:Razorjaw; 210020000 1605.0 2127.6 0.0 0] [pos:Razorjaw; 210020000 1617.0 2117.6 0.0 0] [pos:Razorjaw; 210020000 1617.4 2121.0 0.0 0] [pos:Razorjaw; 210020000 1618.8 2129.2 0.0 0] [pos:Razorjaw; 210020000 1617.5 2136.5 0.0 0] [pos:Razorjaw; 210020000 1616.1 2133.8 0.0 0] [pos:Razorjaw; 210020000 1597.7 2128.5 0.0 0] [pos:Razorjaw; 210020000 1597.5 2128.7 0.0 0] [pos:Razorjaw; 210020000 1611.9 2133.8 0.0 0] [pos:Razorjaw; 210020000 1617.1 2132.7 0.0 0] [pos:Razorjaw; 210020000 1597.7 2136.7 0.0 0] [pos:Razorjaw; 210020000 1596.3 2132.8 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Razorjaw",
+    "lvl": 30,
+    "hp": 4982,
+    "coords": [
+      {
+        "x": -25.316699308525518,
+        "y": 33.14443748602102
+      },
+      {
+        "x": -25.274503377433145,
+        "y": 33.216251397897565
+      },
+      {
+        "x": -25.208865262400575,
+        "y": 33.216251397897565
+      },
+      {
+        "x": -24.9838202965746,
+        "y": 33.136631626034436
+      },
+      {
+        "x": -25.296382749110673,
+        "y": 33.25840304182509
+      },
+      {
+        "x": -25.10103121627563,
+        "y": 33.11945873406396
+      },
+      {
+        "x": -25.294819936847993,
+        "y": 33.016421382241106
+      },
+      {
+        "x": -24.986945921099963,
+        "y": 33.26152538581972
+      },
+      {
+        "x": -24.986945921099963,
+        "y": 33.13350928203981
+      },
+      {
+        "x": -25.28856868779727,
+        "y": 32.96334153433236
+      },
+      {
+        "x": -25.29013150005995,
+        "y": 33.19907850592708
+      }
+    ],
+    "ru_name": "Молнеподобный рогатый Турль",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211675",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Молнеподобный рогатый Турль",
+    "core_coord": {
+      "x": -25.316699308525518,
+      "y": 33.14443748602102
+    }
+  },
+  {
+    "id": "queen_klawterun_210929",
+    "ingame_coords": "[pos:Queen Klawterun; 210020000 1679.4 1424.6 0.0 0] [pos:Queen Klawterun; 210020000 1679.4 1424.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Queen Klawterun",
+    "lvl": 32,
+    "hp": 5649,
+    "coords": [
+      {
+        "x": -26.26376353970982,
+        "y": 22.144419592932227
+      }
+    ],
+    "ru_name": "Королева Ньютерон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210929",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Королева Ньютерон",
+    "core_coord": {
+      "x": -26.26376353970982,
+      "y": 22.144419592932227
+    }
+  },
+  {
+    "id": "queen_klawtaka_211653",
+    "ingame_coords": "[pos:Queen Klawtaka; 210020000 580.0 161.0 0.0 0] [pos:Queen Klawtaka; 210020000 584.5 158.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Queen Klawtaka",
+    "lvl": 32,
+    "hp": 5649,
+    "coords": [
+      {
+        "x": -9.082205523801909,
+        "y": 2.417450234846791
+      }
+    ],
+    "ru_name": "Королева Ньютака",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211653",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Королева Ньютака",
+    "core_coord": {
+      "x": -9.082205523801909,
+      "y": 2.417450234846791
+    }
+  },
+  {
+    "id": "the_iceheart_queen_210954",
+    "ingame_coords": "[pos:The Iceheart Queen; 210020000 2626.5 2499.4 0.0 0] [pos:The Iceheart Queen; 210020000 2626.5 2499.4 0.0 0] ",
+    "type": "normal_npc",
+    "name": "The Iceheart Queen",
+    "lvl": 34,
+    "hp": 4632,
+    "coords": [
+      {
+        "x": -41.065158479555535,
+        "y": 38.92389622008499
+      }
+    ],
+    "ru_name": "Аморель Ледяное Сердце",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210954",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Аморель Ледяное Сердце",
+    "core_coord": {
+      "x": -41.065158479555535,
+      "y": 38.92389622008499
+    }
+  },
+  {
+    "id": "mean_tukroll_211674",
+    "ingame_coords": "[pos:Mean Tukroll; 210020000 2557.4 1208.8 0.0 0] [pos:Mean Tukroll; 210020000 2557.4 1208.8 0.0 0] [pos:Mean Tukroll; 210020000 2553.0 1210.7 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Mean Tukroll",
+    "lvl": 37,
+    "hp": 7229,
+    "coords": [
+      {
+        "x": -39.985255206043405,
+        "y": 18.77541042272422
+      }
+    ],
+    "ru_name": "Зловредный Тукрол",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211674",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Зловредный Тукрол",
+    "core_coord": {
+      "x": -39.985255206043405,
+      "y": 18.77541042272422
+    }
+  },
+  {
+    "id": "moomba_the_earthshaker_211679",
+    "ingame_coords": "[pos:Moomba the Earthshaker; 210020000 2597.0 1361.1 0.0 0] [pos:Moomba the Earthshaker; 210020000 2597.0 1361.1 0.0 0] [pos:Moomba the Earthshaker; 210020000 2592.8 1360.4 0.0 0] [pos:Moomba the Earthshaker; 210020000 2595.0 1358.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Moomba the Earthshaker",
+    "lvl": 37,
+    "hp": 7558,
+    "coords": [
+      {
+        "x": -40.538490747032256,
+        "y": 21.142147170655335
+      },
+      {
+        "x": -40.604128862064826,
+        "y": 21.153075374636543
+      }
+    ],
+    "ru_name": "Мумба сотрясатель земли",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211679",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Мумба сотрясатель земли",
+    "core_coord": {
+      "x": -40.538490747032256,
+      "y": 21.142147170655335
+    }
+  },
+  {
+    "id": "chief_krukel_211008",
+    "ingame_coords": "[pos:Chief Krukel; 210020000 2554.0 1756.6 0.0 0] [pos:Chief Krukel; 210020000 2554.0 1756.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Chief Krukel",
+    "lvl": 38,
+    "hp": 7592,
+    "coords": [
+      {
+        "x": -39.93211958911227,
+        "y": 27.327510624021468
+      }
+    ],
+    "ru_name": "Вождь Криг",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211008",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Вождь Криг",
+    "core_coord": {
+      "x": -39.93211958911227,
+      "y": 27.327510624021468
+    }
+  },
+  {
+    "id": "mysterious_crate_211801",
+    "ingame_coords": "[pos:Mysterious Crate; 210020000 1421.3 239.6 0.0 0] [pos:Mysterious Crate; 210020000 1421.3 239.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Mysterious Crate",
+    "lvl": 80,
+    "hp": 25,
+    "coords": [
+      {
+        "x": -22.2301450897318,
+        "y": 3.644531424737196
+      }
+    ],
+    "ru_name": "Загадочный короб",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211801",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Загадочный короб",
+    "core_coord": {
+      "x": -22.2301450897318,
+      "y": 3.644531424737196
+    }
+  },
+  {
+    "id": "supervisor_kargas_210860",
+    "ingame_coords": "[pos:Supervisor Kargas; 210020000 1268.2 1678.0 0.0 0] [pos:Supervisor Kargas; 210020000 1269.3 1679.6 0.0 0] [pos:Supervisor Kargas; 210020000 1268.2 1678.0 0.0 0] [pos:Supervisor Kargas; 210020000 1281.4 1652.7 0.0 0] [pos:Supervisor Kargas; 210020000 1296.0 1600.8 0.0 0] [pos:Supervisor Kargas; 210020000 1320.1 1669.2 0.0 0] [pos:Supervisor Kargas; 210020000 1142.0 1528.6 0.0 0] [pos:Supervisor Kargas; 210020000 1251.4 1564.9 0.0 0] [pos:Supervisor Kargas; 210020000 1252.8 1565.4 0.0 0] [pos:Supervisor Kargas; 210020000 1254.2 1565.9 0.0 0] [pos:Supervisor Kargas; 210020000 1260.7 1568.7 0.0 0] [pos:Supervisor Kargas; 210020000 1289.5 1594.6 0.0 0] [pos:Supervisor Kargas; 210020000 1307.4 1611.7 0.0 0] [pos:Supervisor Kargas; 210020000 1306.4 1683.7 0.0 0] [pos:Supervisor Kargas; 210020000 1273.3 1679.8 0.0 0] [pos:Supervisor Kargas; 210020000 1187.7 1553.4 0.0 0] [pos:Supervisor Kargas; 210020000 1189.7 1556.5 0.0 0] [pos:Supervisor Kargas; 210020000 1270.9 1577.9 0.0 0] [pos:Supervisor Kargas; 210020000 1286.5 1683.8 0.0 0] [pos:Supervisor Kargas; 210020000 1287.9 1684.3 0.0 0] [pos:Supervisor Kargas; 210020000 1316.5 1653.9 0.0 0] [pos:Supervisor Kargas; 210020000 1163.7 1530.1 0.0 0] [pos:Supervisor Kargas; 210020000 1290.8 1596.7 0.0 0] [pos:Supervisor Kargas; 210020000 1194.1 1564.3 0.0 0] [pos:Supervisor Kargas; 210020000 1273.6 1680.1 0.0 0] [pos:Supervisor Kargas; 210020000 1220.4 1564.6 0.0 0] [pos:Supervisor Kargas; 210020000 1118.8 1530.9 0.0 0] [pos:Supervisor Kargas; 210020000 1123.8 1530.2 0.0 0] [pos:Supervisor Kargas; 210020000 1150.6 1527.8 0.0 0] [pos:Supervisor Kargas; 210020000 1239.8 1563.6 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Supervisor Kargas",
+    "lvl": 29,
+    "hp": 21586,
+    "coords": [
+      {
+        "x": -20.1453535313162,
+        "y": 26.198783269961975
+      },
+      {
+        "x": -19.090455254006955,
+        "y": 24.33006038917468
+      },
+      {
+        "x": -19.618685798792917,
+        "y": 24.35035562513979
+      },
+      {
+        "x": -20.170358527519085,
+        "y": 24.79841198836949
+      },
+      {
+        "x": -18.20434070106719,
+        "y": 23.791456050100646
+      },
+      {
+        "x": -17.502637995123703,
+        "y": 23.803945426079178
+      },
+      {
+        "x": -19.87967544666054,
+        "y": 24.537696264817715
+      },
+      {
+        "x": -18.579415644110476,
+        "y": 24.155209125475285
+      },
+      {
+        "x": -20.190675086933926,
+        "y": 24.831196600313127
+      },
+      {
+        "x": -20.271941324593307,
+        "y": 24.895204652203084
+      },
+      {
+        "x": -20.648579079899275,
+        "y": 25.963046298367257
+      },
+      {
+        "x": -19.837479515568166,
+        "y": 26.100429434131065
+      },
+      {
+        "x": -19.921871377752904,
+        "y": 26.133214046074702
+      },
+      {
+        "x": -20.434473799912066,
+        "y": 26.18941623797808
+      },
+      {
+        "x": -20.123474159638672,
+        "y": 26.190977409975396
+      },
+      {
+        "x": -19.574927055437865,
+        "y": 24.33474390516663
+      },
+      {
+        "x": -19.85467045045765,
+        "y": 26.12540818608812
+      },
+      {
+        "x": -17.999612294656057,
+        "y": 23.75554909416238
+      },
+      {
+        "x": -20.45010192253887,
+        "y": 25.065372399910533
+      },
+      {
+        "x": -18.679435628922015,
+        "y": 24.32537687318273
+      },
+      {
+        "x": -19.59680642711539,
+        "y": 24.34254976515321
+      },
+      {
+        "x": -19.72026859586714,
+        "y": 24.39406844106464
+      },
+      {
+        "x": -17.86521044006555,
+        "y": 23.768038470140905
+      },
+      {
+        "x": -17.58077860825772,
+        "y": 23.793017222097966
+      },
+      {
+        "x": -19.917182940964864,
+        "y": 26.128530530082752
+      },
+      {
+        "x": -18.61067188936408,
+        "y": 24.20360545739208
+      },
+      {
+        "x": -20.043770734241974,
+        "y": 25.70545291881011
+      },
+      {
+        "x": -20.59231783844278,
+        "y": 25.7241869827779
+      }
+    ],
+    "ru_name": "Надзиратель Каркас",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210860",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Надзиратель Каркас",
+    "core_coord": {
+      "x": -20.1453535313162,
+      "y": 26.198783269961975
+    }
+  },
+  {
+    "id": "beleffon_210816",
+    "ingame_coords": "[pos:Beleffon; 210020000 1741.9 2828.4 0.0 0] [pos:Beleffon; 210020000 1741.9 2828.4 0.0 0] [pos:Beleffon; 210020000 1776.4 2796.1 0.0 0] [pos:Beleffon; 210020000 1748.4 2806.4 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Beleffon",
+    "lvl": 30,
+    "hp": 19479,
+    "coords": [
+      {
+        "x": -27.779691434509772,
+        "y": 43.55589353612167
+      },
+      {
+        "x": -27.240521203885045,
+        "y": 44.06015209125475
+      }
+    ],
+    "ru_name": "Златоклювый Беллефон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210816",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Златоклювый Беллефон",
+    "core_coord": {
+      "x": -27.779691434509772,
+      "y": 43.55589353612167
+    }
+  },
+  {
+    "id": "kamtak_the_destroyer_211696",
+    "ingame_coords": "[pos:Kamtak the Destroyer; 210020000 1208.6 2608.1 0.0 0] [pos:Kamtak the Destroyer; 210020000 1250.5 2657.4 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Kamtak the Destroyer",
+    "lvl": 30,
+    "hp": 35642,
+    "coords": [
+      {
+        "x": -18.906043407010667,
+        "y": 40.62089018116752
+      }
+    ],
+    "ru_name": "Капитан налетчиков Камтак",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211696",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Капитан налетчиков Камтак",
+    "core_coord": {
+      "x": -18.906043407010667,
+      "y": 40.62089018116752
+    }
+  },
+  {
+    "id": "greatmage_teotem_211697",
+    "ingame_coords": "[pos:Greatmage Teotem; 210020000 1396.3 2634.2 0.0 0] [pos:Greatmage Teotem; 210020000 1397.4 2606.7 0.0 0] [pos:Greatmage Teotem; 210020000 1398.0 2631.7 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Greatmage Teotem",
+    "lvl": 30,
+    "hp": 26894,
+    "coords": [
+      {
+        "x": -21.83944202406171,
+        "y": 41.028356072467005
+      },
+      {
+        "x": -21.856632958951195,
+        "y": 40.59903377320509
+      }
+    ],
+    "ru_name": "Глава магов Пауто",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211697",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Глава магов Пауто",
+    "core_coord": {
+      "x": -21.83944202406171,
+      "y": 41.028356072467005
+    }
+  },
+  {
+    "id": "greathealer_quvak_211698",
+    "ingame_coords": "[pos:Greathealer Quvak; 210020000 1376.5 2705.2 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Greathealer Quvak",
+    "lvl": 30,
+    "hp": 32402,
+    "coords": [{"x": -21.530005196051, "y": 42.13678819056139}],
+    "ru_name": "Верховный целитель Кувак",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211698",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Верховный целитель Кувак",
+    "core_coord": {"x": -21.530005196051, "y": 42.13678819056139}
+  },
+  {
+    "id": "kantu_211699",
+    "ingame_coords": "[pos:Kantu; 210020000 1226.9 2724.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Kantu",
+    "lvl": 30,
+    "hp": 27542,
+    "coords": [{"x": -19.192038051081177, "y": 42.44277790203534}],
+    "ru_name": "Капитан разведки Канту",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211699",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Капитан разведки Канту",
+    "core_coord": {"x": -19.192038051081177, "y": 42.44277790203534}
+  },
+  {
+    "id": "mistryl_211740",
+    "ingame_coords": "[pos:Mistryl; 210020000 268.8 200.7 0.0 0] [pos:Mistryl; 210020000 268.8 200.7 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Mistryl",
+    "lvl": 30,
+    "hp": 14295,
+    "coords": [
+      {
+        "x": -4.218733762340621,
+        "y": 3.0372355177812573
+      }
+    ],
+    "ru_name": "Прокела Буревестница",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211740",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Прокела Буревестница",
+    "core_coord": {
+      "x": -4.218733762340621,
+      "y": 3.0372355177812573
+    }
+  },
+  {
+    "id": "nightstalker_211745",
+    "ingame_coords": "[pos:Nightstalker; 210020000 83.3 243.5 0.0 0] [pos:Nightstalker; 210020000 83.3 243.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Nightstalker",
+    "lvl": 31,
+    "hp": 32271,
+    "coords": [
+      {
+        "x": -1.3197170150685475,
+        "y": 3.705417132632521
+      }
+    ],
+    "ru_name": "Нуйк Рванокрылый",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211745",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Нуйк Рванокрылый",
+    "core_coord": {
+      "x": -1.3197170150685475,
+      "y": 3.705417132632521
+    }
+  },
+  {
+    "id": "dekita_211764",
+    "ingame_coords": "[pos:Dekita; 210020000 344.4 241.5 0.0 0] [pos:Dekita; 210020000 442.3 245.7 0.0 0] [pos:Dekita; 210020000 344.4 241.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Dekita",
+    "lvl": 31,
+    "hp": 22828,
+    "coords": [
+      {
+        "x": -5.400219832926974,
+        "y": 3.6741936926862007
+      },
+      {
+        "x": -6.9302130380910505,
+        "y": 3.739762916573474
+      }
+    ],
+    "ru_name": "Суровый декита",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211764",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Суровый декита",
+    "core_coord": {
+      "x": -5.400219832926974,
+      "y": 3.6741936926862007
+    }
+  },
+  {
+    "id": "gurkel_the_ancient_211769",
+    "ingame_coords": "[pos:Gurkel the Ancient; 210020000 274.1 348.6 0.0 0] [pos:Gurkel the Ancient; 210020000 274.0 416.1 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Gurkel the Ancient",
+    "lvl": 32,
+    "hp": 32069,
+    "coords": [
+      {
+        "x": -4.30156281226268,
+        "y": 5.346208901811676
+      }
+    ],
+    "ru_name": "Древнее изваяние Куркель",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211769",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Древнее изваяние Куркель",
+    "core_coord": {
+      "x": -4.30156281226268,
+      "y": 5.346208901811676
+    }
+  },
+  {
+    "id": "selcuris_dreamweaver_211750",
+    "ingame_coords": "[pos:Selcuris Dreamweaver; 210020000 193.6 141.2 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Selcuris Dreamweaver",
+    "lvl": 33,
+    "hp": 27206,
+    "coords": [{"x": -3.0434989408049877, "y": 2.1083381793782157}],
+    "ru_name": "Селькурис Иллюзорный",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211750",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Селькурис Иллюзорный",
+    "core_coord": {"x": -3.0434989408049877, "y": 2.1083381793782157}
+  },
+  {
+    "id": "thundermane_211753",
+    "ingame_coords": "[pos:Thundermane; 210020000 291.8 143.2 0.0 0] [pos:Thundermane; 210020000 291.8 143.2 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Thundermane",
+    "lvl": 33,
+    "hp": 25506,
+    "coords": [
+      {
+        "x": -4.5781805827571045,
+        "y": 2.1395616193245366
+      }
+    ],
+    "ru_name": "Штормогривый твипос",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211753",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Штормогривый твипос",
+    "core_coord": {
+      "x": -4.5781805827571045,
+      "y": 2.1395616193245366
+    }
+  },
+  {
+    "id": "kratia_211805",
+    "ingame_coords": "[pos:Kratia; 210020000 308.8 193.0 0.0 0] [pos:Kratia; 210020000 308.8 193.0 0.0 0] [pos:Kratia; 210020000 287.3 262.5 0.0 0] [pos:Kratia; 210020000 216.3 218.4 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Kratia",
+    "lvl": 33,
+    "hp": 18208,
+    "coords": [
+      {
+        "x": -4.843858667412766,
+        "y": 2.9170252739879228
+      },
+      {
+        "x": -4.507854030936488,
+        "y": 4.002039812122568
+      }
+    ],
+    "ru_name": "Кратия",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211805",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Кратия",
+    "core_coord": {
+      "x": -4.843858667412766,
+      "y": 2.9170252739879228
+    }
+  },
+  {
+    "id": "lichna_the_cruel_210967",
+    "ingame_coords": "[pos:Lichna the Cruel; 210020000 1510.8 384.0 0.0 0] [pos:Lichna the Cruel; 210020000 1511.0 383.8 0.0 0] [pos:Lichna the Cruel; 210020000 1511.6 383.6 0.0 0] [pos:Lichna the Cruel; 210020000 1511.0 382.8 0.0 0] [pos:Lichna the Cruel; 210020000 1511.6 384.0 0.0 0] [pos:Lichna the Cruel; 210020000 1510.7 383.6 0.0 0] [pos:Lichna the Cruel; 210020000 1510.7 383.9 0.0 0] [pos:Lichna the Cruel; 210020000 1511.1 383.2 0.0 0] [pos:Lichna the Cruel; 210020000 1511.1 383.3 0.0 0] [pos:Lichna the Cruel; 210020000 1511.1 383.1 0.0 0] [pos:Lichna the Cruel; 210020000 1511.2 383.0 0.0 0] [pos:Lichna the Cruel; 210020000 1511.6 383.9 0.0 0] [pos:Lichna the Cruel; 210020000 1510.7 383.5 0.0 0] [pos:Lichna the Cruel; 210020000 1511.6 383.8 0.0 0] [pos:Lichna the Cruel; 210020000 1510.8 383.7 0.0 0] [pos:Lichna the Cruel; 210020000 1511.1 383.0 0.0 0] [pos:Lichna the Cruel; 210020000 1511.2 383.8 0.0 0] [pos:Lichna the Cruel; 210020000 1511.1 384.1 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Lichna the Cruel",
+    "lvl": 35,
+    "hp": 28443,
+    "coords": [
+      {
+        "x": -23.641364562932168,
+        "y": 5.8988637888615525
+      },
+      {
+        "x": -23.627299252568047,
+        "y": 5.8910579288749725
+      },
+      {
+        "x": -23.631987689356087,
+        "y": 5.895741444866921
+      },
+      {
+        "x": -23.641364562932168,
+        "y": 5.897302616864236
+      },
+      {
+        "x": -23.631987689356087,
+        "y": 5.88012972489376
+      },
+      {
+        "x": -23.627299252568047,
+        "y": 5.892619100872289
+      },
+      {
+        "x": -23.628862064830724,
+        "y": 5.8988637888615525
+      },
+      {
+        "x": -23.633550501618767,
+        "y": 5.886374412883025
+      },
+      {
+        "x": -23.635113313881448,
+        "y": 5.8832520688883925
+      },
+      {
+        "x": -23.641364562932168,
+        "y": 5.895741444866921
+      },
+      {
+        "x": -23.641364562932168,
+        "y": 5.892619100872289
+      },
+      {
+        "x": -23.628862064830724,
+        "y": 5.894180272869605
+      },
+      {
+        "x": -23.635113313881448,
+        "y": 5.895741444866921
+      },
+      {
+        "x": -23.633550501618767,
+        "y": 5.8832520688883925
+      },
+      {
+        "x": -23.633550501618767,
+        "y": 5.88793558488034
+      },
+      {
+        "x": -23.633550501618767,
+        "y": 5.884813240885709
+      },
+      {
+        "x": -23.627299252568047,
+        "y": 5.897302616864236
+      }
+    ],
+    "ru_name": "Дьяволица Ройкхана",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210967",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Дьяволица Ройкхана",
+    "core_coord": {
+      "x": -23.641364562932168,
+      "y": 5.8988637888615525
+    }
+  },
+  {
+    "id": "chieftain_mamaku_211714",
+    "ingame_coords": "[pos:Chieftain Mamaku; 210020000 2146.2 909.8 0.0 0] [pos:Chieftain Mamaku; 210020000 2146.2 909.8 0.0 0] [pos:Chieftain Mamaku; 210020000 2189.8 892.6 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Chieftain Mamaku",
+    "lvl": 39,
+    "hp": 44917,
+    "coords": [
+      {
+        "x": -33.55897118190175,
+        "y": 14.107506150749273
+      }
+    ],
+    "ru_name": "Вождь Мамаку",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211714",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Вождь Мамаку",
+    "core_coord": {
+      "x": -33.55897118190175,
+      "y": 14.107506150749273
+    }
+  },
+  {
+    "id": "highpriest_rhipel_211702",
+    "ingame_coords": "[pos:Highpriest Rhipel; 210020000 2456.3 2548.5 0.0 0] [pos:Highpriest Rhipel; 210020000 2456.3 2548.5 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Highpriest Rhipel",
+    "lvl": 40,
+    "hp": 54439,
+    "coords": [
+      {
+        "x": -38.40525200847356,
+        "y": 39.69043167076716
+      }
+    ],
+    "ru_name": "Верховный жрец Рифель",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211702",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Верховный жрец Рифель",
+    "core_coord": {
+      "x": -38.40525200847356,
+      "y": 39.69043167076716
+    }
+  },
+  {
+    "id": "commander_xenon_211703",
+    "ingame_coords": "[pos:Commander Xenon; 210020000 1878.9 2675.7 0.0 0] [pos:Commander Xenon; 210020000 1878.9 2675.7 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Commander Xenon",
+    "lvl": 40,
+    "hp": 59883,
+    "coords": [
+      {
+        "x": -29.381574003757144,
+        "y": 41.67624245135316
+      }
+    ],
+    "ru_name": "Командир Ксенон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211703",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Командир Ксенон",
+    "core_coord": {
+      "x": -29.381574003757144,
+      "y": 41.67624245135316
+    }
+  },
+  {
+    "id": "spiritmaster_shapiel_211704",
+    "ingame_coords": "[pos:Spiritmaster Shapiel; 210020000 2736.4 2714.3 0.0 0] [pos:Spiritmaster Shapiel; 210020000 2749.2 2605.3 0.0 0] [pos:Spiritmaster Shapiel; 210020000 2759.0 2607.3 0.0 0] [pos:Spiritmaster Shapiel; 210020000 2760.6 2699.9 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Spiritmaster Shapiel",
+    "lvl": 40,
+    "hp": 46273,
+    "coords": [
+      {
+        "x": -42.98272912586434,
+        "y": 40.577177365242676
+      },
+      {
+        "x": -42.782689156241254,
+        "y": 42.27885484231716
+      },
+      {
+        "x": -43.135884727607014,
+        "y": 40.608400805189
+      }
+    ],
+    "ru_name": "Заклинатель Шафиэль",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211704",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Заклинатель Шафиэль",
+    "core_coord": {
+      "x": -42.98272912586434,
+      "y": 40.577177365242676
+    }
+  },
+  {
+    "id": "highmage_wyron_211705",
+    "ingame_coords": "[pos:Highmage Wyron; 210020000 2488.9 2249.0 0.0 0] [pos:Highmage Wyron; 210020000 2488.9 2249.0 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Highmage Wyron",
+    "lvl": 40,
+    "hp": 45185,
+    "coords": [
+      {
+        "x": -38.914728806107355,
+        "y": 35.01472153880564
+      }
+    ],
+    "ru_name": "Верховный маг Вирон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211705",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Верховный маг Вирон",
+    "core_coord": {
+      "x": -38.914728806107355,
+      "y": 35.01472153880564
+    }
+  },
+  {
+    "id": "spiritmaster_czubarto_211710",
+    "ingame_coords": "[pos:Spiritmaster Czubarto; 210020000 2492.5 383.2 0.0 0] [pos:Spiritmaster Czubarto; 210020000 2492.5 383.2 0.0 0] [pos:Spiritmaster Czubarto; 210020000 2481.2 453.8 0.0 0] [pos:Spiritmaster Czubarto; 210020000 2480.5 455.0 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Spiritmaster Czubarto",
+    "lvl": 40,
+    "hp": 46273,
+    "coords": [
+      {
+        "x": -38.970990047563845,
+        "y": 5.886374412883025
+      },
+      {
+        "x": -38.794392261880965,
+        "y": 6.988561842988147
+      }
+    ],
+    "ru_name": "Темный заклинатель Чубарто",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211710",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Темный заклинатель Чубарто",
+    "core_coord": {
+      "x": -38.970990047563845,
+      "y": 5.886374412883025
+    }
+  },
+  {
+    "id": "bladeclaw_211711",
+    "ingame_coords": "[pos:Bladeclaw; 210020000 2210.2 551.2 0.0 0] [pos:Bladeclaw; 210020000 2210.8 536.4 0.0 0] [pos:Bladeclaw; 210020000 2221.8 493.2 0.0 0] [pos:Bladeclaw; 210020000 2223.8 496.3 0.0 0] [pos:Bladeclaw; 210020000 2226.5 476.5 0.0 0] [pos:Bladeclaw; 210020000 2240.7 398.3 0.0 0] [pos:Bladeclaw; 210020000 2544.0 646.1 0.0 0] [pos:Bladeclaw; 210020000 2553.5 638.8 0.0 0] [pos:Bladeclaw; 210020000 2564.5 638.3 0.0 0] [pos:Bladeclaw; 210020000 2566.7 638.1 0.0 0] [pos:Bladeclaw; 210020000 2578.8 620.3 0.0 0] [pos:Bladeclaw; 210020000 2590.3 604.3 0.0 0] [pos:Bladeclaw; 210020000 2591.1 596.1 0.0 0] [pos:Bladeclaw; 210020000 2551.5 611.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Bladeclaw",
+    "lvl": 40,
+    "hp": 49759,
+    "coords": [
+      {
+        "x": -40.130596746472676,
+        "y": 9.865801834041601
+      },
+      {
+        "x": -40.319697030257004,
+        "y": 9.587913218519347
+      },
+      {
+        "x": -35.03582877013469,
+        "y": 6.122111384477746
+      },
+      {
+        "x": -40.499420440465244,
+        "y": 9.33812569894878
+      },
+      {
+        "x": -34.81390942883408,
+        "y": 7.342947886378886
+      },
+      {
+        "x": -34.771713497741715,
+        "y": 7.652059941847462
+      },
+      {
+        "x": -34.56854790359327,
+        "y": 8.278089912771193
+      },
+      {
+        "x": -39.77583836284423,
+        "y": 9.990695593826885
+      },
+      {
+        "x": -34.55917103001718,
+        "y": 8.509143368373966
+      },
+      {
+        "x": -40.511922938566684,
+        "y": 9.210109595168866
+      },
+      {
+        "x": -34.740457252488106,
+        "y": 7.603663609930664
+      },
+      {
+        "x": -39.92430552779887,
+        "y": 9.876730038022814
+      },
+      {
+        "x": -40.09621487669371,
+        "y": 9.868924178036234
+      }
+    ],
+    "ru_name": "Когтистый Каиша",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211711",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Когтистый Каиша",
+    "core_coord": {
+      "x": -40.130596746472676,
+      "y": 9.865801834041601
+    }
+  },
+  {
+    "id": "millennium_laupede_211713",
+    "ingame_coords": "[pos:Millennium Laupede; 210020000 2264.9 462.8 0.0 0] [pos:Millennium Laupede; 210020000 2265.6 463.4 0.0 0] [pos:Millennium Laupede; 210020000 2266.7 465.0 0.0 0] [pos:Millennium Laupede; 210020000 2261.7 461.3 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Millennium Laupede",
+    "lvl": 40,
+    "hp": 45185,
+    "coords": [
+      {
+        "x": -35.41402933770334,
+        "y": 7.1290673227465895
+      },
+      {
+        "x": -35.424969023542104,
+        "y": 7.138434354730485
+      },
+      {
+        "x": -35.44215995843159,
+        "y": 7.163413106687543
+      }
+    ],
+    "ru_name": "Тысячелетний лауфит",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211713",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Тысячелетний лауфит",
+    "core_coord": {
+      "x": -35.41402933770334,
+      "y": 7.1290673227465895
+    }
+  },
+  {
+    "id": "lekion_211727",
+    "ingame_coords": "[pos:Lekion; 210020000 2242.6 2553.2 0.0 0] [pos:Lekion; 210020000 2242.6 2553.2 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Lekion",
+    "lvl": 40,
+    "hp": 45185,
+    "coords": [
+      {
+        "x": -35.06552220312562,
+        "y": 39.76380675464102
+      }
+    ],
+    "ru_name": "Капитан разведки Рекион",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211727",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Капитан разведки Рекион",
+    "core_coord": {
+      "x": -35.06552220312562,
+      "y": 39.76380675464102
+    }
+  },
+  {
+    "id": "summoner_klacha_211700",
+    "ingame_coords": "[pos:Summoner Klacha; 210020000 1341.6 2802.6 0.0 0] [pos:Summoner Klacha; 210020000 1341.6 2802.6 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Summoner Klacha",
+    "lvl": 30,
+    "hp": 51826,
+    "coords": [
+      {
+        "x": -20.98458371637555,
+        "y": 43.65736971594721
+      }
+    ],
+    "ru_name": "Призыватель Клач",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211700",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Призыватель Клач",
+    "core_coord": {
+      "x": -20.98458371637555,
+      "y": 43.65736971594721
+    }
+  },
+  {
+    "id": "chieftain_shaku_211038",
+    "ingame_coords": "[pos:Chieftain Shaku; 210020000 2424.0 968.3 0.0 0] [pos:Chieftain Shaku; 210020000 2424.0 968.3 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Chieftain Shaku",
+    "lvl": 39,
+    "hp": 82105,
+    "coords": [
+      {
+        "x": -37.9004636476278,
+        "y": 15.020791769179155
+      }
+    ],
+    "ru_name": "Вождь Шаку",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211038",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Вождь Шаку",
+    "core_coord": {
+      "x": -37.9004636476278,
+      "y": 15.020791769179155
+    }
+  },
+  {
+    "id": "supervisor_penteros_211032",
+    "ingame_coords": "[pos:Supervisor Penteros; 210020000 2775.9 2651.6 0.0 0] [pos:Supervisor Penteros; 210020000 2776.0 2651.6 0.0 0] [pos:Supervisor Penteros; 210020000 2775.9 2651.6 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Supervisor Penteros",
+    "lvl": 40,
+    "hp": 117598,
+    "coords": [
+      {
+        "x": -43.4,
+        "y": 41.3
+      },
+      {
+        "x": -43.401562812262675,
+        "y": 41.3
+      }
+    ],
+    "ru_name": "Главный надсмотрщик Фандерос",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211032",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Главный надсмотрщик Фандерос",
+    "core_coord": {
+      "x": -43.4,
+      "y": 41.3
+    }
+  },
+  {
+    "id": "chieftain_kurka_211039",
+    "ingame_coords": "[pos:Chieftain Kurka; 210020000 2277.5 584.0 0.0 0] [pos:Chieftain Kurka; 210020000 2277.5 584.0 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Chieftain Kurka",
+    "lvl": 40,
+    "hp": 86921,
+    "coords": [
+      {
+        "x": -35.610943682801064,
+        "y": 9.021207783493626
+      }
+    ],
+    "ru_name": "Вождь Курыка",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211039",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Вождь Курыка",
+    "core_coord": {
+      "x": -35.610943682801064,
+      "y": 9.021207783493626
+    }
+  },
+  {
+    "id": "sartemon_the_insane_211712",
+    "ingame_coords": "[pos:Sartemon the Insane;0 210020000 2423.4 316.5 0.0 0]  ",
+    "type": "heroic_npc",
+    "name": "Sartemon the Insane",
+    "lvl": 40,
+    "hp": 149981,
+    "coords": [
+      {"x": -37.891086774051715, "y": 4.845072690673228}
+    ],
+    "ru_name": "Безумный Сартемон",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211712",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Безумный Сартемон",
+    "core_coord": {"x": -37.891086774051715, "y": 4.845072690673228}
+  },
+  {
+    "id": "andre_211041",
+    "ingame_coords": "[pos:Andre; 210020000 792.6 653.5 0.0 0] [pos:Andre; 210020000 792.6 653.5 0.0 0] [pos:Andre; 210020000 718.5 720.6 0.0 0] ",
+    "type": "heroic_npc",
+    "name": "Andre",
+    "lvl": 40,
+    "hp": 869578,
+    "coords": [
+      {
+        "x": -12.40474439426036,
+        "y": 10.10622232162827
+      }
+    ],
+    "ru_name": "Пэйхимос скала",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211041",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Пэйхимос-скала",
+    "core_coord": {
+      "x": -12.40474439426036,
+      "y": 10.10622232162827
+    }
+  },
+  {
+    "id": "grand_chieftain_saendukal_211040",
+    "ingame_coords": "[pos:Grand Chieftain Saendukal; 210020000 2450.8 729.4 0.0 0] [pos:Grand Chieftain Saendukal; 210020000 2441.8 720.8 0.0 0] [pos:Grand Chieftain Saendukal; 210020000 2450.8 729.4 0.0 0] ",
+    "type": "legendary_npc",
+    "name": "Grand Chieftain Saendukal",
+    "lvl": 40,
+    "hp": 1920951,
+    "coords": [
+      {
+        "x": -38.178644230384904,
+        "y": 11.156891075821964
+      },
+      {
+        "x": -38.31929733402614,
+        "y": 11.291151867591143
+      }
+    ],
+    "ru_name": "Верховный вождь Чандука",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211040",
+    "agr_radius": "15 m",
+    "ingameFindTip": "/где Верховный вождь Чандука",
+    "core_coord": {
+      "x": -38.178644230384904,
+      "y": 11.156891075821964
+    }
+  },
+  {
+    "id": "raging_kraterr_211715",
+    "ingame_coords": "[pos:Raging Kraterr; 210020000 2114.2 1045.3 0.0 0] [pos:Raging Kraterr; 210020000 2114.5 1039.6 0.0 0] [pos:Raging Kraterr; 210020000 2096.5 1069.1 0.0 0] [pos:Raging Kraterr; 210020000 2114.5 1045.7 0.0 0] [pos:Raging Kraterr; 210020000 2105.4 1054.8 0.0 0] [pos:Raging Kraterr; 210020000 2098.5 1061.3 0.0 0] [pos:Raging Kraterr; 210020000 2097.3 1062.9 0.0 0] [pos:Raging Kraterr; 210020000 2122.9 1049.6 0.0 0] [pos:Raging Kraterr; 210020000 2128.8 1072.1 0.0 0] [pos:Raging Kraterr; 210020000 2129.3 1071.2 0.0 0] [pos:Raging Kraterr; 210020000 2112.6 1047.0 0.0 0] [pos:Raging Kraterr; 210020000 2112.0 1047.8 0.0 0] [pos:Raging Kraterr; 210020000 2099.8 1059.7 0.0 0] [pos:Raging Kraterr; 210020000 2096.8 1066.1 0.0 0] [pos:Raging Kraterr; 210020000 2122.1 1079.5 0.0 0] [pos:Raging Kraterr; 210020000 2128.9 1059.9 0.0 0] [pos:Raging Kraterr; 210020000 2128.7 1058.9 0.0 0] [pos:Raging Kraterr; 210020000 2109.5 1051.1 0.0 0] [pos:Raging Kraterr; 210020000 2113.7 1045.4 0.0 0] [pos:Raging Kraterr; 210020000 2106.2 1054.2 0.0 0] [pos:Raging Kraterr; 210020000 2103.0 1056.6 0.0 0] [pos:Raging Kraterr; 210020000 2119.5 1047.7 0.0 0] [pos:Raging Kraterr; 210020000 2115.4 1046.0 0.0 0] [pos:Raging Kraterr; 210020000 2126.8 1054.1 0.0 0] ",
+    "type": "legendary_npc",
+    "name": "Raging Kraterr",
+    "lvl": 40,
+    "hp": 1449445,
+    "coords": [
+      {
+        "x": -33.063559694632076,
+        "y": 16.133907403265486
+      },
+      {
+        "x": -32.83382629201807,
+        "y": 16.447702974726013
+      },
+      {
+        "x": -33.28860466045805,
+        "y": 16.450825318720646
+      },
+      {
+        "x": -33.18233342659578,
+        "y": 16.756815030194588
+      },
+      {
+        "x": -33.28704184819537,
+        "y": 16.6412883023932
+      },
+      {
+        "x": -32.813509732603215,
+        "y": 16.472681726683067
+      },
+      {
+        "x": -32.794755985451054,
+        "y": 16.497660478640125
+      },
+      {
+        "x": -32.921343778728165,
+        "y": 16.371205546857524
+      },
+      {
+        "x": -33.063559694632076,
+        "y": 16.229138895101766
+      },
+      {
+        "x": -33.0776250049962,
+        "y": 16.233822411093715
+      },
+      {
+        "x": -33.28547903593268,
+        "y": 16.435213598747485
+      },
+      {
+        "x": -33.05105719653063,
+        "y": 16.22445537910982
+      },
+      {
+        "x": -32.98541908149806,
+        "y": 16.31344218295683
+      },
+      {
+        "x": -32.782253487349614,
+        "y": 16.594453142473718
+      },
+      {
+        "x": -33.141700307766094,
+        "y": 16.260362335048086
+      },
+      {
+        "x": -33.19483592469723,
+        "y": 16.29002460299709
+      },
+      {
+        "x": -32.933846276829605,
+        "y": 16.36183851487363
+      },
+      {
+        "x": -33.03386626164115,
+        "y": 16.249434131066874
+      },
+      {
+        "x": -32.883836284423836,
+        "y": 16.39930664280921
+      },
+      {
+        "x": -33.294855909508776,
+        "y": 16.627237754417354
+      },
+      {
+        "x": -33.024489388065064,
+        "y": 16.261923507045402
+      },
+      {
+        "x": -32.78694192413766,
+        "y": 16.547617982554236
+      },
+      {
+        "x": -33.05887125784403,
+        "y": 16.2228942071125
+      }
+    ],
+    "ru_name": "Пламенный гратер",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=211715",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Пламенный гратер",
+    "core_coord": {
+      "x": -33.063559694632076,
+      "y": 16.133907403265486
+    }
+  }
+]

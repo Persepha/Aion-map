@@ -1,0 +1,330 @@
+[
+  {
+    "id": "commander_mohen_210431",
+    "ingame_coords": "[pos:Commander Mohen; 220030000 1268.3 1114.0 0.0 0] [pos:Commander Mohen; 220030000 1268.3 1114.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Commander Mohen",
+    "lvl": 13,
+    "hp": 1790,
+    "coords": [
+      {
+        "x": -12.50726568727935,
+        "y": 17.973092926490985
+      }
+    ],
+    "ru_name": "Командир повстанцев Мохэн",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210431",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Командир повстанцев Мохэн",
+    "core_coord": {
+      "x": -12.50726568727935,
+      "y": 17.973092926490985
+    }
+  },
+  {
+    "id": "chieftain_manumumu_210598",
+    "ingame_coords": "[pos:Chieftain Manumumu; 220030000 1581.9 217.5 0.0 0] [pos:Chieftain Manumumu; 220030000 1581.9 217.5 0.0 0] [pos:Chieftain Manumumu; 220030000 1575.0 217.6 0.0 0] [pos:Chieftain Manumumu; 220030000 1573.8 217.7 0.0 0] [pos:Chieftain Manumumu; 220030000 1538.0 232.9 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Chieftain Manumumu",
+    "lvl": 17,
+    "hp": 3096,
+    "coords": [
+      {
+        "x": -17.9,
+        "y": 2.6
+      },
+      {
+        "x": -17.781346088144858,
+        "y": 2.601714790064305
+      },
+      {
+        "x": -17.760710625213527,
+        "y": 2.6034295801286094
+      }
+    ],
+    "ru_name": "Вождь му му Ману",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210598",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Вождь му-му Ману",
+    "core_coord": {
+      "x": -17.9,
+      "y": 2.6
+    }
+  },
+  {
+    "id": "silverback_haku_210626",
+    "ingame_coords": "[pos:Silverback Haku; 220030000 1304.0 628.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Silverback Haku",
+    "lvl": 17,
+    "hp": 3142,
+    "coords": [{"x": -13.121170709486389, "y": 9.639213213970496}],
+    "ru_name": "Хаку Серебряная Грива",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210626",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Хаку Серебряная Грива",
+    "core_coord": {"x": -13.121170709486389, "y": 9.639213213970496}
+  },
+  {
+    "id": "stoneskin_stoffu_210617",
+    "ingame_coords": "[pos:Stoneskin Stoffu; 220030000 2465.0 826.0 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Stoneskin Stoffu",
+    "lvl": 18,
+    "hp": 3222,
+    "coords": [{"x": -33.085981095547204, "y": 13.034497541293657}],
+    "ru_name": "Каменный броненосец Стоф",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210617",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Каменный броненосец Стоф",
+    "core_coord": {"x": -33.085981095547204, "y": 13.034497541293657}
+  },
+  {
+    "id": "karat_ikid_210619",
+    "ingame_coords": "[pos:Karat Ikid; 220030000 2324.7 529.2 0.0 0] [pos:Karat Ikid; 220030000 2432.6 651.6 0.0 0] [pos:Karat Ikid; 220030000 2176.0 575.8 0.0 0] [pos:Karat Ikid; 220030000 2063.3 444.0 0.0 0] [pos:Karat Ikid; 220030000 2063.3 444.0 0.0 0] [pos:Karat Ikid; 220030000 2176.0 575.8 0.0 0] [pos:Karat Ikid; 220030000 2324.7 529.2 0.0 0] [pos:Karat Ikid; 220030000 2432.6 651.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Karat Ikid",
+    "lvl": 18,
+    "hp": 2478,
+    "coords": [
+      {
+        "x": -26.178259879284823,
+        "y": 6.483999495649981
+      },
+      {
+        "x": -30.673351554492648,
+        "y": 7.945000630437525
+      },
+      {
+        "x": -32.52882359640132,
+        "y": 10.043903669146388
+      },
+      {
+        "x": -28.116273772918802,
+        "y": 8.744092800403479
+      }
+    ],
+    "ru_name": "Болтливый кролик",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210619",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Болтливый кролик",
+    "core_coord": {
+      "x": -26.178259879284823,
+      "y": 6.483999495649981
+    }
+  },
+  {
+    "id": "bluewing_210616",
+    "ingame_coords": "[pos:Bluewing; 220030000 1594.0 2413.0 0.0 0] [pos:Bluewing; 220030000 1592.7 2410.9 0.0 0] [pos:Bluewing; 220030000 1594.7 2398.2 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Bluewing",
+    "lvl": 19,
+    "hp": 3392,
+    "coords": [
+      {
+        "x": -18.08571916638196,
+        "y": 40.212205270457694
+      },
+      {
+        "x": -18.10807425122423,
+        "y": 40.24821586180809
+      }
+    ],
+    "ru_name": "Лазурный Наймас",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210616",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Лазурный Наймас",
+    "core_coord": {
+      "x": -18.08571916638196,
+      "y": 40.212205270457694
+    }
+  },
+  {
+    "id": "depthcharge_210625",
+    "ingame_coords": "[pos:Depthcharge; 220030000 2720.5 1706.5 0.0 0] [pos:Depthcharge; 220030000 2635.2 1566.2 0.0 0] [pos:Depthcharge; 220030000 2949.2 1637.1 0.0 0] [pos:Depthcharge; 220030000 2950.4 1725.4 0.0 0] [pos:Depthcharge; 220030000 2720.5 1706.5 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Depthcharge",
+    "lvl": 20,
+    "hp": 2663,
+    "coords": [
+      {
+        "x": -36.01277758797403,
+        "y": 25.72737359727651
+      },
+      {
+        "x": -37.47961507800934,
+        "y": 28.1332240574959
+      },
+      {
+        "x": -41.43302585126978,
+        "y": 28.457319379649476
+      },
+      {
+        "x": -41.41239038833845,
+        "y": 26.94315975286849
+      }
+    ],
+    "ru_name": "Смертоносная Стрея",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210625",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Смертоносная Стрея",
+    "core_coord": {
+      "x": -36.01277758797403,
+      "y": 25.72737359727651
+    }
+  },
+  {
+    "id": "gigantic_box_210582",
+    "ingame_coords": "[pos:Gigantic Box; 220030000 1743.5 508.6 0.0 0] [pos:Gigantic Box; 220030000 1743.5 508.6 0.0 0] ",
+    "type": "normal_npc",
+    "name": "Gigantic Box",
+    "lvl": 80,
+    "hp": 12000,
+    "coords": [
+      {
+        "x": -20.678909008085636,
+        "y": 7.59175387719077
+      }
+    ],
+    "ru_name": "Огромный ящик",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210582",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Огромный ящик",
+    "core_coord": {
+      "x": -20.678909008085636,
+      "y": 7.59175387719077
+    }
+  },
+  {
+    "id": "numurru_quickfist_210603",
+    "ingame_coords": "[pos:Numurru Quickfist; 220030000 1986.8 2687.8 0.0 0] [pos:Numurru Quickfist; 220030000 1986.8 2687.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Numurru Quickfist",
+    "lvl": 17,
+    "hp": 7771,
+    "coords": [
+      {
+        "x": -24.86274911741259,
+        "y": 44.96045895851721
+      }
+    ],
+    "ru_name": "Быстрая Канука",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210603",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Быстрая Канука",
+    "core_coord": {
+      "x": -24.86274911741259,
+      "y": 44.96045895851721
+    }
+  },
+  {
+    "id": "fourpoints_210605",
+    "ingame_coords": "[pos:Fourpoints; 220030000 2027.3 2314.5 0.0 0] [pos:Fourpoints; 220030000 2027.3 2314.5 0.0 0] [pos:Fourpoints; 220030000 2031.2 2314.7 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Fourpoints",
+    "lvl": 17,
+    "hp": 6083,
+    "coords": [
+      {
+        "x": -25.559195991344943,
+        "y": 38.559147648468034
+      }
+    ],
+    "ru_name": "Ясновидящий Матара",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210605",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Ясновидящий Матара",
+    "core_coord": {
+      "x": -25.559195991344943,
+      "y": 38.559147648468034
+    }
+  },
+  {
+    "id": "the_peltclaimer_210606",
+    "ingame_coords": "[pos:The Peltclaimer; 220030000 2112.6 2556.7 0.0 0] [pos:The Peltclaimer; 220030000 2112.6 2556.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "The Peltclaimer",
+    "lvl": 18,
+    "hp": 6480,
+    "coords": [
+      {
+        "x": -27.026033481380246,
+        "y": 42.712369184213834
+      }
+    ],
+    "ru_name": "Туманная Мубаба",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210606",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Туманная Мубаба",
+    "core_coord": {
+      "x": -27.026033481380246,
+      "y": 42.712369184213834
+    }
+  },
+  {
+    "id": "jahama_the_ruthless_210607",
+    "ingame_coords": "[pos:Jahama the Ruthless; 220030000 2227.7 2388.8 0.0 0] [pos:Jahama the Ruthless; 220030000 2227.8 2387.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Jahama the Ruthless",
+    "lvl": 18,
+    "hp": 5773,
+    "coords": [
+      {
+        "x": -29.005318300876887,
+        "y": 39.83323666624637
+      }
+    ],
+    "ru_name": "Кровожадная Джахамма",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210607",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Кровожадная Джахамма",
+    "core_coord": {
+      "x": -29.005318300876887,
+      "y": 39.83323666624637
+    }
+  },
+  {
+    "id": "scowl_210630",
+    "ingame_coords": "[pos:Scowl; 220030000 2150.5 2385.6 0.0 0] [pos:Scowl; 220030000 2150.5 2385.6 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Scowl",
+    "lvl": 18,
+    "hp": 8978,
+    "coords": [
+      {
+        "x": -27.677770185628056,
+        "y": 39.77836338418862
+      }
+    ],
+    "ru_name": "Дрожащий рунгак",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210630",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Дрожащий рунгак",
+    "core_coord": {
+      "x": -27.677770185628056,
+      "y": 39.77836338418862
+    }
+  },
+  {
+    "id": "chieftain_kumbaron_210548",
+    "ingame_coords": "[pos:Chieftain Kumbaron; 220030000 2460.0 2596.8 0.0 0] [pos:Chieftain Kumbaron; 220030000 2460.0 2596.8 0.0 0] [pos:Chieftain Kumbaron; 220030000 2460.0 2596.8 0.0 0] ",
+    "type": "elite_npc",
+    "name": "Chieftain Kumbaron",
+    "lvl": 20,
+    "hp": 10498,
+    "coords": [
+      {
+        "x": -33.0,
+        "y": 43.4
+      }
+    ],
+    "ru_name": "Глава клана Кумпаран",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210548",
+    "agr_radius": "6 m",
+    "ingameFindTip": "/где Глава клана Кумпаран",
+    "core_coord": {
+      "x": -33.0,
+      "y": 43.4
+    }
+  }
+]

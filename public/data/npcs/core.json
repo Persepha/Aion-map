@@ -1,0 +1,46 @@
+[
+  {
+    "id": "menotios_251001",
+    "ingame_coords": "[pos:Menotios; 400010000 1923.6 2021.4 0.0 2] ",
+    "type": "legendary_npc",
+    "name": "Menotios",
+    "lvl": 51,
+    "hp": 4418354,
+    "coords": [
+      {
+        "x": -23.50726568727935,
+        "y": 23.973092926490985
+      }
+    ],
+    "ru_name": "Циклоп Менотиос",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=251001",
+    "agr_radius": "20 m",
+    "ingameFindTip": "/где Циклоп Менотиос",
+    "core_coord": {
+      "x": -23.50726568727935,
+      "y": 23.973092926490985
+    }
+  },
+  {
+    "id": "flame_tear_brerkun_251017",
+    "ingame_coords": "[pos:Flame Tear Brerkun; 400010000 2292.3 1992.2 0.0 2] ",
+    "type": "elite_npc",
+    "name": "Flame Tear Brerkun",
+    "lvl": 50,
+    "hp": 32949,
+    "coords": [
+      {
+        "x": -23.50726568727935,
+        "y": 23.973092926490985
+      }
+    ],
+    "ru_name": "Кровавый Варкарун",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=251017",
+    "agr_radius": "15 m",
+    "ingameFindTip": "/где Кровавый Варкарун",
+    "core_coord": {
+      "x": -26.72,
+      "y": 21.5
+    }
+  }
+]

@@ -2,7 +2,8 @@
   {
     "id": "tirratirra_210302",
     "ingame_coords": "[pos:Tirratirra; 210010000 649.0 1069.0 0.0 0] [pos:Tirratirra; 210010000 636.2 1073.9 0.0 0] [pos:Tirratirra; 210010000 631.0 1068.5 0.0 0] [pos:Tirratirra; 210010000 652.5 1047.6 0.0 0] [pos:Tirratirra; 210010000 650.7 1036.4 0.0 0] [pos:Tirratirra; 210010000 644.6 1032.9 0.0 0] [pos:Tirratirra; 210010000 643.4 1033.1 0.0 0] [pos:Tirratirra; 210010000 647.5 1077.4 0.0 0] [pos:Tirratirra; 210010000 651.9 1069.4 0.0 0] [pos:Tirratirra; 210010000 645.9 1063.9 0.0 0] [pos:Tirratirra; 210010000 648.3 1071.3 0.0 0] [pos:Tirratirra; 210010000 642.6 1033.1 0.0 0] [pos:Tirratirra; 210010000 646.7 1034.4 0.0 0] [pos:Tirratirra; 210010000 623.1 1071.4 0.0 0] [pos:Tirratirra; 210010000 622.0 1068.3 0.0 0] [pos:Tirratirra; 210010000 636.5 1035.1 0.0 0] [pos:Tirratirra; 210010000 628.7 1034.6 0.0 0] ",
-    "type": "legendary_npc",
+    "type": "normal_npc",
+    "name": "Tirratirra",
     "lvl": 4,
     "hp": 497,
     "coords": [
@@ -70,12 +71,21 @@
         "x": -20.131819335194113,
         "y": 11.677768876426999
       }
-    ]
+    ],
+    "ru_name": "Одинокая Тиара",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210302",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Одинокая Тиара",
+    "core_coord": {
+      "x": -19.616848515605174,
+      "y": 11.39791708391748
+    }
   },
   {
     "id": "paruru_slowlegs_210673",
     "ingame_coords": "[pos:Paruru Slowlegs; 210010000 647.9 891.7 0.0 0] [pos:Paruru Slowlegs; 210010000 650.5 893.1 0.0 0] [pos:Paruru Slowlegs; 210010000 650.0 892.3 0.0 0] [pos:Paruru Slowlegs; 210010000 652.0 889.3 0.0 0] [pos:Paruru Slowlegs; 210010000 649.5 890.5 0.0 0] ",
-    "type": "elite_npc",
+    "type": "normal_npc",
+    "name": "Paruru Slowlegs",
     "lvl": 4,
     "hp": 383,
     "coords": [
@@ -95,12 +105,21 @@
         "x": -20.22545039330119,
         "y": 5.8826356899659515
       }
-    ]
+    ],
+    "ru_name": "Главный Фарору",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210673",
+    "agr_radius": "7 m",
+    "ingameFindTip": "/где Главный Фарору",
+    "core_coord": {
+      "x": -20.27226592235473,
+      "y": 5.763148407770878
+    }
   },
   {
     "id": "fauron_210305",
     "ingame_coords": "[pos:Fauron; 210010000 633.9 1605.0 0.0 0] [pos:Fauron; 210010000 646.9 1565.4 0.0 0] [pos:Fauron; 210010000 647.3 1495.0 0.0 0] [pos:Fauron; 210010000 653.0 1625.7 0.0 0] [pos:Fauron; 210010000 674.7 1549.0 0.0 0] [pos:Fauron; 210010000 684.5 1628.2 0.0 0] [pos:Fauron; 210010000 693.0 1568.3 0.0 0] [pos:Fauron; 210010000 679.1 1540.8 0.0 0] [pos:Fauron; 210010000 690.3 1524.3 0.0 0] [pos:Fauron; 210010000 676.1 1549.3 0.0 0] [pos:Fauron; 210010000 676.8 1553.4 0.0 0] [pos:Fauron; 210010000 678.7 1543.3 0.0 0] [pos:Fauron; 210010000 705.0 1545.2 0.0 0] [pos:Fauron; 210010000 680.5 1557.2 0.0 0] [pos:Fauron; 210010000 687.9 1538.0 0.0 0] ",
-    "type": "heroic_npc",
+    "type": "normal_npc",
+    "name": "Fauron",
     "lvl": 6,
     "hp": 804,
     "coords": [
@@ -160,12 +179,21 @@
         "x": -21.286602385181425,
         "y": 28.997135990386543
       }
-    ]
+    ],
+    "ru_name": "Пауронг Чернобородый",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210305",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Пауронг Чернобородый",
+    "core_coord": {
+      "x": -19.707358538442016,
+      "y": 28.267634688563984
+    }
   },
   {
     "id": "gatekeeper_kirrin_210307",
     "ingame_coords": "[pos:Gatekeeper Kirrin; 210010000 280.0 1451.0 0.0 0] [pos:Gatekeeper Kirrin; 210010000 279.6 1450.1 0.0 0] [pos:Gatekeeper Kirrin; 210010000 285.0 1459.6 0.0 0] [pos:Gatekeeper Kirrin; 210010000 278.5 1458.6 0.0 0] [pos:Gatekeeper Kirrin; 210010000 283.2 1434.5 0.0 0] [pos:Gatekeeper Kirrin; 210010000 286.4 1454.1 0.0 0] ",
     "type": "normal_npc",
+    "name": "Gatekeeper Kirrin",
     "lvl": 8,
     "hp": 1210,
     "coords": [
@@ -189,6 +217,14 @@
         "x": -8.662014717076882,
         "y": 23.4252553575005
       }
-    ]
+    ],
+    "ru_name": "Столетний крок",
+    "db_link": "http://aidb.ru/?aion=npc_info&id=210307",
+    "agr_radius": "8 m",
+    "ingameFindTip": "/где Столетний крок",
+    "core_coord": {
+      "x": -8.761887845724434,
+      "y": 22.90642900060084
+    }
   }
 ]
