@@ -12,12 +12,12 @@ export const Abyss: NextPage<FactionLocationsProps> = ({
     height="454"
     viewBox="0 0 430 454"
     xmlns="http://www.w3.org/2000/svg"
-    className=" bg-[url('/images/abyss/abyss.png')] bg-left bg-no-repeat"
+    className=" bg-[url('/Aion-map/images/abyss/abyss.png')] bg-left bg-no-repeat"
   >
     {abyssLocationData.map((location, index) => (
       <image
         key={index}
-        href={`/images/abyss/${location.name}.png`}
+        href={`images/abyss/${location.name}.png`}
         width={location.width}
         height={location.height}
         x={location.x}

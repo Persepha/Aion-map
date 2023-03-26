@@ -54,7 +54,7 @@ export const Map: NextPage<MapProps> = ({
           ]}
           noWrap={true}
           attribution="Aion map"
-          url={`/images/${faction}/${location}/{z}/{x}_{y}.png`}
+          url={`images/${faction}/${location}/{z}/{x}_{y}.png`}
         />
         <ZoomControl position="bottomright" />
         {gatheringMarkers.map((material, i) =>
@@ -63,7 +63,7 @@ export const Map: NextPage<MapProps> = ({
               key={material_coords.x + i + material_coords.y}
               position={[material_coords.x, material_coords.y]}
               icon={Leaflet.icon({
-                iconUrl: `/images/gathering/${material.nameIcon}.png`,
+                iconUrl: `images/gathering/${material.nameIcon}.png`,
                 iconSize: [40, 40],
               })}
             >
@@ -88,7 +88,7 @@ export const Map: NextPage<MapProps> = ({
                 key={npc.id}
                 position={[npc.core_coord.x, npc.core_coord.y]}
                 icon={Leaflet.icon({
-                  iconUrl: `/images/npc_icons/${npc.type}.png`,
+                  iconUrl: `images/npc_icons/${npc.type}.png`,
                   iconSize: [40, 40],
                 })}
               >
@@ -113,7 +113,7 @@ export const Map: NextPage<MapProps> = ({
               <Marker
                 position={[npc_coord.x, npc_coord.y]}
                 icon={Leaflet.icon({
-                  iconUrl: `/images/npc_icons/${npc.type}.png`,
+                  iconUrl: `images/npc_icons/${npc.type}.png`,
                   iconSize: [40, 40],
                 })}
               >

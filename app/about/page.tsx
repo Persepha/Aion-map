@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function AboutPage() {
   return (
-    <main className="flex h-full flex-col items-center justify-center bg-black/60 bg-[url('/images/bg.png')] bg-cover bg-center bg-no-repeat bg-blend-darken">
+    <main className="flex h-full flex-col items-center justify-center bg-black/60 bg-[url('/Aion-map/images/bg.png')] bg-cover bg-center bg-no-repeat bg-blend-darken">
       <section className="flex items-center justify-center">
         <nav
           className=" my-3 flex h-8 items-center justify-center rounded-md
@@ -20,7 +20,7 @@ export default function AboutPage() {
       <section className="h-[90%] w-[90%] p-2 xl:w-1/2">
         <div
           className=" h-full overflow-hidden rounded-md bg-black/60
-          bg-[url('/images/about1.png')] bg-right-bottom bg-no-repeat p-6 text-white"
+          bg-[url('/Aion-map/images/about1.png')] bg-right-bottom bg-no-repeat p-6 text-white"
         >
           <div className="h-[calc(100%-200px)] overflow-y-auto break-words p-2 leading-relaxed">
             <h1 className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text pb-8 text-center text-5xl font-extrabold text-transparent">

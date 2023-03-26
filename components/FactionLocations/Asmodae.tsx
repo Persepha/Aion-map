@@ -12,12 +12,12 @@ export const Asmodae: NextPage<FactionLocationsProps> = ({
     height="608"
     viewBox="0 0 768 608"
     xmlns="http://www.w3.org/2000/svg"
-    className=" bg-[url('/images/asmodae/asmodae.png')] bg-left bg-no-repeat"
+    className=" bg-[url('/Aion-map/images/asmodae/asmodae.png')] bg-left bg-no-repeat"
   >
     {asmodaeLocationData.map((location, index) => (
       <image
         key={index}
-        href={`/images/asmodae/${location.name}.png`}
+        href={`images/asmodae/${location.name}.png`}
         width={location.width}
         height={location.height}
         x={location.x}

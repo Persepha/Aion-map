@@ -20,7 +20,7 @@ export const GatheringDisclosure: NextPage<GatheringDisclosureProps> = ({
       >
         <span className="flex items-center gap-2">
           <Image
-            src={`/images/${title}.png`}
+            src={`images/${title}.png`}
             alt={title}
             width={40}
             height={40}
@@ -82,7 +82,7 @@ export const GatheringDisclosure: NextPage<GatheringDisclosureProps> = ({
                 }`}
               >
                 <Image
-                  src={`/images/gathering/${resource.nameIcon}.png`}
+                  src={`images/gathering/${resource.nameIcon}.png`}
                   alt={resource.name}
                   height={30}
                   width={30}

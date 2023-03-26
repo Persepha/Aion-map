@@ -2,7 +2,7 @@ export const metadata = {
   title: "Аион интерактивная карта",
   description: "Аион интерактивные карта. Айон карты",
   icons: {
-    icon: "/images/favicon.ico",
+    icon: "images/favicon.ico",
   },
 };
 

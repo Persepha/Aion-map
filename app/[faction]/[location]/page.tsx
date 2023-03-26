@@ -25,7 +25,7 @@ export default function Page({
   params: { location: string; faction: string };
 }) {
   const [gatheringData, gatheringError, gatheringIsLoading] =
-    useFetch<GatheringData>(`/data/gathering/${params.location}.json`);
+    useFetch<GatheringData>(`data/gathering/${params.location}.json`);
 
   const [gatheringMapMarkers, setGatheringMapMarkers] = useState<
     GatheringData[]
@@ -82,7 +82,7 @@ export default function Page({
   };
 
   const [npcsData, npcsError, npcsIsLoading] = useFetch<NPCData>(
-    `/data/npcs/${params.location}.json`
+    `data/npcs/${params.location}.json`
   );
 
   const npcsAscending = [...npcsData].sort((a, b) => a.lvl - b.lvl);
