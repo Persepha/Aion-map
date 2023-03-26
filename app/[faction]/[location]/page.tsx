@@ -9,11 +9,12 @@ import { MapSideBar } from "@/components/MapSideBar";
 import { useFetch } from "@/hooks/useFetch";
 import { getNpcTypeWeight } from "@/utils/getNpcTypeWeight";
 import { NPCData } from "@/utils/npcs/types";
+import { Loader } from "@/components/Loader";
 
 const Map = dynamic<MapProps>(
   () => import("@/components/Map").then((module) => module.Map),
   {
-    loading: () => <p>A map is loading</p>,
+    loading: () => <Loader />,
     ssr: false,
   }
 );

@@ -6,6 +6,7 @@ import {
   Polyline,
   Popup,
   TileLayer,
+  ZoomControl,
 } from "react-leaflet";
 import Leaflet, { CRS } from "leaflet";
 import "leaflet/dist/leaflet.css";
@@ -13,7 +14,6 @@ import "leaflet-defaulticon-compatibility";
 import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css";
 
 import { MapProps } from "@/components/Map/Map.props";
-import Image from "next/image";
 import { GatheringMarkerPopup } from "@/components/GatheringMarkerPopup";
 import { NpcMarkerPopup } from "@/components/NpcMarkerPopup";
 
@@ -49,6 +49,8 @@ export const Map: NextPage<MapProps> = ({
           attribution="Aion map"
           url={`/images/${faction}/${location}/{z}/{x}_{y}.png`}
         />
+
+        <ZoomControl position="bottomright" />
 
         {/*<Marker position={[-11.6, 44.2]}></Marker>*/}
 
