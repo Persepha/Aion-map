@@ -72,10 +72,38 @@ export const MapSideBar: NextPage<MapSideBarProps> = ({
             </svg>
           )}
         </button>
+
         <FactionBreadcrumbs
           faction={selectedFaction}
           location={selectedLocation}
         />
+        <Link
+          href={"/about"}
+          className="text-white transition duration-150 ease-in-out
+              hover:text-slate-400 focus:text-slate-400 active:text-amber-900"
+        >
+          <button
+            className="inline-flex h-8 w-8 justify-center rounded-md  border-transparent bg-black/50
+          px-1 py-1 shadow-sm transition duration-300 ease-in-out hover:scale-105 hover:bg-black/90
+          supports-[backdrop-filter]:backdrop-blur-xl"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="#ffffff"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <circle cx="12" cy="12" r="10"></circle>
+              <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+              <line x1="12" y1="17" x2="12.01" y2="17"></line>
+            </svg>
+          </button>
+        </Link>
       </section>
 
       <nav

@@ -57,7 +57,6 @@ export const Map: NextPage<MapProps> = ({
           url={`/images/${faction}/${location}/{z}/{x}_{y}.png`}
         />
         <ZoomControl position="bottomright" />
-        {/*<Marker position={[-11.6, 44.2]}></Marker>*/}
         {gatheringMarkers.map((material, i) =>
           material.coords.map((material_coords) => (
             <Marker
@@ -75,9 +74,6 @@ export const Map: NextPage<MapProps> = ({
                     changeGatheringMaterialVisibility
                   }
                 />
-                <p className="text-white">
-                  {material_coords.x} {material_coords.y}
-                </p>
               </Popup>
               <Tooltip>
                 <MarkerTooiltip title={material.ru_name} />
@@ -85,26 +81,6 @@ export const Map: NextPage<MapProps> = ({
             </Marker>
           ))
         )}
-        {/*{npcsData.map((npc) => (*/}
-        {/*  <Marker*/}
-        {/*    key={npc.id}*/}
-        {/*    position={[npc.core_coord.x, npc.core_coord.y]}*/}
-        {/*    icon={Leaflet.icon({*/}
-        {/*      iconUrl: `/images/npc_icons/${npc.type}.png`,*/}
-        {/*      iconSize: [40, 40],*/}
-        {/*    })}*/}
-        {/*  >*/}
-        {/*    <Popup>*/}
-        {/*      <NpcMarkerPopup*/}
-        {/*        changeNpcVisibility={changeNpcVisibility}*/}
-        {/*        npc={npc}*/}
-        {/*      />*/}
-        {/*    </Popup>*/}
-        {/*    <Tooltip>*/}
-        {/*      <MarkerTooiltip title={npc.ru_name} />*/}
-        {/*    </Tooltip>*/}
-        {/*  </Marker>*/}
-        {/*))}*/}
         {npcsData.map((npc) => {
           if (!isNpcFullSpawnInfo(npc.id)) {
             return (
@@ -163,62 +139,8 @@ export const Map: NextPage<MapProps> = ({
               />
             </Fragment>
           ));
-          // if (isNpcFullSpawnInfo(npc.id)) {
-          //   npc.coords.map((npc_coord, i) => (
-          //     <Marker
-          //       key={npc_coord.x + i + npc_coord.y}
-          //       position={[npc_coord.x, npc_coord.y]}
-          //       icon={Leaflet.icon({
-          //         iconUrl: `/images/npc_icons/${npc.type}.png`,
-          //         iconSize: [40, 40],
-          //       })}
-          //     >
-          //       <Popup>
-          //         <NpcMarkerPopup
-          //           changeNpcVisibility={changeNpcVisibility}
-          //           npc={npc}
-          //         />
-          //       </Popup>
-          //       <Tooltip>
-          //         <MarkerTooiltip title={npc.ru_name} />
-          //       </Tooltip>
-          //     </Marker>
-          //   ));
         })}
-        ;{/*{npcsData.map((npc) =>*/}
-        {/*  npc.coords.map((npc_coord, i) => (*/}
-        {/*    <Marker*/}
-        {/*      key={npc_coord.x + i + npc_coord.y}*/}
-        {/*      position={[npc_coord.x, npc_coord.y]}*/}
-        {/*      icon={Leaflet.icon({*/}
-        {/*        iconUrl: `/images/npc_icons/${npc.type}.png`,*/}
-        {/*        iconSize: [40, 40],*/}
-        {/*      })}*/}
-        {/*    >*/}
-        {/*      <Popup>*/}
-        {/*        <NpcMarkerPopup*/}
-        {/*          changeNpcVisibility={changeNpcVisibility}*/}
-        {/*          npc={npc}*/}
-        {/*        />*/}
-        {/*      </Popup>*/}
-        {/*      <Tooltip>*/}
-        {/*        <MarkerTooiltip title={npc.ru_name} />*/}
-        {/*      </Tooltip>*/}
-        {/*    </Marker>*/}
-        {/*  ))*/}
-        {/*)}*/}
-        {/*{npcsData.map((npc) =>*/}
-        {/*  npc.coords.map((npc_coord, i) => (*/}
-        {/*    <Polyline*/}
-        {/*      key={npc.core_coord.x + i + npc.core_coord.y}*/}
-        {/*      positions={[*/}
-        {/*        [npc.core_coord.x, npc.core_coord.y],*/}
-        {/*        [npc_coord.x, npc_coord.y],*/}
-        {/*      ]}*/}
-        {/*      pathOptions={{ color: "lime", opacity: 0.2 }}*/}
-        {/*    />*/}
-        {/*  ))*/}
-        {/*)}*/}
+        ;
       </MapContainer>
     </section>
   );

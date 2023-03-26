@@ -8,10 +8,6 @@ export const FactionBreadcrumbs: NextPage<FactionBreadcrumbsProps> = ({
   location,
 }) => {
   return (
-    // <nav
-    //   className=" my-3 flex h-8 items-center justify-center rounded-md
-    //       border border-slate-50/[0.06] bg-zinc-700 px-2 shadow-sm"
-    // >
     <nav
       className=" my-3 flex h-8 items-center justify-center rounded-md
           border border-slate-50/[0.06] bg-black/50 px-2 shadow-sm supports-[backdrop-filter]:backdrop-blur-xl"
