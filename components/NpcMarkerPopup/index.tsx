@@ -14,7 +14,7 @@ export const NpcMarkerPopup: NextPage<NpcMarkerPopupProps> = ({
         <h2 className="text-xl font-bold">{npc.ru_name}</h2>
       </section>
       <Image
-        src={`images/npcs/${npc.id}.png`}
+        src={`/images/npcs/${npc.id}.png`}
         alt={npc.id}
         height={300}
         width={300}
@@ -23,7 +23,7 @@ export const NpcMarkerPopup: NextPage<NpcMarkerPopupProps> = ({
       <section className="flex flex-col">
         <div className="mb-5 flex items-center gap-2">
           <Image
-            src={`images/npc_icons/${npc.type}.png`}
+            src={`/images/npc_icons/${npc.type}.png`}
             alt={npc.type}
             height={60}
             width={50}

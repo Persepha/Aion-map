@@ -11,7 +11,7 @@ export const GatheringMarkerPopup: NextPage<GatheringMarkerPopupProps> = ({
     <article className="w-72 text-base text-white">
       <div className="flex items-center gap-2">
         <Image
-          src={`images/gathering/${material.nameIcon}.png`}
+          src={`/images/gathering/${material.nameIcon}.png`}
           alt={material.name}
           height={40}
           width={40}

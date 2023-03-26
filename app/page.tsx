@@ -10,7 +10,7 @@ export default function Page() {
   const [currentLocation, setCurrentLocation] = useState<string>("");
 
   return (
-    <main className="flex h-full flex-col  bg-black/60  bg-[url('/Aion-map/images/bg.png')] bg-cover bg-center bg-no-repeat bg-blend-darken">
+    <main className="flex h-full flex-col  bg-black/60  bg-[url('/images/bg.png')] bg-cover bg-center bg-no-repeat bg-blend-darken">
       <section className="relative z-10 flex grow items-center justify-center overflow-hidden">
         <div className="overflow-auto">
           <svg
@@ -20,7 +20,7 @@ export default function Page() {
             xmlns="http://www.w3.org/2000/svg"
           >
             <image
-              href="images/elyos.png"
+              href="/images/elyos.png"
               width="212"
               height="216"
               x="400"
@@ -31,7 +31,7 @@ export default function Page() {
             />
 
             <image
-              href="images/asmodian.png"
+              href="/images/asmodian.png"
               width="212"
               height="216"
               x="-40"
@@ -43,7 +43,7 @@ export default function Page() {
               }`}
             />
             <image
-              href="images/atrea/atrea.png"
+              href="/images/atrea/atrea.png"
               width="566"
               height="600"
               x="0"
@@ -52,7 +52,7 @@ export default function Page() {
             {atreaLocationData.map((location, index) => (
               <image
                 key={index}
-                href={`images/atrea/${location.name}.png`}
+                href={`/images/atrea/${location.name}.png`}
                 width={location.width}
                 height={location.height}
                 x={location.x}

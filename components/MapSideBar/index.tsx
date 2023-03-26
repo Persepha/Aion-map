@@ -115,7 +115,7 @@ export const MapSideBar: NextPage<MapSideBarProps> = ({
       >
         <Link href={"/"}>
           <Image
-            src="images/aion_logo.png"
+            src="/images/aion_logo.png"
             alt="aion-logo"
             width="513"
             height="163"

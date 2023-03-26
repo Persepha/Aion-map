@@ -5,8 +5,6 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-  basePath: "/Aion-map",
-  assetPrefix: "/Aion-map/",
 };
 
 module.exports = nextConfig;

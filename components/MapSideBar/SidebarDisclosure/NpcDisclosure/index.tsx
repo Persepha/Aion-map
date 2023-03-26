@@ -16,17 +16,16 @@ export const NpcDisclosure: NextPage<NpcDisclosureProps> = ({
 
   switch (npcType) {
     case "normal_npc":
-      npcTypeHpBar = "bg-[url('/Aion-map/images/npc_hp_bars/normal_npc.png')]";
+      npcTypeHpBar = "bg-[url('/images/npc_hp_bars/normal_npc.png')]";
       break;
     case "elite_npc":
-      npcTypeHpBar = "bg-[url('/Aion-map/images/npc_hp_bars/elite_npc.png')]";
+      npcTypeHpBar = "bg-[url('/images/npc_hp_bars/elite_npc.png')]";
       break;
     case "heroic_npc":
-      npcTypeHpBar = "bg-[url('/Aion-map/images/npc_hp_bars/heroic_npc.png')]";
+      npcTypeHpBar = "bg-[url('/images/npc_hp_bars/heroic_npc.png')]";
       break;
     case "legendary_npc":
-      npcTypeHpBar =
-        "bg-[url('/Aion-map/images/npc_hp_bars/legendary_npc.png')]";
+      npcTypeHpBar = "bg-[url('/images/npc_hp_bars/legendary_npc.png')]";
       break;
   }
 
@@ -38,7 +37,7 @@ export const NpcDisclosure: NextPage<NpcDisclosureProps> = ({
         }`}
       >
         <Image
-          src={`images/npc_icons/${npcType}.png`}
+          src={`/images/npc_icons/${npcType}.png`}
           alt={npcType}
           width={npcData[npcType as keyof typeof npcData].width}
           height={npcData[npcType as keyof typeof npcData].height}
@@ -85,7 +84,7 @@ export const NpcDisclosure: NextPage<NpcDisclosureProps> = ({
               onClick={() => changeNpcsTypeVisibility(npcType)}
             >
               <Image
-                src={`images/npc_icons/${npcType}.png`}
+                src={`/images/npc_icons/${npcType}.png`}
                 alt={npcType}
                 width={30}
                 height={30}

@@ -42,7 +42,7 @@ export default function FactionPage({
   };
 
   return (
-    <main className="flex h-full flex-col bg-black/60  bg-[url('/Aion-map/images/bg.png')] bg-cover bg-center bg-no-repeat bg-blend-darken">
+    <main className="flex h-full flex-col bg-black/60  bg-[url('/images/bg.png')] bg-cover bg-center bg-no-repeat bg-blend-darken">
       <section className="flex items-center justify-center">
         <FactionBreadcrumbs faction={params.faction} />
       </section>
