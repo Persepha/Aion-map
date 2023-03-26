@@ -10,7 +10,6 @@ import { useFetch } from "@/hooks/useFetch";
 import { getNpcTypeWeight } from "@/utils/getNpcTypeWeight";
 import { NPCData } from "@/utils/npcs/types";
 import { Loader } from "@/components/Loader";
-import { npcData } from "@/utils/npcs/consts";
 
 const Map = dynamic<MapProps>(
   () => import("@/components/Map").then((module) => module.Map),
@@ -112,6 +111,22 @@ export default function Page({
     return !npcs.filter((npc) => npc.type === npcType).length;
   };
 
+  const [npcsIdFullSpawnInfo, setNpcsIdFullSpawnInfo] = useState<string[]>([]);
+
+  const isNpcFullSpawnInfo = (npcId: string) => {
+    return npcsIdFullSpawnInfo.includes(npcId);
+  };
+
+  const changeNpcFullSpawnInfoVisibility = (npcId: string) => {
+    npcsIdFullSpawnInfo.includes(npcId)
+      ? setNpcsIdFullSpawnInfo(
+          npcsIdFullSpawnInfo.filter(
+            (npcFullSpawnId) => npcFullSpawnId !== npcId
+          )
+        )
+      : setNpcsIdFullSpawnInfo([...npcsIdFullSpawnInfo, npcId]);
+  };
+
   const changeNpcsTypeVisibility = (npcType: string) => {
     // if there are no npcs of the selected npcType
     // then show all npcs of the selected npcType
@@ -171,6 +186,8 @@ export default function Page({
         faction={params.faction}
         changeNpcVisibility={changeNpcVisibility}
         changeGatheringMaterialVisibility={changeGatheringMaterialVisibility}
+        changeNpcFullSpawnInfoVisibility={changeNpcFullSpawnInfoVisibility}
+        isNpcFullSpawnInfo={isNpcFullSpawnInfo}
       />
     </>
   );

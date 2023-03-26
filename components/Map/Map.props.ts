@@ -8,4 +8,6 @@ export interface MapProps {
   npcsData: NPCData[];
   changeGatheringMaterialVisibility(materialId: string): void;
   changeNpcVisibility(npcId: string): void;
+  changeNpcFullSpawnInfoVisibility(npcId: string): void;
+  isNpcFullSpawnInfo(npcId: string): boolean;
 }

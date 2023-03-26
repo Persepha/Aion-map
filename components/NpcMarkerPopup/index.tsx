@@ -6,6 +6,7 @@ import { MarkerPopupButton } from "@/components/UI/MarkerPopupButton";
 export const NpcMarkerPopup: NextPage<NpcMarkerPopupProps> = ({
   npc,
   changeNpcVisibility,
+  changeNpcFullSpawnInfoVisibility,
 }) => {
   return (
     <article className="w-72 text-base text-white">
@@ -79,7 +80,9 @@ export const NpcMarkerPopup: NextPage<NpcMarkerPopupProps> = ({
       </section>
 
       <section className="flex gap-2">
-        <MarkerPopupButton>
+        <MarkerPopupButton
+          onClick={() => changeNpcFullSpawnInfoVisibility(npc.id)}
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="20"
