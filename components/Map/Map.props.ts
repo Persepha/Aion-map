@@ -6,4 +6,6 @@ export interface MapProps {
   faction: string;
   gatheringMarkers: GatheringData[];
   npcsData: NPCData[];
+  changeGatheringMaterialVisibility(materialId: string): void;
+  changeNpcVisibility(npcId: string): void;
 }

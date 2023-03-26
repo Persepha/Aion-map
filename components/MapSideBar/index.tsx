@@ -7,20 +7,24 @@ import Link from "next/link";
 
 import { MapSideBarProps } from "@/components/MapSideBar/MapSideBar.props";
 import { GatheringDisclosure } from "@/components/MapSideBar/SidebarDisclosure/GatheringDisclosure";
-import { npcData } from "@/utils/npcs/consts";
 import { FactionBreadcrumbs } from "@/components/FactionBreadcrumbs";
+import { NpcDisclosure } from "@/components/MapSideBar/SidebarDisclosure/NpcDisclosure";
 
 export const MapSideBar: NextPage<MapSideBarProps> = ({
   essencetappingData,
   aethertapingData,
   locationNpcTypes,
   changeGatheringMaterialVisibility,
+  npcsData,
+  isNpcTypeHidden,
+  isNpcHidden,
+  changeNpcVisibility,
   changeNpcsTypeVisibility,
   isGatheringMaterialHidden,
   selectedFaction,
   selectedLocation,
 }) => {
-  const [navVisibility, setNavVisibility] = useState<boolean>(false);
+  const [navVisibility, setNavVisibility] = useState<boolean>(true);
 
   return (
     <header className="relative inset-0 z-[9000] inline-block flex items-center justify-between">
@@ -95,45 +99,16 @@ export const MapSideBar: NextPage<MapSideBarProps> = ({
 
         <ul>
           {locationNpcTypes.map((npcType, index) => {
-            let npcTypeHpBar = "";
-            switch (npcType) {
-              case "normal_npc":
-                npcTypeHpBar = "bg-[url('/images/npc_hp_bars/normal_npc.png')]";
-                break;
-              case "elite_npc":
-                npcTypeHpBar = "bg-[url('/images/npc_hp_bars/elite_npc.png')]";
-                break;
-              case "heroic_npc":
-                npcTypeHpBar = "bg-[url('/images/npc_hp_bars/heroic_npc.png')]";
-                break;
-              case "legendary_npc":
-                npcTypeHpBar =
-                  "bg-[url('/images/npc_hp_bars/legendary_npc.png')]";
-                break;
-            }
             return (
-              <li key={index}>
-                <button
-                  className="group flex items-center gap-4"
-                  onClick={() => changeNpcsTypeVisibility(npcType)}
-                >
-                  <Image
-                    src={`/images/npc_icons/${npcType}.png`}
-                    alt={npcType}
-                    width={npcData[npcType as keyof typeof npcData].width}
-                    height={npcData[npcType as keyof typeof npcData].height}
-                  />
-                  <div
-                    className={`flex h-[100px] w-[272px]
-                    justify-center transition duration-150 ease-in-out ${npcTypeHpBar}
-                    bg-contain bg-center bg-no-repeat font-medium text-white group-hover:scale-105`}
-                  >
-                    <span className="ml-8 capitalize drop-shadow-[0_2px_10px_rgba(0,0,0,0.8)]">
-                      {npcData[npcType as keyof typeof npcData].name}
-                    </span>
-                  </div>
-                </button>
-              </li>
+              <NpcDisclosure
+                npcsData={npcsData}
+                npcType={npcType}
+                isNpcHidden={isNpcHidden}
+                changeNpcVisibility={changeNpcVisibility}
+                changeNpcsTypeVisibility={changeNpcsTypeVisibility}
+                isNpcTypeHidden={isNpcTypeHidden}
+                key={index}
+              />
             );
           })}
         </ul>

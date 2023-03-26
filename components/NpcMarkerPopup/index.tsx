@@ -3,7 +3,10 @@ import { NpcMarkerPopupProps } from "@/components/NpcMarkerPopup/NpcMarkerPopup.
 import Image from "next/image";
 import { MarkerPopupButton } from "@/components/UI/MarkerPopupButton";
 
-export const NpcMarkerPopup: NextPage<NpcMarkerPopupProps> = ({ npc }) => {
+export const NpcMarkerPopup: NextPage<NpcMarkerPopupProps> = ({
+  npc,
+  changeNpcVisibility,
+}) => {
   return (
     <article className="w-72 text-base text-white">
       <section className="flex items-center justify-center">
@@ -54,6 +57,9 @@ export const NpcMarkerPopup: NextPage<NpcMarkerPopupProps> = ({ npc }) => {
         <button
           className="absolute right-1 top-1 inline-flex h-[30px] items-center justify-center rounded-md border border-slate-50/[0.06]
           bg-zinc-700 px-1 py-1 shadow-sm transition duration-300 ease-in-out hover:scale-105 hover:bg-zinc-900"
+          onClick={() => {
+            navigator.clipboard.writeText(npc.ingameFindTip);
+          }}
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -89,7 +95,11 @@ export const NpcMarkerPopup: NextPage<NpcMarkerPopupProps> = ({ npc }) => {
             <circle cx="12" cy="12" r="3"></circle>
           </svg>
         </MarkerPopupButton>
-        <MarkerPopupButton>
+        <MarkerPopupButton
+          onClick={() => {
+            navigator.clipboard.writeText(npc.ingame_coords);
+          }}
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="20"
@@ -105,7 +115,7 @@ export const NpcMarkerPopup: NextPage<NpcMarkerPopupProps> = ({ npc }) => {
             <rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect>
           </svg>
         </MarkerPopupButton>
-        <MarkerPopupButton>
+        <MarkerPopupButton onClick={() => changeNpcVisibility(npc.id)}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="20"

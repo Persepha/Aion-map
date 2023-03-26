@@ -10,6 +10,7 @@ import { useFetch } from "@/hooks/useFetch";
 import { getNpcTypeWeight } from "@/utils/getNpcTypeWeight";
 import { NPCData } from "@/utils/npcs/types";
 import { Loader } from "@/components/Loader";
+import { npcData } from "@/utils/npcs/consts";
 
 const Map = dynamic<MapProps>(
   () => import("@/components/Map").then((module) => module.Map),
@@ -85,16 +86,54 @@ export default function Page({
     `/data/npcs/${params.location}.json`
   );
 
+  const npcsAscending = [...npcsData].sort((a, b) => a.lvl - b.lvl);
+
   const [npcs, setNpcs] = useState<NPCData[]>([]);
 
-  const [hiddenNpcTypes, setHiddenNpcTypes] = useState<string[]>([]);
+  const [hiddenNpcsId, setHiddenNpcsId] = useState<string[]>([]);
+
+  useEffect(() => {
+    setNpcs(npcsData.filter((npc) => !hiddenNpcsId.includes(npc.id)));
+  }, [hiddenNpcsId]);
+
+  const changeNpcVisibility = (npcId: string) => {
+    hiddenNpcsId.includes(npcId)
+      ? setHiddenNpcsId(
+          hiddenNpcsId.filter((hiddenNpcsId) => hiddenNpcsId !== npcId)
+        )
+      : setHiddenNpcsId([...hiddenNpcsId, npcId]);
+  };
+
+  const isNpcHidden = (npcId: string) => {
+    return hiddenNpcsId.includes(npcId);
+  };
+
+  const isNpcTypeHidden = (npcType: string) => {
+    return !npcs.filter((npc) => npc.type === npcType).length;
+  };
 
   const changeNpcsTypeVisibility = (npcType: string) => {
-    hiddenNpcTypes.includes(npcType)
-      ? setHiddenNpcTypes(
-          hiddenNpcTypes.filter((hiddenNpcType) => hiddenNpcType !== npcType)
-        )
-      : setHiddenNpcTypes([...hiddenNpcTypes, npcType]);
+    // if there are no npcs of the selected npcType
+    // then show all npcs of the selected npcType
+    // otherwise, hide all selected npcs of the selected npcType
+    if (!npcs.filter((npc) => npc.type === npcType).length) {
+      const hiddenTypeIds = npcsData
+        .filter((npc) => npc.type === npcType)
+        .map((npc) => npc.id);
+
+      setHiddenNpcsId(
+        hiddenNpcsId.filter((npcId) => !hiddenTypeIds.includes(npcId))
+      );
+    } else {
+      setHiddenNpcsId([
+        ...hiddenNpcsId,
+        ...npcsData
+          .filter(
+            (npc) => npc.type === npcType && !hiddenNpcsId.includes(npc.id)
+          )
+          .map((npc) => npc.id),
+      ]);
+    }
   };
 
   const [locationNpcTypes, setLocationNpcTypes] = useState<string[]>([]);
@@ -105,10 +144,6 @@ export default function Page({
       setLocationNpcTypes(Array.from(new Set(npcsData.map((npc) => npc.type))));
   }, [npcsData]);
 
-  useEffect(() => {
-    setNpcs(npcsData.filter((npc) => !hiddenNpcTypes.includes(npc.type)));
-  }, [hiddenNpcTypes]);
-
   const locationNpcTypesAscending = [...locationNpcTypes].sort(
     (a, b) => getNpcTypeWeight(a) - getNpcTypeWeight(b)
   );
@@ -118,10 +153,14 @@ export default function Page({
       <MapSideBar
         essencetappingData={essencetappingMaterialsAscending}
         aethertapingData={aethertapingMaterialsAscending}
+        npcsData={npcsAscending}
         locationNpcTypes={locationNpcTypesAscending}
         changeGatheringMaterialVisibility={changeGatheringMaterialVisibility}
         changeNpcsTypeVisibility={changeNpcsTypeVisibility}
+        changeNpcVisibility={changeNpcVisibility}
         isGatheringMaterialHidden={isGatheringMaterialHidden}
+        isNpcTypeHidden={isNpcTypeHidden}
+        isNpcHidden={isNpcHidden}
         selectedFaction={params.faction}
         selectedLocation={params.location}
       />
@@ -130,6 +169,8 @@ export default function Page({
         npcsData={npcs}
         location={params.location}
         faction={params.faction}
+        changeNpcVisibility={changeNpcVisibility}
+        changeGatheringMaterialVisibility={changeGatheringMaterialVisibility}
       />
     </>
   );

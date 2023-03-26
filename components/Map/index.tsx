@@ -7,6 +7,7 @@ import {
   Popup,
   TileLayer,
   ZoomControl,
+  Tooltip,
 } from "react-leaflet";
 import Leaflet, { CRS } from "leaflet";
 import "leaflet/dist/leaflet.css";
@@ -16,12 +17,15 @@ import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility
 import { MapProps } from "@/components/Map/Map.props";
 import { GatheringMarkerPopup } from "@/components/GatheringMarkerPopup";
 import { NpcMarkerPopup } from "@/components/NpcMarkerPopup";
+import { MarkerTooiltip } from "@/components/MarkerTooiltip";
 
 export const Map: NextPage<MapProps> = ({
   location,
   faction,
   gatheringMarkers,
   npcsData,
+  changeNpcVisibility,
+  changeGatheringMaterialVisibility,
 }) => {
   return (
     <section className="z-[1000] h-full w-full">
@@ -65,11 +69,19 @@ export const Map: NextPage<MapProps> = ({
               })}
             >
               <Popup>
-                <GatheringMarkerPopup material={material} />
+                <GatheringMarkerPopup
+                  material={material}
+                  changeGatheringMaterialVisibility={
+                    changeGatheringMaterialVisibility
+                  }
+                />
                 <p className="text-white">
                   {material_coords.x} {material_coords.y}
                 </p>
               </Popup>
+              <Tooltip>
+                <MarkerTooiltip title={material.ru_name} />
+              </Tooltip>
             </Marker>
           ))
         )}
@@ -84,8 +96,14 @@ export const Map: NextPage<MapProps> = ({
             })}
           >
             <Popup>
-              <NpcMarkerPopup npc={npc} />
+              <NpcMarkerPopup
+                changeNpcVisibility={changeNpcVisibility}
+                npc={npc}
+              />
             </Popup>
+            <Tooltip>
+              <MarkerTooiltip title={npc.ru_name} />
+            </Tooltip>
           </Marker>
         ))}
 

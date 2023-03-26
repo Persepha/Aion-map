@@ -68,3 +68,8 @@ html, body {
 .leaflet-popup-close-button {
   color: white !important;
 }
+
+.leaflet-tooltip {
+  background: hsl(0 0% 0% / 0.75) !important;
+  border: transparent !important;
+}
